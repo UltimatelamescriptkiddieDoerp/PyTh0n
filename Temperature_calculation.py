@@ -17,4 +17,4 @@ if __name__ == '__main__':
         C = get_temperature()
         print('Das sind ' + str(convert_to_kelvin(C)) + ' Kelvin')
 
-# Abschluss
+# Fertig

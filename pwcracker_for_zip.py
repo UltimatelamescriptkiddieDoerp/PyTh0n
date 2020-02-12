@@ -4,6 +4,8 @@ import string
 from threading import Thread
 import traceback
 
+print("Starte Vorgang")
+
 def crack(zip, pwd):
     try:
         zip.extractall(pwd=str.encode(pwd))
@@ -11,9 +13,9 @@ def crack(zip, pwd):
     except Exception:
         pass
 
-zipFile = zipfile.zipFile(" #hier den Dateipfad einfuegen")
+zipFile = zipfile.ZipFile("/home/doerpi/Downloads/crackmeZIP.zip")
 myLetters = string.ascii_letters + string.digits + string.punctuation
 for i in range(3,30):
-    for j in map(''.join, itertools.products('myLetters, repeat=i')):
+    for j in map(''.join, itertools.product('myLetters, repeat=i')):
         t = Thread(target=crack, args=(zipFile, j))
         t.start()

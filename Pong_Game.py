@@ -99,3 +99,5 @@ while leben>0:
     pygame.time.wait(5)
 
 print("hahaha you are an Idiot")
+
+#Finish!

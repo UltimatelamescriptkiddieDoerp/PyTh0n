@@ -5,10 +5,10 @@ import threading
 from threading import Thread
 import traceback
 
-zipFile = zipfile.ZipFile("")       #Hier den Dateipfad inkl. Datei + Dateiendung einfuegen
+zipFile = zipfile.ZipFile("/home/doerpi/Downloads/crackmeZIP.zip")       #Hier den Dateipfad inkl. Datei + Dateiendung einfuegen
 
 
-def bruteforce()
+def bruteforce():
     myLetters = string.ascii_letters + string.digits + string.punctuation
     for i in range(3,30):
         for j in map(''.join, itertools.product(myLetters, repeat=i)):
@@ -16,11 +16,13 @@ def bruteforce()
             t.start()
 
 def dictionary():
-    passwords = open("mypwlist.txt")   #hier die zu nuztende PWListe eintragen
+    passwords = open("/home/doerpi/Downloads/mypwlist")   #hier die zu nuztende PWListe eintragen
     for line in passwords.readlines():
         pwd = line.strip('\n')
         t = Thread(target=crack, args=(zipFile, pwd))
         t.start()
+        if threading.active_count() > 500:
+                t.join()
 
 def crack(zip, pwd):
     try:

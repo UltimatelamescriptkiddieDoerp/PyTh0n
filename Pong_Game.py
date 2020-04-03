@@ -100,4 +100,4 @@ while leben>0:
 
 print("hahaha you are an Idiot")
 
-#Finish!
+#Finish!!

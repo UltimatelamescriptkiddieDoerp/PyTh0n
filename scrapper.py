@@ -4,9 +4,9 @@ from requests import get
 from time import sleep
 import xlsxwriter
 
-search = input("What do you want to search? ")
-filename = input("Enter file name: ")
-pages = int(input("Enter number of pages you want to scrap: "))
+search = input("Wonach soll ich suchen ")
+filename = input("Wie soll die Excel heißen: ")
+pages = int(input("Wie viele Seiten soll ich durchsuchen: "))
 
 driver = webdriver.Chrome(executable_path=r"C:\Users\dross\Documents\GitHub\PyTh0n\chromedriver.exe")
 
@@ -14,7 +14,7 @@ driver.maximize_window()
 driver.get("https://www.spreadshirt.de/")
 
 driver.find_element_by_xpath("//input[@id='header-search-input']").send_keys(f"{search}")
-input("Can i proceed? ")
+input("Sind wir soweit? ")
 driver.find_element_by_xpath("//div[@id='header-search-submit']").click()
 sleep(2)
 

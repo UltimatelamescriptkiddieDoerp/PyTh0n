@@ -4,7 +4,7 @@ from requests import get
 from time import sleep
 import xlsxwriter
 
-search = input("Wonach soll ich suchen ")
+search = input("Wonach soll ich suchen: ")
 filename = input("Wie soll die Excel heißen: ")
 pages = int(input("Wie viele Seiten soll ich durchsuchen: "))
 

@@ -1,0 +1,5156 @@
+Skip to main content
+ 
+Search
+ UPLOAD
+ SIGN UP | LOG IN
+ 
+ 
+ 
+ 
+ 
+ABOUT BLOG PROJECTS HELP DONATE  CONTACT JOBS VOLUNTEER PEOPLE
+ Search Metadata
+ Search text contents
+ Search TV news captions
+ Search radio transcripts
+ Search archived websites
+Advanced Search
+Sign up for free
+Log in
+Full text of "Romeo und Julia"
+See other formats
+The Project Gutenberg EBook of Romeo und Julia, by William Shakespeare
+(#16 in our series by William Shakespeare)
+
+Copyright laws are changing all over the world. Be sure to check the
+copyright laws for your country before downloading or redistributing
+this or any other Project Gutenberg eBook.
+
+This header should be the first thing seen when viewing this Project
+Gutenberg file.  Please do not remove it.  Do not change or edit the
+header without written permission.
+
+Please read the "legal small print," and other information about the
+eBook and Project Gutenberg at the bottom of this file.  Included is
+important information about your specific rights and restrictions in
+how the file may be used.  You can also find out about how to make a
+donation to Project Gutenberg, and how to get involved.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**eBooks Readable By Both Humans and By Computers, Since 1971**
+
+*****These eBooks Were Prepared By Thousands of Volunteers!*****
+
+
+Title: Romeo und Julia
+
+Author: William Shakespeare
+
+Release Date: November, 2004  [EBook #6996]
+[This file was first posted on February 20, 2003]
+
+Edition: 10
+
+Language: German
+
+Character set encoding: ASCII
+
+*** START OF THE PROJECT GUTENBERG EBOOK, ROMEO UND JULIA ***
+
+
+
+
+Thanks are given to Delphine Lettau for finding a huge collection of ancient
+German books in London.
+
+
+
+This Etext is in German.
+
+We are releasing two versions of this Etext, one in 7-bit format,
+known as Plain Vanilla ASCII, which can be sent via plain email--
+and one in 8-bit format, which includes higher order characters--
+which requires a binary transfer, or sent as email attachment and
+may require more specialized programs to display the accents.
+This is the 7-bit version.
+
+This book content was graciously contributed by the Gutenberg Projekt-DE.
+That project is reachable at the web site http://gutenberg2000.de.
+
+Dieses Buch wurde uns freundlicherweise vom "Gutenberg Projekt-DE"
+zur Verfuegung gestellt.  Das Projekt ist unter der Internet-Adresse
+http://gutenberg2000.de erreichbar.
+
+
+
+
+Romeo und Julia
+
+William Shakespeare
+
+Uebersetzt von August Wilhelm von Schlegel
+
+
+PERSONEN
+
+ESCALUS, Prinz von Verona
+
+[GRAF] PARIS, ein junger Edelmann, Verwandter des Prinzen
+
+MONTAGUE und CAPULET } Haeupter zweier Haeuser, welche in Zwist
+miteinander sind
+
+[Ein andrer CAPULET, des Vorigen Verwandter] Ein alter Mann,
+ein Onkel von Capulet
+
+ROMEO, Montagues Sohn
+
+MERCUTIO, Verwandter des Prinzen und Romeos Freund
+
+BENVOLIO, Montagues Neffe und Romeos Freund
+
+TYBALT, Neffe der Graefin Capulet
+
+Bruder LORENZO, ein Franziskaner
+
+Bruder MARKUS, von demselben Orden
+
+ABRAHAM, Diener im Hause Montague
+
+BALTHASAR, Romeos Diener
+
+[SIMSON, GREGORIO, PETER und andere DIENER im Hause Capulet]
+
+SIMSON, Diener des Capulet
+
+GREGORIO, Diener des Capulet
+
+PETER, Diener von Julias Amme
+
+Drei MUSIKANTEN
+
+Ein PAGE des Paris; ein weiterer Page
+
+Ein APOTHEKER
+
+CHORUS
+
+Ein Offizier
+
+Graefin MONTAGUE, Ehefrau des Montague
+
+Graefin CAPULET, Ehefrau des Capulet
+
+JULIA, Capulets Tochter
+
+[WAeRTERIN, frueher] Juliens Amme
+
+Buerger von Verona.  Verschiedene Maenner und Frauen, Verwandte
+beider Haeuser.
+
+Masken, Garde, Waechter, Gefolge
+
+
+Die Szene ist den groessten Teil des Stuecks hindurch in Verona;
+zu Anfange des fuenften Aktes in Mantua
+
+
+
+PROLOG
+
+
+(Der Chorus tritt auf.)
+
+CHORUS
+Zwei Haeuser waren--gleich an Wuerdigkeit--
+ Hier in Verona, wo die Handlung steckt,
+Durch alten Groll zu neuem Kampf bereit,
+ Wo Buergerblut die Buergerhand befleckt.
+Aus dieser Feinde unheilvollem Schoss
+ Das Leben zweier Liebender entsprang,
+Die durch ihr unglueckselges Ende bloss
+ Im Tod begraben elterlichen Zank.
+Der Hergang ihrer todgeweihten Lieb
+ Und der Verlauf der elterlichen Wut,
+Die nur der Kinder Tod von dannen trieb,
+ Ist nun zwei Stunden lang der Buehne Gut;
+Was dran noch fehlt, hoert mit geduldgem Ohr,
+Bringt hoffentlich nun unsre Mueh hervor.
+
+
+
+
+ERSTER AKT
+
+
+
+ERSTE SZENE
+
+(Ein oeffentlicher Platz)
+
+(Simson und Gregorio, [zwei Bediente Capulets,] treten
+bewaffnet mit
+Schwertern und Schilden auf.)
+
+
+SIMSON
+Auf mein Wort, Gregorio, wir wollen nichts in die Tasche
+stecken.
+
+GREGORIO
+Freilich nicht, sonst waeren wir Taschenspieler.
+
+SIMSON
+Ich meine, ich werde den Koller kriegen und vom Leder
+ziehn.
+
+GREGORIO
+Ne, Freund, deinen ledernen Koller musst du bei Leibe
+nicht ausziehen.
+
+SIMSON
+Ich schlage geschwind zu, wenn ich aufgebracht bin.
+
+GREGORIO
+Aber du wirst nicht geschwind aufgebracht.
+
+SIMSON
+Ein Hund aus Montagues Hause bringt mich schon auf.
+
+GREGORIO
+Einen aufbringen heisst: ihn von der Stelle schaffen.
+Um tapfer zu sein, muss man standhalten.  Wenn du dich
+also aufbringen laesst, so laeufst du davon.
+
+SIMSON
+Ein Hund aus dem Hause bringt mich zum Standhalten.
+[Mit jedem Bedienten und jedem Maedchen Montagues will ich
+es aufnehmen.] Ich habe bei jedem Bedienten und Maedchen
+der Montagues den Vorrang und nehme also die Mauerseite
+ein, [so dass ich nicht auf die schmutzige Strassenmitte
+treten muss.]
+
+
+GREGORIO
+Daran sieht man, dass du ein schwacher Sklave bist;
+denn der schwaechste geht gegen die Mauer.
+
+SIMSON
+Das ist wahr; und daher werden die Weiber, da sie die
+schwaecheren sind, immer gegen die Mauer gedrueckt:
+folglich werde ich Montagues Bediente von der Mauer
+wegstossen und seine Maedchen gegen die Mauer druecken.
+
+GREGORIO
+Der Streit ist nur zwischen unseren Herrschaften und uns,
+ihren Bedienten.  [Es mit den Maedchen aufnehmen?  Pfui doch!
+Du solltest dich lieber von ihnen aufnehmen lassen.]
+
+SIMSON
+Einerlei!  Ich will barbarisch zu Werke gehn.  Hab ichs
+mit den Bedienten erst ausgefochten, so will ich mir die
+Maedchen unterwerfen.  [Sie sollen die Spitze meines Degens
+fuehlen, bis er stumpf wird.] Ich werde sie ihrer
+jungfraeulichen Haeupter berauben.
+
+GREGORIO
+Die Jungfrauen enthaupten?
+
+SIMSON
+Jawohl, die Jungfrauen enthaupten oder ihnen die
+Jungfraeulichkeit nehmen, nimm es in dem einen oder
+anderen Sinn, ganz wie du willt.
+
+GREGORIO
+Sie werden es sinngemaess aufnehmen muessen, die es zu
+spueren bekommen.
+
+SIMSON
+Mich sollen sie zu spueren bekommen, solange ich noch
+standhalten kann: und es ist bekannt, dass ich ein huebsches
+Stueck Fleisches bin.
+
+GREGORIO
+Nur gut, dass du nicht Fisch bist, sonst waerst du ein
+aermlicher Doerr-Hering.--Zieh nur gleich vom Leder: Da
+kommen zwei aus dem Hause der Montagues.
+
+(Abraham und Balthasar treten auf.)
+
+SIMSON
+Hier, meine Waffe ist blank.  Fang nur Haendel an, ich will
+den Ruecken decken.
+
+GREGORIO
+Den Ruecken?  Willst du Reissaus nehmen?
+
+SIMSON
+Fuerchte nichts von mir!
+
+GREGORIO
+Ne, wahrhaftig!  Ich dich fuerchten?
+
+SIMSON
+Lass uns das Recht auf unsrer Seite behalten, lass sie
+anfangen!
+
+GREGORIO
+Ich will ihnen im Vorbeigehn ein Gesicht ziehen, sie
+moegens nehmen, wie sie wollen.
+
+SIMSON
+Wie sie wagen, lieber.  Ich will ihnen einen Esel bohren;
+wenn sie es einstecken, so haben sie den Schimpf.
+
+(Abraham und Balthasar treten auf.)
+
+ABRAHAM
+Bohrt Ihr uns einen Esel, mein Herr?
+
+SIMSON
+Ich bohre einen Esel, mein Herr.
+
+ABRAHAM
+Bohrt Ihr uns einen Esel, mein Herr?
+
+SIMSON
+Ist das Recht auf unsrer Seite, wenn ich ja sage?
+
+GREGORIO
+Nein.
+
+SIMSON
+Nein, mein Herr!  Ich bohre Euch keinen Esel, mein Herr.
+Aber ich bohre einen Esel, mein Herr.
+
+GREGORIO
+Sucht Ihr Haendel, mein Herr?
+
+ABRAHAM
+Haendel, Herr?  Nein, mein Herr.
+
+SIMSON
+Wenn Ihr sonst Haendel sucht, mein Herr: ich steh zu Diensten.
+Ich bediene einen ebenso guten Herrn wie Ihr.
+
+ABRAHAM
+Keinen bessern.
+
+SIMSON
+Sehr wohl, mein Herr!
+
+(Benvolio tritt auf.)
+
+GREGORIO
+Sag: einen bessern; hier kommt ein Vetter meiner Herrschaft.
+
+SIMSON
+Ja doch, einen bessern, mein Herr.
+
+ABRAHAM
+Ihr luegt!
+
+SIMSON
+Zieht, falls ihr Kerls seid!  Frisch, Gregorio!  denk mir an
+deinen Schwadronierhieb.
+
+(Sie fechten.  Benvolio tritt auf.)
+
+BENVOLIO
+Ihr Narren, fort!  Steckt eure Schwerter ein;
+Ihr wisst nicht, was ihr tut.
+
+(Er schlaegt ihre Schwerter nieder.  Tybalt tritt auf.)
+
+TYBALT
+Was?  Ziehst du unter den verzagten Knechten?
+Hieher, Benvolio!  Biet die Stirn dem Tode!
+
+BENVOLIO
+Ich stifte Frieden, steck dein Schwert nur ein!
+Wo nicht, so fuehr es, diese hier zu trennen!
+
+TYBALT
+Was?  Ziehn und Friede rufen?  Wie die Hoelle
+Hass ich das Wort, wie alle Montagues
+Und dich!  Wehr dich, du Memme!
+
+(Sie fechten.  Verschiedene Anhaenger beider Haeuser kommen
+und mischen sich in den Streit; dann Buerger mit Knuetteln.)
+
+ERSTER BUeRGER
+He!  Spiess' und Stangen her!--Schlagt auf sie los!
+Weg mit den Capulets!--Weg mit den Montagues!
+
+(Capulet im Schlafrock und Graefin Capulet.)
+
+CAPULET
+Was fuer ein Laerm?--Holla, mein langes Schwert!
+
+GRAeFIN CAPULET
+Nein, Kruecken, Kruecken!  Wozu soll ein Schwert!
+
+CAPULET
+Mein Schwert, sag ich!  Der alte Montague
+Kommt dort und schwingt die Klinge mir zum Hohn.
+
+(Montague und Graefin Montague.)
+
+MONTAGUE
+Du Schurke Capulet!--
+
+MONTAGUE
+Schon manchen Morgen ward er dort gesehn,
+Wie er den frischen Tau durch Traenen mehrte
+Und, tief erseufzend, Wolk an Wolke draengte.
+Allein sobald im fernsten Ost die Sonne,
+Die allerfreunde, von Auroras Bett
+Den Schattenvorhang wegzuziehn beginnt,
+Stiehlt vor dem Licht mein finstrer Sohn sich heim
+Und sperrt sich einsam in sein Kaemmerlein,
+Verschliesst dem schoenen Tageslicht die Fenster
+Und schaffet kuenstlich Nacht um sich herum.
+In schwarzes Missgeschick wird er sich traeumen,
+Weiss guter Rat den Grund nicht wegzuraeumen.
+
+BENVOLIO
+Mein edler Oheim, wisset Ihr den Grund?
+
+MONTAGUE
+Ich weiss ihn nicht und kann ihn nicht erforschen.
+
+BENVOLIO
+Lagt Ihr ihm jemals schon deswegen an?
+
+MONTAGUE
+Ich selbst sowohl als mancher andre Freund.
+Doch er, der eignen Neigungen Vertrauter,
+Ist gegen sich, wie treu, will ich nicht sagen,
+Doch so geheim und in sich selbst gekehrt,
+So unergruendlich forschendem Bemuehn
+Wie eine Knospe, die ein Wurm zernagt,
+Eh sie der Luft ihr zartes Laub entfalten
+Und ihren Reiz der Sonne weihen kann.
+Erfuehren wir, woher sein Leid entsteht,
+Wir heilten es so gern, als wirs erspaeht.
+
+(Romeo erscheint in einiger Entfernung.)
+
+BENVOLIO
+Da kommt er, seht!  Geruht, uns zu verlassen;
+Galt ich ihm je was, will ich schon ihn fassen.
+
+MONTAGUE
+O beichtet' er fuer dein Verweilen dir
+Die Wahrheit doch!--Kommt, Graefin, gehen wir!
+
+(Montague und Graefin Montague gehen ab.  Romeo tritt auf.)
+
+BENVOLIO
+Ha, guten Morgen, Vetter!
+
+ROMEO
+ Erst so weit?
+
+BENVOLIO
+Kaum schlug es neun.
+
+ROMEO
+ Weh mir.  Gram dehnt die Zeit.
+War das mein Vater, der so eilig ging?
+
+BENVOLIO
+Er wars.  Und welcher Gram dehnt Euch die Stunden?
+
+ROMEO
+Dass ich entbehren muss, was sie verkuerzt.
+
+BENVOLIO
+Entbehrt Ihr Liebe?
+
+ROMEO
+ Nein.
+
+BENVOLIO
+ So ward sie Euch zuteil?
+
+ROMEO
+Nein, Lieb entbehr ich, wo ich lieben muss.
+
+BENVOLIO
+Ach, dass der Liebesgott, so mild im Scheine,
+So grausam in der Prob erfunden wird!
+
+ROMEO
+Ach, dass der Liebesgott, trotz seinen Binden,
+Zu seinem Ziel stets Pfade weiss zu finden!
+Wo speisen wir?--Ach, welch ein Streit war hier?
+Doch sagt mirs nicht, ich hoert es alles schon:
+Hass gibt hier viel zu schaffen, Liebe mehr.
+Nun denn: Liebreicher Hass!  Streitsuechtge Liebe!
+Du Alles, aus dem Nichts zuerst erschaffen!
+Schwermuetger Leichtsinn!  Ernste Taendelei!
+Entstelltes Chaos glaenzender Gestalten!
+Bleischwinge!  Lichter Rauch und kalte Glut!
+Stets wacher Schlaf, dein eignes Widerspiel!
+So fuehl ich Lieb und hasse, was ich fuehl!
+Du lachst nicht?
+
+BENVOLIO
+ Nein, das Weinen ist mir naeher.
+
+ROMEO
+Warum, mein Herz?
+
+BENVOLIO
+ Um deines Herzens Qual.
+
+ROMEO
+Das ist der Liebe Unbill nun einmal.
+Schon eignes Leid will mir die Brust zerpressen,
+Dein Gram um mich wird voll das Mass mir messen.
+Die Freundschaft, die du zeigst, mehrt meinen Schmerz;
+Denn, wie sich selbst, so quaelt auch dich mein Herz.
+Lieb ist ein Rauch, den Seufzerdaempf erzeugten,
+Geschuert, ein Feur, von dem die Augen leuchten,
+Gequaelt, ein Meer, von Traenen angeschwellt;
+Was ist sie sonst?  Verstaendge Raserei
+Und ekle Gall und suesse Spezerei.
+Lebt wohl, mein Freund!
+
+(Im Gehen.)
+
+BENVOLIO
+ Sacht!  Ich will mit Euch gehen;
+Ihr tut mir Unglimpf, lasst Ihr so mich stehen.
+
+ROMEO
+Ach, ich verlor mich selbst; ich bin nicht Romeo.
+Der ist nicht hier: er ist--ich weiss nicht, wo.
+
+BENVOLIO
+Entdeckt mir ohne Mutwill, wen Ihr liebt.
+
+ROMEO
+Bin ich nicht ohne Mut und ohne Willen?
+
+BENVOLIO
+Nein, sagt mirs ernsthaft doch!
+
+ROMEO
+Bitt einen ernsthaft um sein Testament,
+Den Kranken quaelts, wenn man das Wort ihm nennt!
+Hoert, Vetter, denn im Ernst: Ich lieb ein Weib.
+
+BENVOLIO
+Ich trafs doch gut, dass ich verliebt Euch glaubte.
+
+ROMEO
+Ein wackrer Schuetz!--Und die ich lieb, ist schoen.
+
+BENVOLIO
+Ein glaenzend Ziel kann man am ersten treffen.
+
+ROMEO
+Dies Treffen traf dir fehl, mein guter Schuetz;
+Sie weicht dem Pfeil aus, sie hat Dianens Witz
+Umsonst hat ihren Panzer keuscher Sitten
+Der Liebe kindisches Geschoss bestritten.
+Sie wehrt den Sturm der Liebesbitten ab,
+Steht nicht dem Angriff kecker Augen, oeffnet
+Nicht ihren Schoss dem Gold, das Heilge lockt.
+O sie ist reich an Schoenheit; arm allein,
+Weil, wenn sie stirbt, ihr Reichtum hin wird sein.
+
+BENVOLIO
+Beschwor sie der Enthaltsamkeit Gesetze?
+
+ROMEO
+Sie tats, und dieser Geiz vergeudet Schaetze.
+Denn Schoenheit, die der Lust sich streng enthaelt,
+Bringt um ihr Erb die ungeborne Welt.
+Sie ist zu schoen und weis', um Heil zu erben,
+Weil sie, mit Weisheit schoen, mich zwingt zu sterben.
+Sie schwor zu lieben ab, und dies Geluebd
+Ist Tod fuer den, der lebt, nur weil er liebt.
+
+BENVOLIO
+Folg meinem Rat, vergiss an sie zu denken!
+
+ROMEO
+So lehre mich, das Denken zu vergessen.
+
+BENVOLIO
+Gib deinen Augen Freiheit, lenke sie
+Auf andre Reize hin.
+
+ROMEO
+ Das ist der Weg,
+Mir ihren Reiz in vollem Licht zu zeigen.
+Die Schwaerze jener neidenswerten Larven,
+Die schoener Frauen Stirne kuessen, bringt
+Uns in den Sinn, dass sie das Schoene bergen.
+Der, welchen Blindheit schlug, kann nie das Kleinod
+Des eingebuessten Augenlichts vergessen.
+Zeigt mir ein Weib, unuebertroffen schoen:
+Mir gilt ihr Reiz wie eine Weisung nur,
+Worin ich lese, wer sie uebertrifft.
+Leb wohl!  Vergessen lehrest du mich nie.
+
+BENVOLIO
+Dein Schuldner sterb ich, glueckt mir nicht die Mueh.
+
+(Beide ab.)
+
+
+
+ZWEITE SZENE
+
+(Eine Strasse)
+
+(Capulet, Paris und ein Diener kommen.)
+
+
+CAPULET
+Und Montague ist mit derselben Busse
+Wie ich bedroht?  Fuer Greise, wie wir sind,
+Ist Frieden halten, denk ich, nicht so schwer.
+
+PARIS
+Ihr geltet beid als ehrenwerte Maenner,
+Und Jammer ists um Euren langen Zwiespalt.
+Doch, edler Graf, wie duenkt Euch mein Gesuch?
+
+CAPULET
+Es duenkt mich so, wie ich vorhin gesagt.
+Mein Kind ist noch ein Fremdling in der Welt,
+Sie hat kaum vierzehn Jahre wechseln sehn.
+Lasst noch zwei Sommer prangen und verschwinden,
+Eh wir sie reif, um Braut zu werden, finden.
+
+PARIS
+Noch juengre wurden oft beglueckte Muetter.
+
+CAPULET
+Wer vor der Zeit beginnt, der endigt frueh.
+All meine Hoffnungen verschlang die Erde;
+Mir blieb nur dieses hoffnungsvolle Kind.
+Doch werbt nur, lieber Graf!  Sucht Euer Heil!
+Mein Will ist von dem ihren nur ein Teil.
+Wenn sie aus Wahl in Eure Bitten willigt,
+So hab ich im voraus ihr Wort gebilligt,
+Ich gebe heut ein Fest, von alters hergebracht,
+Und lud darauf der Gaeste viel zu Nacht,
+Was meine Freunde sind: Ihr, der dazu gehoeret,
+Sollt hoch willkommen sein, wenn Ihr die Zahl vermehret.
+In meinem armen Haus sollt Ihr des Himmels Glanz
+Heut nacht verdunkelt sehn durch irdscher Sterne Tanz.
+Wie muntre Juenglinge mit neuem Mut sich freuen,
+Wenn auf die Fersen nun der Fuss des holden Maien
+Dem lahmen Winter tritt: die Lust steht Euch bevor,
+Wann Euch in meinem Haus ein frischer Maedchenflor
+Von jeder Seit umgibt.  Ihr hoert, Ihr seht sie alle,
+Dass, die am schoensten prangt, am meisten Euch gefalle.
+Dann moegt Ihr in der Zahl auch meine Tochter sehn,
+Sie zaehlt fuer eine mit, gilt sie schon nicht fuer schoen.
+Kommt, geht mit mir!--Du, Bursch, nimm das Papier mit Namen,
+Trab in der Stadt herum, such alle Herrn und Damen,
+So hier geschrieben stehn,
+
+(uebergibt ein Papier)
+
+ und sag mit Hoeflichkeit:
+Mein Haus und mein Empfang steh ihrem Dienst bereit.
+
+(Capulet und Paris gehen ab.)
+
+DIENER
+Die Leute soll ich suchen, wovon die Namen hier geschrieben
+stehn?  Es steht geschrieben, der Schuster soll sich um seine
+Elle kuemmern, der Schneider um seinen Leisten, der Fischer
+um seinen Pinsel, der Maler um seine Netze.  Aber mich schicken
+sie, um die Leute ausfindig zu machen, wovon die Namen hier
+geschrieben stehn, und ich kann doch gar nicht ausfindig
+machen, was fuer Namen der Schreiber hier aufgeschrieben hat.
+Ich muss zu den Gelahrten!--
+
+
+
+DRITTE SZENE
+
+(Ein Zimmer in Capulets Hause)
+
+(Graefin Capulet und die Waerterin.)
+
+
+GRAeFIN CAPULET
+Ruft meine Tochter her; wo ist sie, Amme?
+
+WAeRTERIN
+Bei meiner Jungfernschaft im zwoelften Jahr,
+Ich rief sie schon.--He, Laemmchen!  zartes Taeubchen--
+Dass Gott!  wo ist das Kind?  He, Juliette!
+
+(Julia kommt.)
+
+JULIA
+Was ist?  Wer ruft mich?
+
+WAeRTERIN
+Eure Mutter.
+
+JULIA
+Hier bin ich, gnaedge Mutter!  Was beliebt?
+
+GRAeFIN CAPULET
+Die Sach ist diese!--Amme, geh beiseit,
+Wir muessen heimlich sprechen.--Amme, komm
+Nur wieder her, ich habe mich besonnen,
+Ich will dich mit zur Ueberlegung ziehn.
+Du weisst, mein Kind hat schon ein huebsches Alter.
+
+WAeRTERIN
+Das zaehl ich, meiner Treu, am Finger her.
+
+GRAeFIN CAPULET
+Sie ist nicht vierzehn Jahre.
+
+WAeRTERIN
+Ich wette vierzehn meiner Zaehne drauf--
+Zwar hab ich nur vier Zahn, ich arme Frau--,
+Sie ist noch nicht vierzehn.  Wie lang ists bis Johannis?
+
+GRAeFIN CAPULET
+Ein vierzehn Tag und drueber.
+
+WAeRTERIN
+Nun, drueber oder drunter.  Just den Tag,
+Johannistag zu Abend, wird sie vierzehn.
+Suschen und sie--Gott gebe jedem Christen
+Das ewge Leben!--waren eines Alters.
+Nun, Suschen ist bei Gott;
+Sie war zu gut fuer mich.  Doch wie ich sagte,
+Johannistag zu Abend wird sie vierzehn.
+Das wird sie, meiner Treu; ich weiss recht gut.
+Elf Jahr ists her, seit wir 's Erdbeben hatten;
+Und ich entwoehnte sie--mein Leben lang
+Vergess ichs nicht--just auf denselben Tag.
+Ich hatte Wermut auf die Brust gelegt
+Und sass am Taubenschlage in der Sonne;
+Die gnaedge Herrschaft war zu Mantua.
+Ja, ja!  Ich habe Gruetz im Kopf!  Nun, wie ich sagte:
+Als es den Wermut auf der Warze schmeckte
+Und fand ihn bitter--naerrsches, kleines Ding--,
+Wie's boese ward und zog der Brust ein Gsicht!
+Krach!  sagt' der Taubenschlag; und ich, fuerwahr,
+Ich wusste nicht, wie ich mich tummeln sollte,
+Und seit der Zeit ists nun elf Jahre her.
+Denn damals stand sie schon allein; mein Treu,
+Sie lief und watschelt' Euch schon flink herum.
+Denn tags zuvor fiel sie die Stirn entzwei,
+Und da hob sie mein Mann--Gott hab ihn selig!
+Er war ein lustger Mann--vom Boden auf.
+Ei, sagt' er, faellst du so auf dein Gesicht?
+Wirst ruecklings fallen, wenn du klueger bist,
+Nicht wahr, mein Kind?  Und liebe, heilge Frau!
+Das Maedchen schrie nicht mehr und sagte: Ja.
+Da seh man, wie so 'n Spass zum Vorschein kommt!
+Und lebt ich tausend Jahre lang, ich wette,
+Dass ich es nie vergass.  Nicht wahr, mein Kind?  sagt' er;
+Und 's liebe Naerrchen ward still und sagte: Ja.
+
+GRAeFIN CAPULET
+Genug davon, ich bitte, halt dich ruhig.
+
+WAeRTERIN
+Ja, gnaedge Frau.  Doch laecherts mich noch immer,
+Wie 's Kind sein Schreien liess und sagte: Ja,
+Und sass ihm, meiner Treu, doch eine Beule,
+So dick wie 'n Huehnerei, auf seiner Stirn,
+Recht gfaehrlich dick, und es schrie bitterlich.
+Mein Mann, der sagte: Ei, faellst aufs Gesicht?
+Wirst ruecklings fallen, wenn du aelter bist.
+Nicht wahr, mein Kind?  Still wards und sagte: Ja.
+
+JULIA
+Ich bitt dich, Amme, sei doch auch nur still.
+
+WAeRTERIN
+Gut, ich bin fertig.  Gott behuete dich!
+Du warst das feinste Pueppchen, das ich saeugte.
+Erleb ich deine Hochzeit noch einmal,
+So wuensch ich weiter nichts.
+
+GRAeFIN CAPULET
+Die Hochzeit, ja, das ist der Punkt, von dem
+Ich sprechen wollte.  Sag mir, liebe Tochter,
+Wie stehts mit deiner Lust, dich zu vermaehlen?
+
+JULIA
+Ich traeumte nie von dieser Ehre noch.
+
+WAeRTERIN
+Ein Ehre!  Haettst du eine andre Amme
+Als mich gehabt, so wollt ich sagen: Kind,
+Du habest Weisheit mit der Milch gesogen.
+
+GRAeFIN CAPULET
+Gut, denke jetzt dran; juenger noch als du
+Sind angesehne Fraun hier in Verona
+Schon Muetter worden.  Ist mir recht, so war
+Ich deine Mutter in demselben Alter,
+Wo du noch Maedchen bist.  Mit einem Wort:
+Der brave Paris wirbt um deine Hand.
+
+WAeRTERIN
+Das ist ein Mann, mein Fraeulein!  Solch ein Mann,
+Als alle Welt--ein wahrer Zuckermann!
+
+GRAeFIN CAPULET
+Die schoenste Blume von Veronas Flor.
+
+WAeRTERIN
+Ach ja, 'ne Blume!  Gelt, 'ne rechte Blume!
+
+GRAeFIN CAPULET
+Was sagst du?  Wie gefaellt dir dieser Mann?
+Heut abend siehst du ihn bei unserm Fest.
+Dann lies im Buche seines Angesichts,
+In das der Schoenheit Griffel Wonne schrieb,
+Betrachte seiner Zuege Lieblichkeit,
+Wie jeglicher dem andern Zierde leiht.
+Was dunkel in dem holden Buch geblieben,
+Das lies in seinem Aug am Rand geschrieben.
+Und dieses Freiers ungebundner Stand,
+Dies Buch der Liebe braucht nur einen Band.
+Der Fisch lebt in der See, und doppelt teuer
+Wird aeussres Schoen' als innrer Schoenheit Schleier.
+Das Buch glaenzt allermeist im Aug der Welt,
+Das goldne Lehr in goldnen Spangen haelt.
+So wirst du alles, was er hat, geniessen,
+Wenn du ihn hast, ohn etwas einzubuessen.
+
+WAeRTERIN
+Einbuessen?  Nein, zunehmen wird sie eher;
+Die Weiber nehmen oft durch Maenner zu.
+
+GRAeFIN CAPULET
+Sag kurz, fuehlst du dem Grafen dich geneigt?
+
+JULIA
+Gern will ich sehn, ob Sehen Neigung zeugt;
+Doch weiter soll mein Blick den Flug nicht wagen,
+Als ihn die Schwingen Eures Beifalls tragen.
+
+(Ein Diener kommt.)
+
+DIENER
+Gnaedige Frau, die Gaeste sind da, das Abendessen auf dem
+Tisch; Ihr werdet gerufen, das Fraeulein gesucht, die Amme
+in der Speisekammer zum Henker gewuenscht, und alles geht
+drunter und drueber.  Ich muss fort, aufwarten; ich bitte Euch,
+kommt unverzueglich!
+
+GRAeFIN CAPULET
+Gleich!--
+
+(Der Diener geht ab.)
+
+ Paris wartet; Julia, komm geschwind!
+
+WAeRTERIN
+Such frohe Nacht auf frohe Tage, Kind!
+
+(Alle ab.)
+
+
+
+VIERTE SZENE
+
+(Eine Strasse)
+
+(Romeo, Mercutio, Benvolio mit fuenf oder sechs Masken,
+Fackeltraegern und anderen.)
+
+
+ROMEO
+Soll diese Red uns zur Entschuldgung dienen?
+Wie?  Oder treten wir nur grad hinein?
+
+BENVOLIO
+Umschweife solcher Art sind nicht mehr Sitte.
+Wir wollen keinen Amor, mit der Schaerpe
+Geblendet, der den bunt bemalten Bogen
+Wie ein Tatar geschnitzt aus Latten traegt
+Und wie 'ne Vogelscheuch die Frauen schreckt;
+Auch keinen hergebeteten Prolog,
+Wobei viel zugeblasen wird, zum Eintritt.
+Lasst sie uns nur, wofuer sie wollen, nehmen,
+Wir nehmen ein paar Taenze mit und gehn.
+
+ROMEO
+Ich mag nicht springen; gebt mir eine Fackel!
+Da ich so finster bin, so will ich leuchten.
+
+MERCUTIO
+Nein, du musst tanzen, lieber Romeo.
+
+ROMEO
+Ich wahrlich nicht!  Ihr seid so leicht von Sinn
+Als leicht beschuht; mich drueckt ein Herz von Blei
+Zu Boden, dass ich kaum mich regen kann.
+
+MERCUTIO
+Ihr seid ein Liebender; borgt Amors Fluegel
+und schwebet frei in ungewohnten Hoehn.
+
+ROMEO
+Ich bin zu tief von seinem Pfeil durchbohrt,
+Auf seinen leichten Schwingen hoch zu schweben.
+Gewohnte Fesseln lassen mich nicht frei;
+Ich sinke unter schwerer Liebeslast.
+
+MERCUTIO
+Und wolltet Ihr denn in die Liebe sinken?
+Ihr seid zu schwer fuer ein so zartes Ding.
+
+ROMEO
+Ist Lieb ein zartes Ding?  Sie ist zu rauh,
+Zu wild, zu tobend; und sie sticht wie Dorn.
+
+MERCUTIO
+Begegnet Lieb Euch rauh, so tut desgleichen!
+Stecht Liebe, wenn sie sticht; das schlaegt sie nieder.
+
+(Zu einem andern aus dem Gefolge.)
+
+Gebt ein Gehaeuse fuer mein Antlitz mir:
+
+(Eine Maske aufsetzend.)
+
+'ne Larve fuer 'ne Larve!
+
+(Bindet die Maske vor.)
+
+ Nun erspaehe
+Die Neugier Missgestalt: was kuemmerts mich?
+Erroeten wird fuer mich dies Wachsgesicht.
+
+BENVOLIO
+Fort!  Klopft, und dann hinein!  Und sind wir drinnen,
+So ruehre gleich ein jeder flink die Beine!
+
+ROMEO
+Mir eine Fackel!  Leichtgeherzte Buben,
+Die lasst das Estrich mit den Sohlen kitzeln.
+Ich habe mich verbraemt mit einem alten
+Grossvaterspruch: Wer 's Licht haelt, schauet zu!
+Nie war das Spiel so schoen; doch ich bin matt.
+
+MERCUTIO
+Jawohl, zu matt, dich aus dem Schlamme--nein,
+Der Liebe wollt ich sagen--dich zu ziehn,
+Worin du leider steckst bis an die Ohren.
+Macht fort, wir leuchten ja dem Tage hier.
+
+ROMEO
+Das tun wir nicht.
+
+MERCUTIO
+ Ich meine, wir verscherzen,
+Wie Licht bei Tag, durch Zoegern unsre Kerzen.
+Nehmt meine Meinung nach dem guten Sinn
+Und sucht nicht Spiele des Verstandes drin.
+
+ROMEO
+Wir meinens gut, da wir zum Balle gehen;
+Doch es ist Unverstand.
+
+MERCUTIO
+ Wie?  Lasst doch sehen!
+
+ROMEO
+Ich hatte diese Nacht 'nen Traum.
+
+MERCUTIO
+ Auch ich.
+
+ROMEO
+Was war der Eure?
+
+MERCUTIO
+ Dass auf Traeume sich
+Nichts bauen laesst, dass Traeume oefters luegen.
+
+ROMEO
+Sie traeumen Wahres, weil sie schlafend liegen.
+
+MERCUTIO
+Nun seh ich wohl, Frau Mab hat Euch besucht.
+
+[ROMEO
+Frau Mab, wer ist sie?
+
+MERCUTIO]
+Sie ist der Feenwelt Entbinderin.
+Sie kommt, nicht groesser als der Edelstein
+Am Zeigefinger eines Aldermanns,
+Und faehrt mit 'nem Gespann von Sonnenstaeubchen
+Den Schlafenden quer auf der Nase hin.
+Die Speichen sind gemacht aus Spinnenbeinen,
+Des Wagens Deck aus eines Heupferds Fluegeln,
+Aus feinem Spinngewebe das Geschirr,
+Die Zuegel aus des Mondes feuchtem Strahl;
+Aus Heimchenknochen ist der Peitsche Griff,
+Die Schnur aus Fasern; eine kleine Muecke
+Im grauen Mantel sitzt als Fuhrmann vorn,
+Nicht halb so gross als wie ein kleines Wuermchen,
+Das in des Maedchens muessgem Finger nistet.
+Die Kutsch ist eine hohle Haselnuss,
+Vom Tischler Eichhorn oder Meister Wurm
+Zurechtgemacht, die seit uralten Zeiten
+Der Feen Wagner sind.  In diesem Staat
+Trabt sie dann Nacht fuer Nacht; befaehrt das Hirn
+Verliebter, und sie traeumen dann von Liebe,
+Des Schranzen Knie, der schnell von Reverenzen,
+Des Anwalts Finger, der von Sporteln gleich,
+Der Schoenen Lippen, die von Kuessen traeumen;
+Oft plagt die boese Mab mit Blaeschen diese,
+Weil ihren Odem Naescherei verdarb.
+Bald trabt sie ueber eines Hofmanns Nase,
+Dann wittert er im Traum sich Aemter aus,
+Bald kitzelt sie mit eines Zinshahns Federn
+Des Pfarrers Nase, wenn er schlafend liegt,
+Von einer bessern Pfruende traeumt ihm dann;
+Bald faehrt sie ueber des Soldaten Nacken,
+Der traeumt sofort von Niedersaebeln, traeumt
+Von Breschen, Hinterhalten, Damaszenern,
+Von manchem klaftertiefen Ehrentrunk;
+Nun trommelts ihm ins Ohr: da faehrt er auf
+Und flucht in seinem Schreck ein paar Gebete
+Und schlaeft von neuem.  Eben diese Mab
+Verwirrt der Pferde Maehnen in der Nacht
+Und flicht in struppges Haar die Weichselzoepfe,
+Die, wiederum entwirrt, auf Unglueck deuten.
+Dies ist die Hexe, welche Maedchen drueckt,
+Die auf dem Ruecken ruhn, und die sie lehrt,
+Als Weiber einst die Maenner zu ertragen.
+Dies ist sie--
+
+ROMEO
+ Still, o still, Mercutio!
+Du sprichst von einem Nichts.
+
+MERCUTIO
+ Wohl wahr, ich rede
+Von Traeumen, Kindern eines muessgen Hirns,
+Von nichts als eitler Phantasie erzeugt,
+Die aus so duennem Stoff als Luft besteht
+Und fluechtger wechselt als der Wind, der bald
+Um die erfrorne Brust des Nordens buhlt
+Und, schnell erzuernt, hinweg von dannen schnaubend,
+Die Stirn zum taubetraeuften Sueden kehrt.
+
+BENVOLIO
+Der Wind, von dem Ihr sprecht, entfuehrt uns selbst.
+Man hat gespeist; wir kamen schon zu spaet.
+
+ROMEO
+Zu frueh, befuercht ich; denn mein Herz erbangt
+Und ahnet ein Verhaengnis, welches, noch
+Verborgen in den Sternen, heute nacht
+Bei dieser Lustbarkeit den furchtbarn Zeitlauf
+Beginnen und das Ziel des laestgen Lebens,
+Das meine Brust verschliesst, mir kuerzen wird
+Durch einen schnoed verwirkten fruehen Tod.
+Doch er, der mir zur Fahrt das Steuer lenkt,
+Richt auch mein Segel!--Auf, ihr lustgen Freunde!
+
+BENVOLIO
+Ruehrt Trommeln!
+
+(Alle ab.)
+
+
+
+FUeNFTE SZENE
+
+(Ein Saal in Capulets Hause)
+
+(Musikanten warten.  Diener kommen.)
+
+
+ERSTER DIENER
+Wo ist Schmorpfanne, dass er nicht abraeumen hilft?  Der wird
+Teller wechseln, Teller scheuern!
+
+ZWEITER DIENER
+Wenn die gute Lebensart in eines oder zweier Menschen Haenden
+sein soll, die noch obendrein ungewaschen sind: 's ist ein
+unsaubrer Handel.
+
+ERSTER DIENER
+Die Klappstuehle fort!  Rueckt den Schenktisch beiseit!  Seht
+nach dem Silberzeuge!  Kamerad, heb mir ein Stueck Marzipan
+auf, und wo du mich liebhast, sag dem Pfoertner, dass er Suse
+Muehlstein und Lene hereinlaesst.  Anton!  Schmorpfanne!
+
+(Andre Diener kommen.)
+
+ZWEITER DIENER
+Hier, Bursch, wir sind parat.
+
+ERSTER DIENER
+Im grossen Saale verlangt man euch, vermisst man euch, sucht man
+euch.
+
+ZWEITER DIENER
+Wir koennen nicht zugleich hier und dort sein.--Lustig, Kerle,
+haltet euch brav; wer am laengsten lebt, kriegt den ganzen Bettel.
+
+(Sie ziehen sich in den Hintergrund zurueck.  Capulet etc.
+[und die Seinen] mit den Gaesten und Masken [und Dienerschaft].)
+
+CAPULET
+Willkommen, meine Herrn!  Wenn Eure Fuesse
+Kein Leichdorn plagt.  Ihr Damen, flink ans Werk!
+He, he.  Ihr schoenen Fraun, wer von Euch allen
+Schlaegts nun wohl ab zu tanzen?  Ziert sich eine,
+Ich wette, die hat Huehneraugen.  Nun,
+Hab ichs Euch nah gelegt?  Ihr Herrn, willkommen!
+Ich weiss die Zeit, da ich 'ne Larve trug
+Und einer Schoenen eine Weis' ins Ohr
+Zu fluestern wusste, die ihr wohlgefiel.
+Das ist vorbei, vorbei!  Willkommen, Herren!
+Kommt, Musikanten, spielt!  Macht Platz da, Platz!
+Ihr Maedchen, frisch gesprungen!
+
+(Musik und Tanz.  [--Zu den Dienern:])
+
+Mehr Licht, ihr Burschen, und beiseit die Tische!
+Das Feuer weg!  Das Zimmer ist zu heiss.--
+Ha, recht gelegen kommt der unverhoffte Spass.
+Na, setzt Euch, setzt Euch, Vetter Capulet!
+Wir beide sind ja uebers Tanzen hin.
+Wie lang ists jetzo, seit wir uns zuletzt
+In Larven steckten?
+
+ZWEITER CAPULET
+ Dreissig Jahr, mein Seel.
+
+CAPULET
+Wie, Schatz?  So lang noch nicht, so lang noch nicht.
+Denn seit der Hochzeit des Lucentio
+Ists etwa fuenfundzwanzig Jahr, sobald
+Wir Pfingsten haben; und da tanzten wir.
+
+ZWEITER CAPULET
+'s ist mehr, 's ist mehr!  Sein Sohn ist aelter, Herr,
+Sein Sohn ist dreissig.
+
+CAPULET
+ Sagt mir das doch nicht!
+Sein Sohn war noch nicht muendig vor zwei Jahren.
+
+ROMEO
+(zu einem Diener aus seinem Gefolge.)
+Wer ist das Fraeulein, welche dort den Ritter
+Mit ihrer Hand beehrt?
+
+DER DIENER
+ Ich weiss nicht, Herr.
+
+ROMEO
+Oh, sie nur lehrt die Kerzen, hell zu gluehn!
+Wie in dem Ohr des Mohren ein Rubin,
+So haengt der Holden Schoenheit an den Wangen
+Der Nacht; zu hoch, zu himmlisch dem Verlangen.
+Sie stellt sich unter den Gespielen dar
+Als weisse Taub in einer Kraehenschar.
+Schliesst sich der Tanz, so nah ich ihr: ein Druecken
+Der zarten Hand soll meine Hand begluecken.
+Liebt ich wohl je?  Nein, schwoer es ab, Gesicht!
+Du sahst bis jetzt noch wahre Schoenheit nicht.
+
+TYBALT
+Nach seiner Stimm ist dies ein Montague.
+(Zu einem Diener.)
+Hol meinen Degen, Bursch!--Was?  Wagt der Schurk,
+Vermummt in eine Fratze, herzukommen
+Zu Hohn und Schimpfe gegen unser Fest?
+Fuerwahr, bei meines Stammes Ruhm und Adel,
+Wer tot ihn schlueg, verdiente keinen Tadel!
+
+CAPULET
+Was habt Ihr, Vetter?  Welch ein Sturm?  Wozu?
+
+TYBALT
+Seht, Oheim, der da ist ein Montague!
+Der Schurke draengt sich unter Eure Gaeste
+Und macht sich einen Spott an diesem Feste.
+
+CAPULET
+Ist es der junge Romeo?
+
+TYBALT
+Der Schurke Romeo!
+
+CAPULET
+Seid ruhig, Herzensvetter!  Lasst ihn gehn!
+Er haelt sich wie ein wackrer Edelmann;
+Und in der Tat, Verona preiset ihn
+Als einen sittgen, tugendsamen Juengling.
+Ich moechte nicht fuer alles Gut der Stadt
+In meinem Haus ihm einen Unglimpf tun.
+Drum seid geduldig; merket nicht auf ihn.
+Das ist mein Will, und wenn du diesen ehrst,
+So zeig dich freundlich, streif die Runzeln weg,
+Die uebel sich bei einem Feste ziemen.
+
+TYBALT
+Kommt solch ein Schurk als Gast, so stehn sie wohl.
+Ich leid ihn nicht.
+
+CAPULET
+ Er soll gelitten werden,
+Er soll!--Herr Junge, hoert Er das?  Nur zu!
+Wer ist hier Herr?  Er oder ich?  Nur zu!
+So, will Er ihn nicht leiden?--Helf mir Gott!--
+Will Hader unter meinen Gaesten stiften?
+Will sich als starken Mann hier wichtig machen?
+
+TYBALT
+Ists nicht 'ne Schande, Oheim?
+
+CAPULET
+ Zu!  Nur zu!
+Ihr seid ein kecker Bursch.  Ei, seht mir doch!
+Der Streich mag Euch gereun; ich weiss schon was.
+Ihr macht mirs bunt!  Ja, das kaem eben recht!--
+Brav, Herzenskinder!--Geht, vorwitzig seid Ihr!
+Seid ruhig, sonst--Mehr Licht, mehr Licht, zum Kuckuck!--
+Will ich zur Ruh Euch bringen!--Lustig, Kinder!
+
+TYBALT
+Mir kaempft Geduld aus Zwang mit willger Wut
+Im Innern und empoert mein siedend Blut.
+Ich gehe.--Hand ist frommer Waller Kuss.
+
+ROMEO
+Haben nicht Heilge Lippen wie die Waller?
+
+JULIA
+Ja, doch Gebet ist die Bestimmung aller.
+
+ROMEO
+O so vergoenne, teure Heilge nun,
+Dass auch die Lippen wie die Haende tun.
+Voll Inbrunst beten sie zu dir: erhoere,
+Dass Glaube nicht sich in Verzweiflung kehre!
+
+JULIA
+Du weisst, ein Heilger pflegt sich nicht zu regen,
+Auch wenn er eine Bitte zugesteht.
+
+ROMEO
+So reg dich, Holde, nicht, wie Heilge pflegen,
+Derweil mein Mund dir nimmt, was er erfleht.
+
+(Er kuesst sie.)
+
+Nun hat dein Mund ihn aller Suend entbunden.
+
+JULIA
+So hat mein Mund zum Lohn Suend fuer die Gunst?
+
+ROMEO
+Zum Lohn die Suend?  O Vorwurf, suess erfunden!
+Gebt sie zurueck!
+
+(Kuesst sie wieder.)
+
+JULIA
+ Ihr kuesst recht nach der Kunst.
+
+WAeRTERIN (tritt heran.)
+Mama will Euch ein Woertchen sagen, Fraeulein.
+
+ROMEO
+Wer ist des Fraeuleins Mutter?
+
+WAeRTERIN
+ Ei nun, Junker,
+Das ist die gnaedge Frau vom Hause hier,
+Gar eine wackre Frau und klug und ehrsam.
+Die Tochter, die Ihr spracht, hab ich gesaeugt.
+Ich sag Euch, wer ihr' habhaft werden kann,
+Ist wohl gebettet.
+
+ROMEO
+Sie eine Capulet?  O teurer Preis!  Mein Leben
+Ist meinem Feind als Schuld dahingegeben!
+
+BENVOLIO
+Fort, lasst uns gehn; die Lust ist bald dahin.
+
+ROMEO
+Ach, leider wohl!  Das aengstet meinen Sinn.
+
+CAPULET
+Nein, liebe Herrn, denkt noch ans Weggehn nicht!
+Ein kleines, schlichtes Mahl ist schon bereitet.--
+Muss es denn sein?  Nun wohl, ich dank Euch allen;
+Ich dank Euch, edle Herren: Gute Nacht!--
+Mehr Fackeln her!--Kommt nun, bringt mich zu Bett.
+
+(Zum zweiten Capulet.)
+
+Wahrhaftig, es wird spaet, ich will zur Ruh.
+
+(Alle ab, ausser Julia und Waerterin.)
+
+JULIA
+Komm zu mir, Amme; wer ist dort der Herr?
+
+WAeRTERIN
+Tiberios, des alten, Sohn und Erbe.
+
+JULIA
+Wer ists, der eben aus der Tuere geht?
+
+WAeRTERIN
+Das, denk ich, ist der junge [Marcellin] Petruchio.
+
+JULIA
+Wer folgt ihm da, der gar nicht tanzen wollte?
+
+WAeRTERIN
+Ich weiss nicht.
+
+JULIA
+Geh, frage, wie er heisst!--Ist er vermaehlt,
+So ist das Grab zum Brautbett mir erwaehlt.
+
+WAeRTERIN (kommt zurueck.)
+Sein Nam ist Romeo, ein Montague
+Und Eures grossen Feindes einzger Sohn.
+
+JULIA
+So einzge Lieb aus grossem Hass entbrannt!
+Ich sah zu frueh, den ich zu spaet erkannt.
+O Wunderwerk: ich fuehle mich getrieben,
+Den aergsten Feind aufs zaertlichste zu lieben.
+
+WAeRTERIN
+Wieso, wieso?
+
+JULIA
+Es ist ein Reim, den ich von einem Taenzer
+Soeben lernte.
+
+(Man ruft drinnen: Julia!)
+
+WAeRTERIN
+ Gleich, wir kommen ja!
+Kommt, lasst uns gehn; kein Fremder ist mehr da.
+
+(Ab.)
+
+(Der Chorus tritt auf.)
+
+CHORUS
+Die alte Liebe stirbt in ihm dahin,
+ Und junge Zuneigung beerbt sie da;
+Die Schoene, nach der schmachtend stand sein Sinn,
+ Scheint nicht mehr schoen nun neben Julia.
+Er wird geliebt und liebt nun auch zum Schluss,
+ Ein Zauberblick kann beiderseits nicht fehln,
+Doch scheint als Feind sie, der ers klagen muss,
+ Und seiner Falle Koeder muss sie stehln.
+Als Feind gesehn, darf er nicht zu ihr her,
+ Zu schwoern, wie wirs sonst bei Verliebten sehn;
+Auch sie liebt ihn, doch kann noch weniger
+ Zum neu geliebten irgendwohin gehn:
+Doch Zeit schafft Rat, Verlangen leiht die Kraft
+Und lindert Leid durch suesse Leidenschaft.
+
+(Geht ab.)
+
+
+
+
+ZWEITER AKT
+
+
+
+ERSTE SZENE
+
+(Ein offner Platz, der an Capulets Garten stoesst)
+
+(Romeo tritt auf.)
+
+
+ROMEO
+Kann ich von hinnen, da mein Herz hier bleibt?
+Geh, frostge Erde, suche deine Sonne!
+
+(Er ersteigt die Mauer und springt hinunter.
+Benvolio und Mercutio treten auf.)
+
+BENVOLIO
+He, Romeo, he, Vetter!
+
+MERCUTIO
+ Er ist klug
+Und hat, mein Seel, sich heim ins Bett gestohlen.
+
+BENVOLIO
+Er lief hieher und sprang die Gartenmauer
+Hinueber.  Ruf ihn, Freund Mercutio!
+
+MERCUTIO
+Ja, auch beschwoeren will ich.  Romeo!
+Was?  Grillen!  Toller!  Leidenschaft!  Verliebter!
+Erscheine du, gestaltet wie ein Seufzer;
+Sprich nur ein Reimchen, so genuegt mirs schon;
+Ein Ach nur jammre, paare Lieb und Triebe;
+Gib der Gevattrin Venus ein gut Wort,
+Schimpf eins auf ihren blinden Sohn und Erben,
+Held Amor, der so flink gezielt, als Koenig
+Kophetua das Bettlermaedchen liebte.
+Er hoeret nicht, er regt sich nicht, er ruehrt sich nicht.
+Der Aff ist tot; ich muss ihn wohl beschwoeren.
+Nun wohl: Bei Rosalindens hellem Auge,
+Bei ihrer Purpurlipp und hohen Stirn,
+Bei ihrem zarten Fuss, dem schlanken Bein,
+Den ueppgen Hueften und der Region,
+Die ihnen nahe liegt, beschwoer ich dich,
+Dass du in eigner Bildung uns erscheinest.
+
+BENVOLIO
+Wenn er dich hoert, so wird er zornig werden.
+
+MERCUTIO
+Hierueber kann ers nicht; er haette Grund,
+Bannt ich hinauf in seiner Dame Kreis
+Ihm einen Geist von seltsam eigner Art
+Und liesse den da stehn, bis sie den Trotz
+Gezaehmt und nieder ihn beschworen haette.
+Das waer Beschimpfung!  Meine Anrufung
+Ist gut und ehrlich; mit der Liebsten Namen
+Beschwoer ich ihn, bloss um ihn aufzurichten.
+
+BENVOLIO
+Komm!  Er verbarg sich unter jenen Baeumen
+Und pflegt des Umgangs mit der feuchten Nacht.
+Die Lieb ist blind, das Dunkel ist ihr recht.
+
+MERCUTIO
+Ist Liebe blind, so zielt sie freilich schlecht.
+Nun sitzt er wohl an einen Baum gelehnt
+Und wuenscht, sein Liebchen waer die reife Frucht
+Und fiel ihm in den Schoss.  Doch, gute Nacht,
+Freund Romeo!  Ich will ins Federbett;
+Das Feldbett ist zum Schlafen mir zu kalt.
+Komm, gehn wir?
+
+BENVOLIO
+ Ja, es ist vergeblich, ihn
+Zu suchen, der nicht will gefunden sein.
+
+(Beide ab.)
+
+
+
+ZWEITE SZENE
+
+(Capulets Garten)
+
+(Romeo kommt.)
+
+
+ROMEO
+Der Narben lacht, wer Wunden nie gefuehlt.
+
+(Julia erscheint oben an einem Fenster.)
+
+Doch still, was schimmert durch das Fenster dort?
+Es ist der Ost, und Julia die Sonne!--
+Geh auf, du holde Sonn!  Ertoete Lunen,
+Die neidisch ist und schon vor Grame bleich,
+Dass du viel schoener bist, obwohl ihr dienend.
+O da sie neidisch ist, so dien ihr nicht!
+Nur Toren gehn in ihrer blassen, kranken
+Vestalentracht einher; wirf du sie ab!
+Sie ist es, meine Goettin, meine Liebe!
+O wuesste sie, dass sie es ist!--
+Sie spricht, doch sagt sie nichts: was schadet das?
+Ihr Auge redt, ich will ihm Antwort geben.--
+Ich bin zu kuehn, es redet nicht zu mir.
+Ein Paar der schoensten Stern am ganzen Himmel
+Wird ausgesandt und bittet Juliens Augen,
+In ihren Kreisen unterdes zu funkeln.
+Doch waeren ihre Augen dort, die Sterne
+In ihrem Antlitz?  Wuerde nicht der Glanz
+Von ihren Wangen jene so beschaemen
+Wie Sonnenlicht die Lampe?  Wuerd ihr Aug
+Aus luftgen Hoehn sich nicht so hell ergiessen,
+Dass Voegel saengen, froh den Tag zu gruessen?
+O wie sie auf die Hand die Wange lehnt!
+Waer ich der Handschuh doch auf dieser Hand
+Und kuesste diese Wange!
+
+JULIA
+ Weh mir!
+
+ROMEO
+ Horch!
+Sie spricht.  O sprich noch einmal, holder Engel!
+Denn ueber meinem Haupt erscheinest du
+Der Nacht so glorreich, wie ein Fluegelbote
+Des Himmels dem erstaunten, ueber sich
+Gekehrten Aug der Menschensoehne, die
+Sich ruecklings werfen, um ihm nachzuschaun,
+Wenn er dahin faehrt auf den traegen Wolken
+Und auf der Luft gewoelbtem Busen schwebt.
+
+JULIA
+O Romeo!  Warum denn Romeo?
+Verleugne deinen Vater, deinen Namen!
+Willst du das nicht, schwoer dich zu meinem Liebsten,
+Und ich bin laenger keine Capulet!
+
+ROMEO (fuer sich.)
+Hoer ich noch laenger, oder soll ich reden?
+
+JULIA
+Dein Nam ist nur mein Feind.  Du bliebst du selbst,
+Und waerst du auch kein Montague.  Was ist
+Denn Montague?  Es ist nicht Hand, nicht Fuss,
+Nicht Arm noch Antlitz, noch ein andrer Teil
+Von einem Menschen.  Sei ein andrer Name!
+Was ist ein Name?  Was uns Rose heisst,
+Wie es auch hiesse, wuerde lieblich duften;
+So Romeo, wenn er auch anders hiesse,
+Er wuerde doch den koestlichen Gehalt
+Bewahren, welcher sein ist ohne Titel.
+O Romeo, leg deinen Namen ab,
+Und fuer den Namen, der dein Selbst nicht ist,
+Nimm meines ganz!
+
+ROMEO (indem er naeher hinzutritt.)
+ Ich nehme dich beim Wort.
+Nenn Liebster mich, so bin ich neu getauft
+Und will hinfort nicht Romeo mehr sein.
+
+JULIA
+Wer bist du, der du, von der Nacht beschirmt,
+Dich draengst in meines Herzens Rat?
+
+ROMEO
+ Mit Namen
+Weiss ich dir nicht zu sagen, wer ich bin.
+Mein eigner Name, teure Heilge, wird,
+Weil er dein Feind ist, von mir selbst gehasst;
+Haett ich ihn schriftlich, so zerriss' ich ihn.
+
+JULIA
+Mein Ohr trank keine hundert Worte noch
+Von diesen Lippen, doch es kennt den Ton.
+Bist du nicht Romeo, ein Montague?
+
+ROMEO
+Nein, Holde; keines, wenn dir eins missfaellt.
+
+JULIA
+Wie kamst du her?  O sag mir, und warum?
+Die Gartenmaur ist hoch, schwer zu erklimmen;
+Die Staett ist Tod--bedenk nur, wer du bist--,
+Wenn einer meiner Vettern dich hier findet.
+
+ROMEO
+Der Liebe leichte Schwingen trugen mich,
+Kein steinern Bollwerk kann der Liebe wehren;
+Und Liebe wagt, was irgend Liebe kann,
+Drum hielten deine Vettern mich nicht auf.
+
+JULIA
+Wenn sie dich sehn, sie werden dich ermorden.
+
+ROMEO
+Ach, deine Augen drohn mir mehr Gefahr
+Als zwanzig ihrer Schwerter; blick du freundlich,
+So bin ich gegen ihren Hass gestaehlt.
+
+JULIA
+Ich wollt um alles nicht, dass sie dich saehn.
+
+ROMEO
+Vor ihnen huellt mich Nacht in ihren Mantel.
+Liebst du mich nicht, so lass sie nur mich finden;
+Durch ihren Hass zu sterben waer mir besser
+Als ohne deine Liebe Lebensfrist.
+
+JULIA
+Wer zeigte dir den Weg zu diesem Ort?
+
+ROMEO
+Die Liebe, die zuerst mich forschen hiess;
+Sie lieh mir Rat, ich lieh ihr meine Augen.
+Ich bin kein Steuermann, doch waerst du fern
+Wie Ufer, von dem fernsten Meer bespuelt,
+Ich wagte mich nach solchem Kleinod hin.
+
+JULIA
+Du weisst, die Nacht verschleiert mein Gesicht,
+Sonst faerbte Maedchenroete meine Wangen
+Um das, was du vorhin mich sagen hoertest.
+Gern hielt ich streng auf Sitte, moechte gern
+Verleugnen, was ich sprach; doch weg mit Form!
+Sag, liebst du mich?  Ich weiss, du wirsts bejahn,
+Und will dem Worte traun; doch wenn du schwoerst,
+So kannst du treulos werden; wie sie sagen,
+Lacht Jupiter des Meineids der Verliebten.
+O holder Romeo, wenn du mich liebst:
+Sags ohne Falsch!  Doch daechtest du, ich sei
+Zu schnell besiegt, so will ich finster blicken,
+Will widerspenstig sein und Nein dir sagen,
+So du dann werben willst; sonst nicht um alles.
+Gewiss, mein Montague, ich bin zu herzlich,
+Du koenntest denken, ich sei leichten Sinns.
+Ich glaube, Mann, ich werde treuer sein
+Als sie, die fremd zu tun geschickter sind.
+Auch ich, bekenn ich, haette fremd getan,
+Waer ich von dir, eh ichs gewahrte, nicht
+Belauscht in Liebesklagen.  Drum vergib!
+Schilt diese Hingebung nicht Flatterliebe,
+Die so die stille Nacht verraten hat.
+
+ROMEO
+Ich schwoere, Fraeulein, bei dem heilgen Mond,
+Der silbern dieser Baeume Wipfel saeumt--Lieben sei!
+
+ROMEO
+Wobei denn soll ich schwoeren?
+
+JULIA
+ Lass es ganz!
+Doch willst du, schwoer bei deinem edlen Selbst,
+Dem Goetterbilde meiner Anbetung;
+So will ich glauben.
+
+ROMEO
+ Wenn die Herzensliebe--
+
+JULIA
+Gut, schwoere nicht!  Obwohl ich dein mich freue,
+Freu ich mich nicht des Bundes dieser Nacht.
+Er ist zu rasch, zu unbedacht, zu ploetzlich,
+Gleicht allzusehr dem Blitz, der nicht mehr ist,
+Noch eh man sagen kann: es blitzt.--Schlaf suess!
+Des Sommers warmer Hauch kann diese Knospe
+Der Liebe wohl zur schoenen Blum entfalten,
+Bis wir das naechste Mal uns wiedersehn.
+Nun gute Nacht!  So suesse Ruh und Frieden,
+Als mir im Busen wohnt, sei dir beschieden.
+
+ROMEO
+Ach, willst du lassen mich so ungetroestet?
+
+JULIA
+Welch Troestung kannst du diese Nacht begehren?
+
+ROMEO
+Gib deinen treuen Liebesschwur fuer meinen!
+
+JULIA
+Ich gab ihn dir, eh du darum gefleht;
+Und doch, ich wollt, er stuende noch zu geben.
+
+ROMEO
+Wolltst du mir ihn entziehn?  Wozu das, Liebe?
+
+JULIA
+Um unverstellt ihn dir zurueckzugeben.
+Allein ich wuensche, was ich habe, nur.
+So grenzenlos ist meine Huld, die Liebe
+So tief ja wie das Meer.  Je mehr ich gebe,
+Je mehr auch hab ich: beides ist unendlich.
+Ich hoer im Haus Geraeusch; leb wohl.  Geliebter!
+
+(Die Waerterin ruft hinter der Szene.)
+
+Gleich, Amme!  Holder Montague, sei treu!
+Wart einen Augenblick; ich komme wieder!
+
+(Sie geht zurueck.)
+
+ROMEO
+O selge, selge Nacht!  Nur fuercht ich, weil
+Mich Nacht umgibt, dies alles sei nur Traum,
+Zu schmeichelnd suess, um wirklich zu bestehn.
+
+(Julia erscheint wieder am Fenster.)
+
+JULIA
+Drei Worte, Romeo, dann gute Nacht!
+Wenn deine Liebe tugendsam gesinnt
+Vermaehlung wuenscht, so lass mich morgen wissen
+Durch jemand, den ich zu dir senden will,
+Wo du und wann die Trauung willst vollziehn.
+Dann leg ich dir mein ganzes Glueck zu Fuessen
+Und folge durch die Welt dir, meinem Herrn.
+
+(Die Waerterin hinter der Szene: Fraeulein!)
+
+Ich komme, gleich!--Doch meinst du es nicht gut,
+So bitt ich dich--
+
+(Die Waerterin hinter der Szene: Fraeulein!)
+
+ Im Augenblick, ich komme!
+--Hoer auf zu werben, lass mich meinem Gram!
+Ich sende morgen frueh.
+
+ROMEO
+ Beim ewgen Heil!
+
+JULIA
+Nun tausend gute Nacht!
+
+(Geht zurueck.)
+
+ROMEO
+Raubst du dein Licht ihr, wird sie bang durchwacht.
+Wie Knaben aus der Schul eilt Liebe hin zum Lieben,
+Wie Knaben an ihr Buch wird sie hinweggetrieben.
+
+(Er entfernt sich langsam.  Julia erscheint wieder am Fenster.)
+
+JULIA
+St!  Romeo, st!  O eines Jaegers Stimme,
+Den edlen Falken wieder herzulocken!
+Abhaengigkeit ist heiser, wagt nicht laut
+Zu reden, sonst zersprengt ich Echos Kluft
+Und machte heisrer ihre luftge Kehle
+Als meine mit dem Namen Romeo.
+
+ROMEO (umkehrend.)
+Mein Leben ists, das meinen Namen ruft.
+Wie silbersuess toent bei der Nacht die Stimme
+Der Liebenden, gleich lieblicher Musik
+Dem Ohr des Lauschers!
+
+JULIA
+ Romeo!
+
+ROMEO
+ Mein Fraeulein!
+
+JULIA
+Um welche Stunde soll ich morgen schicken?
+
+ROMEO
+Um neun.
+
+JULIA
+ Ich will nicht saeumen; zwanzig Jahre
+Sinds bis dahin.  Doch ich vergass, warum
+Ich dich zurueckgerufen.
+
+ROMEO
+Lass hier mich stehn, derweil du dich bedenkst.
+
+JULIA
+Auf dass du stets hier weilst, werd ich vergessen,
+Bedenkend, wie mir deine Naeh so lieb.
+
+ROMEO
+Auf dass du stets vergessest, werd ich weilen,
+Vergessend, dass ich irgend sonst daheim.
+
+JULIA
+Es tagt beinah, ich wollte nun, du gingst;
+Doch weiter nicht, als wie ein taendelnd Maedchen
+Ihr Voegelchen der Hand entschluepfen laesst,
+Gleich einem Armen in der Banden Druck,
+Und dann zurueck ihn zieht am seidnen Faden;
+So liebevoll missgoennt sie ihm die Freiheit.
+
+ROMEO
+War ich dein Voegelchen!
+
+JULIA
+ Ach waerst du's.  Lieber!
+Doch hegt und pflegt ich dich gewiss zu Tod.
+Nun gute Nacht!  So suess ist Trennungswehe,
+Ich rief wohl gute Nacht, bis ich den Morgen saehe.
+
+(Sie geht zurueck.)
+
+ROMEO
+Schlaf wohn auf deinem Aug, Fried in der Brust!
+O waer ich Fried und Schlaf und ruht in solcher Lust!
+Ich will zur Zell des frommen Vaters gehen,
+Mein Glueck ihm sagen und um Huelf ihn flehen.
+
+(Ab.)
+
+
+
+DRITTE SZENE
+
+([Ein Klostergarten] Bruder Lorenzos Zelle)
+
+(Bruder Lorenzo mit einem Koerbchen.)
+
+
+LORENZO
+Der Morgen laechelt froh der Nacht ins Angesicht
+Und saeumet das Gewoelk im Ost mit Streifen Licht.
+Die matte Finsternis flieht wankend, wie betrunken,
+Von Titans Pfad, besprueht von seiner Rosse Funken.
+Eh hoeher nun die Sonn ihr gluehend Aug erhebt,
+Den Tau der Nacht verzehrt und neu die Welt belebt,
+Muss ich dies Koerbchen hier voll Kraut und Blumen lesen,
+Voll Pflanzen giftger Art und diensam zum Genesen.
+Die Mutter der Natur, die Erd, ist auch ihr Grab,
+Und was ihr Schoss gebar, sinkt tot in ihn hinab,
+Und Kinder mannigfalt, so all ihr Schoss empfangen,
+Sehn wir, gesaeugt von ihr, an ihren Bruesten hangen.
+An vielen Tugenden sind viele drunter reich,
+Ganz ohne Wert nicht eins, doch keins dem andern gleich.
+Oh, grosse Kraefte sinds, weiss man sie recht zu pflegen,
+Die Pflanzen, Kraeuter, Stein in ihrem Innern hegen;
+Was nur auf Erden lebt, da ist auch nichts so schlecht,
+Dass es der Erde nicht besondern Nutzen braecht.
+Doch ist auch nichts so gut, das, diesem Ziel entwendet,
+Abtruennig seiner Art, sich nicht durch Missbrauch schaendet.
+In Laster wandelt sich selbst Tugend, falsch geuebt,
+Wie Ausfuehrung auch wohl dem Laster Wuerde gibt.
+Die kleine Blume hier beherbergt giftge Saefte
+In ihrer zarten Huell und milde Heilungskraefte!
+Sie labet den Geruch und dadurch jeden Sinn;
+Gekostet, dringt sie gleich zum Herzen toetend hin.
+Zwei Feinde lagern so im menschlichen Gemuete
+Sich immerdar im Kampf: verderbter Will und Guete,
+Und wo das Schlechtre herrscht mit siegender Gewalt,
+Dergleichen Pflanze frisst des Todes Wurm gar bald.
+
+(Romeo tritt auf.)
+
+ROMEO
+Mein Vater, guten Morgen!
+
+LORENZO
+ Sei der Herr gesegnet!
+Wes ist der fruehe Gruss, der freundlich mir begegnet?
+Mein junger Sohn, es zeigt, dass wildes Blut dich plagt,
+Dass du dem Bett so frueh schon Lebewohl gesagt.
+Die wache Sorge lauscht im Auge jedes Alten,
+Und Schlummer bettet nie sich da, wo Sorgen walten;
+Doch da wohnt goldner Schlaf, wo mit gesundem Blut
+Und grillenfreiem Hirn die frische Jugend ruht.
+Drum laesst mich sicherlich dein fruehes Kommen wissen,
+Dass innre Unordnung vom Lager dich gerissen.
+Wie?  Oder haette gar mein Romeo die Nacht
+--Nun rat ichs besser--nicht im Bette hingebracht?
+
+ROMEO
+So ists, ich wusste mir viel suessre Ruh zu finden.
+
+LORENZO
+Verzeih die Suende Gott!  Warst du bei Rosalinden?
+
+ROMEO
+Bei Rosalinden, ich?  Ehrwuerdger Vater, nein!
+Vergessen ist der Nam und dieses Namens Pein.
+
+LORENZO
+Das ist mein wackrer Sohn!  Allein wo warst du?  Sage!
+
+ROMEO
+So hoer; ich sparte gern dir eine zweite Frage.
+Ich war bei meinem Feind auf einem Freudenmahl,
+Und da verwundete mich jemand auf einmal.
+Desgleichen tat ich ihm, und fuer die beiden Wunden
+Wird heilge Arzenei bei deinem Amt gefunden.
+Ich hege keinen Groll, mein frommer, alter Freund,
+Denn sieh, zustatten kommt die Bitt auch meinem Feind.
+
+LORENZO
+Einfaeltig, lieber Sohn!  Nicht Silben fein gestochen!
+Wer Raetsel beichtet, wird in Raetseln losgesprochen.
+
+ROMEO
+So wiss' einfaeltiglich: Ich wandte Seel und Sinn
+In Lieb auf Capulets holdselge Tochter hin.
+Sie gab ihr ganzes Herz zurueck mir fuer das meine,
+Und uns Vereinten fehlt zum innigsten Vereine
+Die heilge Trauung nur; doch wie und wo und wann
+Wir uns gesehn, erklaert und Schwur um Schwur getan,
+Das alles will ich dir auf unserm Weg erzaehlen;
+Nur bitt ich, willge drein, noch heut uns zu vermaehlen!
+
+LORENZO
+O heiliger Sankt Franz!  Was fuer ein Unbestand!
+Ist Rosalinde schon aus deiner Brust verbannt,
+Die du so heiss geliebt?  Liegt junger Maenner Liebe
+Denn in den Augen nur, nicht in des Herzens Triebe?
+O heiliger Sankt Franz!  Wie wusch ein salzig Nass
+Um Rosalinden dir so oft die Wangen blass!
+Und loeschen konnten doch so viele Traenenfluten
+Die Liebe nimmer dir; sie schuerten ihre Gluten.
+Noch schwebt der Sonn ein Dunst von deinen Seufzern vor,
+Dein altes Stoehnen summt mir noch im alten Ohr,
+Sieh, auf der Wange hier ist noch die Spur zu sehen
+Von einer alten Traen, die noch nicht will vergehen.
+Und warst du je du selbst und diese Schmerzen dein,
+So war der Schmerz und du fuer Rosalind allein.
+Und so verwandelt nun?  Dann leide, dass ich spreche:
+Ein Weib darf fallen, wohnt in Maennern solche Schwaeche.
+
+ROMEO
+Oft schmaeltest du mit mir um Rosalinden schon.
+
+LORENZO
+Weil sie dein Abgott war, nicht weil du liebtest, Sohn.
+
+ROMEO
+Und mahntest oft mich an, die Liebe zu besiegen.
+
+LORENZO
+Nicht um in deinem Sieg der zweiten zu erliegen.
+
+ROMEO
+Ich bitt dich, schmael nicht!  Sie, der jetzt mein Herz gehoert,
+Hat Lieb um Liebe mir und Gunst um Gunst gewaehrt.
+Das tat die andre nie.
+
+LORENZO
+ Sie wusste wohl, dein Lieben
+Sei zwar ein koestlich Wort, doch nur in Sand geschrieben.
+Komm, junger Flattergeist!  Komm nur, wir wollen gehn;
+Ich bin aus einem Grund geneigt, dir beizustehn:
+Vielleicht, dass dieser Bund zu grossem Glueck sich wendet
+Und eurer Haeuser Groll durch ihn in Freundschaft endet.
+
+ROMEO
+O lass uns fort von hier!  Ich bin in grosser Eil.
+
+LORENZO
+Wer hastig laeuft, der faellt; drum eile nur mit Weil.
+
+(Beide ab.)
+
+
+
+VIERTE SZENE
+
+(Eine Strasse)
+
+(Benvolio und Mercutio kommen.)
+
+
+MERCUTIO
+Wo, Teufel, kann der Romeo stecken?  Kam er heute nacht nicht
+nach Hause?
+
+BENVOLIO
+Nach seines Vaters Hause nicht; ich sprach seinen Diener.
+
+MERCUTIO
+Ja, dies hartherzge Frauenbild, die Rosalinde,
+Sie quaelt ihn so, er wird gewiss verrueckt.
+
+BENVOLIO
+Tybalt, des alten Capulet Verwandter,
+Hat dort ins Haus ihm einen Brief geschickt.
+
+MERCUTIO
+Eine Ausforderung, so wahr ich lebe!
+
+BENVOLIO
+Romeo wird ihm die Antwort nicht schuldig bleiben.
+
+MERCUTIO
+Auf einen Brief kann ein jeder antworten, wenn er schreiben kann.
+
+BENVOLIO
+Nein, ich meine, er wird dem Briefsteller zeigen, dass er Mut
+hat, wenn man ihm so was zumutet.
+
+MERCUTIO
+Ach, der arme Romeo; er ist ja schon tot!  Durchbohrt von einer
+weissen Dirne schwarzem Auge; durchs Ohr geschossen mit einem
+Liebesliedchen; seine Herzensscheibe durch den Pfeil des
+kleinen blinden Schuetzen mitten entzweigespalten.  Ist er der
+Mann darnach, es mit dem Tybalt aufzunehmen?
+
+BENVOLIO
+Nun, was ist Tybalt denn Grosses?
+
+MERCUTIO
+Kein papierner Held, das kann ich dir sagen!  Oh, er ist ein
+beherzter Zeremonienmeister der Ehre.  Er ficht, wie Ihr ein
+Liedlein singt, haelt Takt und Mass und Ton.  Er beobachtet seine
+Pausen; eins--zwei--drei; dann sitzt Euch der Stoss in der
+Brust!  Er bringt Euch einen seidnen Knopf unfehlbar ums Leben.
+Ein Raufer, ein Raufer!  Ein Ritter vom ersten Range, der Euch
+alle Gruende eines Ehrenstreits an den Fingern herzuzaehlen weiss.
+Ach die goettliche Passade!  Die doppelte Finte!  Der!
+
+BENVOLIO
+Der--was?
+
+MERCUTIO
+Der Henker hole diese phantastischen, gezierten, lispelnden
+Eisenfresser!  Was sie fuer neue Toene anstimmen!--"Eine sehr
+gute Klinge"--"Ein sehr wohlgewachsener Mann!"--"Eine sehr
+gute Hure!"--Wetter, sie hatte doch einen bessern Liebhaber,
+um sie zu bereimen!--, Dido eine Trutschel, Kleopatra eine
+Zigeunerin, Helena und Hero Metzen und lose Dirnen, Thisbe ein
+artiges Blauauge oder sonst so was, will aber nichts vorstellen.
+
+(Romeo tritt auf.)
+
+Signor Romeo, bonjour!  Da habt Ihr einen franzoesischen Gruss
+fuer Eure franzoesischen Pumphosen!  Ihr spieltet uns diese
+Nacht einen schoenen Streich.
+
+ROMEO
+Guten Morgen, meine Freunde!  Was fuer einen Streich?
+
+MERCUTIO
+Einen Diebesstreich.  Ihr stahlt Euch unversehens davon.
+
+ROMEO
+Verzeihung, guter Mercutio.  Ich hatte etwas Wichtiges vor,
+und in einem solchen Falle tut man wohl einmal der Hoeflichkeit
+Gewalt an.
+
+MERCUTIO
+Das soll wohl heissen, dass in einem solchen Falle ein Mann dazu
+vergewaltigt wird, sich in den Schenkeln zu verbeugen.
+
+ROMEO
+Das bedeutet, einen hoeflichen Knicks zu machen.
+
+MERCUTIO
+Du hast es allergnaedigst erfasst.
+
+ROMEO
+Eine aeusserst hoefliche Auslegung.
+
+MERCUTIO
+Ich bringe die Hoeflichkeit zur hoechsten Bluete.
+
+ROMEO
+Bluete steht fuer Blume.
+
+MERCUTIO
+Richtig.
+
+ROMEO
+Nun, dann ist mein Tanzschuh gut gebluemt.
+
+MERCUTIO
+Gut gesagt: spinne mir nun diesen Scherz weiter, bis du deinen
+Tanzschuh abgenutzt hast; so dass, wenn seine einzige Sohle
+abgenutzt ist, der Scherz solo und einzigartig hernach uebrig
+bleibe.
+
+ROMEO
+Oh einfachbesohlter Scherz, einfach einzigartig in seiner Einfalt!
+
+MERCUTIO
+Tritt zwischen uns, guter Benvolio; mein Witz schwindet mir.
+
+ROMEO
+Dann gib ihm Peitsche und Sporen, Peitsche und Sporen; oder
+ich rufe mich zum Sieger aus.
+
+MERCUTIO
+Nein, wenn dein Witz ebenso ziellos herumgaloppiert wie bei einer
+Wildgansjagd, bin ich fertig; denn du hast mehr von einer
+schnatternden Wildgans in einem deiner Sinne, da bin ich mir
+sicher, als ich in meinen ganzen fuenfen: bin ich Euch mit der
+Schnatterei zu nahe getreten?
+
+{Wildgansjagd (wild-goose chase}: Ein Wettrennen zu Pferde, bei
+dem der fuehrende Reiter die Strecke bestimmt.  Im uebertragenen
+Sinn: ein sehr wenig erfolgversprechendes Unternehmen.}
+
+ROMEO
+Du bist nie nahe zu mir getreten, ausser mit Schnatterei.
+
+MERCUTIO
+Fuer diesen Scherz werde ich dir am Ohr knabbern.
+
+ROMEO
+Nein, guter Gaenserich, beiss mich nicht.
+
+MERCUTIO
+Dein Witz ist wie ein sehr bitterer Suessapfel; er ist eine aeusserst
+scharfe Sosse.
+
+ROMEO
+Und ist er dann nicht genau die richtige Beilage zu einer suessen
+Gans?
+
+MERCUTIO
+Oh, das ist ein Witz aus Glaceleder, der sich von einem kleinen
+Zoll auf eine grosse Elle dehnen laesst!
+
+ROMEO
+Ich werde ihn durch das Wort "gross" ausdehnen, welches, wenn es
+der Gans hinzugefuegt wird, dich weit und breit als eine grosse
+Schnattergans dastehen laesst.
+
+MERCUTIO
+Wie nun?  [Du sprichst ja ganz menschlich.  Wie kommt es, dass du
+auf einmal deine aufgeweckte Zunge und deine muntern Augen
+wiedergefunden hast?  So hab ich dich gern.] Ist das nicht besser
+als das ewige Liebesgekraechze?  Jetzt bist du umgaenglich, jetzt
+bist du Romeo; jetzt bist du was du bist, in deiner Kunst ebenso
+wie in deiner Natur, denn dieser faselnde Amor ist wie ein grosser
+Einfaltspinsel, der laechsend auf und ab rennt, um sein Stoeckchen
+in einem Loch zu verstecken.
+
+BENVOLIO
+Halt ein, halt ein.
+
+MERCUTIO
+Du wuenschst, dass ich meine Erguesse unzeitig beende.
+
+BENVOLIO
+Ansonsten waere es dir zu lang geworden.
+
+MERCUTIO
+O, du irrst dich; es waere sogleich wieder kurz geworden, denn ich
+bin bereits in die volle Tiefe vorgedrungen und beabsichtigte in
+der Tat, auf dem Fall nicht laenger herumzureiten.
+
+ROMEO
+Seht den praechtigen Aufzug!
+
+(Die Waerterin und Peter hinter ihr.)
+
+MERCUTIO
+Was kommt da angesegelt?
+
+BENVOLIO
+Zwei, zwei: ein Maennerhemd und ein Unterrock.
+
+WAeRTERIN
+Peter!
+
+PETER
+Was beliebt?
+
+WAeRTERIN
+Meinen Faecher, Peter!
+
+MERCUTIO
+Gib ihn ihr, guter Peter, um ihr Gesicht zu verstecken.
+Ihr Faecher ist viel huebscher wie ihr Gesicht.
+
+WAeRTERIN
+Schoenen guten Morgen, Ihr Herren!
+
+MERCUTIO
+Schoenen guten Abend, schoene Dame!
+
+WAeRTERIN
+Warum guten Abend?
+
+MERCUTIO
+Euer Brusttuch deutet auf Sonnenuntergang.
+
+WAeRTERIN
+Pfui, was ist das fuer ein Mensch?
+
+ROMEO
+Einer, Verehrte, den Gott geschaffen hat, dass er sich selbst
+verderbe.
+
+WAeRTERIN
+Schoen gesagt, bei meiner Seele!  Dass er sich selbst verderbe!
+Ganz recht!  Aber, Ihr Herren, kann mir keiner von Euch sagen,
+wo ich den jungen Romeo finde?
+
+ROMEO
+Ich kanns Euch sagen; aber der junge Romeo wird aelter sein, wenn
+Ihr ihn gefunden habt, als er war, da Ihr ihn suchtet.
+Ich bin der Juengste, der den Namen fuehrt, weil kein schlechterer
+da war.
+
+WAeRTERIN
+Gut gegeben.
+
+MERCUTIO
+So?  Ist das Schlechteste gut gegeben?  Nun wahrhaftig: gut
+begriffen!  Sehr vernuenftig!
+
+WAeRTERIN
+Wenn Ihr Romeo seid, mein Herr, so wuensche ich Euch insgeheim
+zu sprechen.
+
+BENVOLIO
+Sie wird ihn irgendwohin auf den Abend bitten.
+
+MERCUTIO
+Eine Kupplerin, eine Kupplerin!  Ho, ho!
+
+BENVOLIO
+Was witterst du?
+
+MERCUTIO
+[Neue Jagd, neue Jagd!--] Kein Haeschen, mein Herr; ausser vielleicht
+einer Haesin, mein Herr, in einer Fastenspeise, die schon etwas
+schal und schimmelig-grau geworden ist, bevor sie vernascht wurde.
+(Singt.)  Ein Has', ergraut,
+ Und ein Has', ergraut,
+Welch sehr gute Fastenspeis';
+ Doch ein Has', der ergraut,
+ Ist zu viel zugetraut,
+Wenns ergraut eh' ichs verspeis.
+
+{Es ist sicher kein Zufall, dass das Wort "hoar" (ergraut) genauso
+klingt wie "whore" (Hure) und dass die sprichwoertliche
+Vermehrungsfreudigkeit der Hasen auch eine Interpretation von
+"hare" (Hase) als Hure nahelegt.  So lautet die erste Zeile woertlich
+"Ein alter Hase, (der) ergraut (ist)", doch der Zuhoerer versteht
+"Eine alte Hure".}
+
+Romeo, kommt nach Eures Vaters Hause, wir wollen zu Mittag
+da essen.
+
+ROMEO
+Ich komme euch nach.
+
+MERCUTIO
+Lebt wohl, alte Schoene!  Lebt wohl,
+(Singt.)
+o Schoene--Schoene--Schoene!
+
+(Benvolio und Mercutio gehen ab.)
+
+WAeRTERIN
+Sagt mir doch, was war das fuer ein unverschaemter Gesell, der
+nichts als Schelmstuecke im Kopfe hatte?
+
+ROMEO
+Jemand, der sich selbst gern reden hoert, meine gute Frau, und der
+in einer Minute mehr spricht, als er in einem Monate verantworten
+kann.
+
+WAeRTERIN
+Ja, und wenn er auf mich was zu sagen hat, so will ich ihn bei den
+Ohren kriegen, und waere er auch noch vierschroetiger, als er ist,
+und zwanzig solcher Hasenfuesse obendrein; und kann ichs nicht, so
+koennens andre.  So 'n Lausekerl!  Ich bin keine von seinen Kreaturen,
+ich bin keine von seinen Karnuten.
+(Zu Peter.)
+Und du musst auch dabeistehen und leiden, dass jeder Schuft sich nach
+Belieben ueber mich hermacht!
+
+PETER
+Ich habe nicht gesehn, dass sich jemand ueber Euch hergemacht haette,
+sonst haette ich geschwind vom Leder gezogen, das koennt Ihr glauben.
+Ich kann so gut ausziehen wie ein andrer, wo es einen ehrlichen Zank
+gibt und das Recht auf meiner Seite ist.
+
+WAeRTERIN
+Nu, weiss Gott, ich habe mich so geaergert, dass ich am ganzen Leibe
+zittre.  So 'n Lausekerl!--Seid so guetig, mein Herr, auf ein Wort!
+Und was ich Euch sagte: Mein junges Fraeulein befahl mir.  Euch zu
+suchen.  Was sie mir befahl.  Euch zu sagen, das will ich fuer mich
+behalten; aber erst lasst mich Euch sagen, wenn Ihr sie wolltet bei
+der Nase herumfuehren, sozusagen, das waere eine unartige Auffuehrung,
+sozusagen.  Denn seht, das Fraeulein ist jung, und also, wenn Ihr
+falsch gegen sie zu Werke gingt, das wuerde sich gar nicht gegen
+ein Fraeulein schicken und waere ein recht nichtsnutziger Handel.
+
+ROMEO
+Empfiehl mich deinem Fraeulein!  Ich beteure dir--
+
+WAeRTERIN
+Du meine Zeit!  Gewiss und wahrhaftig, das will ich ihr wiedersagen.
+O jemine, sie wird sich vor Freude nicht zu lassen wissen!
+
+ROMEO
+Was willst du ihr sagen, gute Frau?  Du gibst nicht Achtung.
+
+WAeRTERIN
+Ich will ihr sagen, dass Ihr beteuert, und ich meine, das ist
+recht wie ein Kavalier gesprochen.
+
+ROMEO
+Sag ihr, sie moeg ein Mittel doch ersinnen,
+Zur Beichte diesen Nachmittag zu gehn.
+Dort in Lorenzos Zelle soll alsdann,
+Wenn sie gebeichtet, unsre Trauung sein.
+Hier ist fuer deine Mueh.
+
+WAeRTERIN
+Nein, wahrhaftig, Herr, keinen Pfennig!
+
+ROMEO
+Nimm, sag ich dir; du musst!
+
+WAeRTERIN
+Heut nachmittag?  Nun gut, sie wird Euch treffen.
+
+ROMEO
+Du, gute Frau, wart hinter der Abtei,
+Mein Diener soll dir diese Stunde noch,
+Geknuepft aus Seilen, eine Leiter bringen,
+Die zu dem Gipfel meiner Freuden ich
+Hinan will klimmen in geheimer Nacht.
+Leb wohl!  Sei treu, so lohn ich deine Mueh.
+Leb wohl!  Empfiehl mich deinem Fraeulein!
+
+WAeRTERIN
+Nun, Gott der Herr gesegn es!--Hoert, noch eins!
+
+ROMEO
+Was willst du, gute Frau?
+
+WAeRTERIN
+Schweigt Euer Diener?  Habt Ihr nie vernommen:
+Wo zwei zu Rate gehn, lasst keinen dritten kommen?
+
+ROMEO
+Verlass dich drauf, der Mensch ist treu wie Gold.
+
+WAeRTERIN
+Nun gut, Herr, meine Herrschaft ist ein allerliebstes Fraeulein.
+O jemine, als sie noch so ein kleines Dingelchen war--Oh, da ist
+ein Edelmann in der Stadt, einer, der Paris heisst, der gern
+einhaken moechte; aber das gute Herz mag ebenso lieb eine Kroete
+sehn, eine rechte Kroete, als ihn.--Ich aergre sie zuweilen und sag
+ihr: Paris waer doch der huebscheste; aber Ihr koennt mirs glauben,
+wenn ich das sage, so wird sie so blass wie ein Tischtuch.  Faengt
+nicht Rosmarin und Romeo mit demselben Buchstaben an?
+
+ROMEO
+Ja, gute Frau; beide mit einem R.
+
+WAeRTERIN
+Ach, Spassvogel, warum nicht gar?  Das schnurrt ja wie 'n Spinnrad.
+Nein, ich weiss wohl, es faengt mit einem andern Buchstaben an, und
+sie hat die praechtigsten Reime und Sprichwoerter darauf, dass Euch
+das Herz im Leibe lachen taet, wenn Ihrs hoertet.
+
+ROMEO
+Empfiehl mich deinem Fraeulein!
+
+(Ab.)
+
+WAeRTERIN
+Jawohl, viel tausendmal!
+
+(Romeo geht ab.)
+
+--Peter!
+
+PETER
+Was beliebt?
+
+WAeRTERIN
+Peter, nimm meinen Faecher und geh vorauf!
+
+(Beide ab.)
+
+
+
+FUeNFTE SZENE
+
+(Capulets Garten)
+
+(Julia tritt auf.)
+
+
+JULIA
+Neun schlug die Glock, als ich die Amme sandte.
+In einer halben Stunde wollte sie
+Schon wieder hier sein.  Kann sie ihn vielleicht
+Nicht treffen?  Nein, das nicht.  Oh, sie ist lahm!
+Zu Liebesboten taugen nur Gedanken,
+Die zehnmal schneller fliehn als Sonnenstrahlen,
+Wenn sie die Nacht von finstern Huegeln scheuchen.
+Deswegen ziehn ja leichtbeschwingte Tauben
+Der Liebe Wagen, und Cupido hat
+Windschnelle Fluegel.  Auf der steilsten Hoehe
+Der Tagereise steht die Sonne jetzt;
+Von neun bis zwoelf, drei lange Stunden sinds,
+Und dennoch bleibt sie aus.  O haette sie
+Ein Herz und warmes, jugendliches Blut,
+Sie wuerde wie ein Ball behende fliegen,
+Es schnellte sie mein Wort dem Trauten zu
+Und seines mir.
+Doch Alte tun, als lebten sie nicht mehr,
+Traeg, unbehuelflich, und wie Blei so schwer.
+
+(Die Waerterin und Peter kommen.)
+
+O Gott, sie kommt!
+
+(Die Amme und Peter treten auf.)
+
+ Was bringst du, goldne Amme?
+Trafst du ihn an?  Schick deinen Diener weg!
+
+WAeRTERIN
+Wart vor der Tuere, Peter!
+
+(Peter ab.)
+
+JULIA
+Nun, Muetterchen?  Gott, warum blickst du traurig?
+Ist dein Bericht schon traurig, gib ihn froehlich,
+Und klingt er gut, verdirb die Weise nicht,
+Indem du sie mit saurer Miene spielst.
+
+WAeRTERIN
+Ich bin ermattet; lasst ein Weilchen mich!
+Das war 'ne Jagd!  Das reisst in Gliedern mir!
+
+JULIA
+Ich wollt, ich haette deine Neuigkeit,
+Du meine Glieder.  Nun, so sprich geschwind!
+Ich bitt dich, liebe, liebe Amme, sprich!
+
+WAeRTERIN
+Was fuer 'ne Hast!  Koennt Ihr kein Weilchen warten?
+Seht Ihr nicht, dass ich ausser Atem bin?
+
+JULIA
+Wie ausser Atem, wenn du Atem hast,
+Um mir zu sagen, dass du keinen hast?
+Der Vorwand deines Zoegerns waehrt ja laenger
+Als der Bericht, den du dadurch verzoegerst.
+Gib Antwort: Bringst du Gutes oder Boeses!
+Nur das, so wart ich auf das Naehere gern.
+Beruhge mich!  Ists Gutes oder Boeses?
+
+WAeRTERIN
+Ei, Ihr habt mir eine recht einfaeltige Wahl getroffen; Ihr versteht
+auch einen Mann auszulosen!  Romeo--ja, das ist der rechte!--Er hat
+zwar ein huebscher Gesicht wie andre Leute; aber seine Beine gehen
+ueber alle Beine, und Hand und Fuss und die ganze Positur--es laesst
+sich eben nicht viel davon sagen, aber man kann sie mit nichts
+vergleichen.  Er ist kein Ausbund von feinen Manieren, doch wett
+ich drauf, wie ein Lamm so sanft.--Treibs nur so fort, Kind, und
+fuerchte Gott!--Habt Ihr diesen Mittag zu Hause gegessen?
+
+JULIA
+Nein, nein!  Doch all dies wusst ich schon zuvor.
+Was sagt er von der Trauung?  Hurtig: was?
+
+WAeRTERIN
+O je, wie schmerzt der Kopf mir!  Welch ein Kopf!
+Er schlaegt, als wollt er gleich in Stuecke springen.
+Da hier mein Ruecken, o mein armer Ruecken!
+Gott sei Euch gnaedig, dass Ihr hin und her
+So viel mich schickt, mich bald zu Tode hetzt.
+
+JULIA
+Im Ernst, dass du nicht wohl bist, tut mir leid.
+Doch, beste, beste Amme, sage mir:
+Was macht mein Liebster?
+
+WAeRTERIN
+Eur Liebster sagt, so wie ein wackrer Herr--und ein artiger und
+ein freundlicher und ein huebscher Herr und, auf mein Wort, ein
+tugendsamer Herr.--Wo ist denn Eure Mutter?
+
+JULIA
+Wo meine Mutter ist?  Nun, sie ist drinnen;
+Wo waer sie sonst?  Wie seltsam du erwiderst:
+Eur Liebster sagt, so wie ein wackrer Herr--
+Wo ist denn Eure Mutter?
+
+WAeRTERIN
+ Jemine!
+Seid Ihr so hitzig?  Seht doch!  Kommt mir nur!
+Ist das die Baehung fuer mein Gliederweh?
+Geht kuenftig selbst, wenn Ihr 'ne Botschaft habt.
+
+JULIA
+Das ist 'ne Not!  Was sagt er?  Bitte, sprich!
+
+WAeRTERIN
+Habt Ihr Erlaubnis, heut zu beichten?
+
+JULIA
+ Ja.
+
+WAeRTERIN
+So macht Euch auf zu Eures Paters Zelle,
+Da harrt ein Mann, um Euch zur Frau zu machen.
+Nun steigt das lose Blut Euch in die Wangen,
+Gleich sind sie Scharlach, wenns was Neues gibt.
+Eilt Ihr ins Kloster; ich muss sonst wohin,
+Die Leiter holen, die der Liebste bald
+Zum Nest hinan, wenns Nacht wird, klimmen soll.
+Ich bin das Lasttier, muss fuer Euch mich plagen,
+Doch Ihr sollt Eure Last zur Nacht schon tragen.
+Ich will zur Mahlzeit erst; eilt Ihr zur Zelle hin!
+
+JULIA
+Zu hohem Gluecke, treue Pflegerin!
+
+(Beide ab.)
+
+
+
+SECHSTE SZENE
+
+(Bruder Lorenzos Zelle)
+
+(Lorenzo und Romeo.)
+
+
+LORENZO
+Der Himmel laechle so dem heilgen Bund,
+Dass kuenftge Tag' uns nicht durch Kummer schelten!
+
+ROMEO
+Amen!  So sei's!  Doch lass den Kummer kommen,
+So sehr er mag; wiegt er die Freuden auf,
+Die mir in ihrem Anblick eine fluechtge
+Minute gibt?  Fueg unsre Haende nur
+Durch deinen Segensspruch in eins, dann tue
+Sein Aeusserstes der Liebeswuerger Tod;
+Genug, dass ich nur mein sie nennen darf.
+
+LORENZO
+So wilde Freude nimmt ein wildes Ende
+Und stirbt im hoechsten Sieg, wie Feur und Pulver
+Im Kusse sich verzehrt.  Die Suessigkeit
+Des Honigs widert durch ihr Uebermass,
+Und im Geschmack erstickt sie unsre Lust.
+Drum liebe maessig; solche Lieb ist stet;
+Zu hastig und zu traege kommt gleich spaet.
+
+(Julia tritt auf.)
+
+Hier kommt das Fraeulein, sieh,
+Mit leichtem Tritt, der keine Blume biegt.
+Sieh, wie die Macht der Lieb und Wonne siegt!
+
+(Julia tritt auf.)
+
+JULIA
+Ehrwuerdger Herr, ich sag Euch guten Abend.
+
+LORENZO
+Fuer mich und sich dankt Romeo, mein Kind.
+
+JULIA
+Es gilt ihm mit, sonst waer sein Dank zuviel.
+
+ROMEO
+Ach Julia!  Ist deiner Freude Mass
+Gehaeuft wie meins und weisst du mehr die Kunst,
+Ihr Schmuck zu leihn, so wuerze rings die Luft
+Durch deinen Hauch; lass des Gesanges Mund
+Die Seligkeit verkuenden, die wir beide
+Bei dieser teuern Naeh im andern finden.
+
+JULIA
+Gefuehl, an Inhalt reicher als an Worten,
+Ist stolz auf seinen Wert und nicht auf Schmuck.
+Nur Bettler wissen ihres Guts Betrag;
+Doch meine treue Liebe stieg so hoch,
+Dass keine Schaetzung ihre Schaetz erreicht.
+
+LORENZO
+Kommt, kommt mit mir, wir schreiten gleich zur Sache.
+Ich leide nicht, dass ihr allein mir bleibt,
+Bis euch die Kirch einander einverleibt.
+
+(Alle ab.)
+
+
+
+
+DRITTER AKT
+
+
+
+ERSTE SZENE
+
+(Ein oeffentlicher Platz)
+
+(Mercutio, Benvolio, Page und Diener.)
+
+
+BENVOLIO
+Ich bitt dich, Freund, lass uns nach Hause gehn!
+Der Tag ist heiss, die Capulets sind draussen,
+Und treffen wir, so gibt es sicher Zank:
+Denn bei der Hitze tobt das tolle Blut.
+
+MERCUTIO
+Du bist mir so ein Zeisig, der, sobald er die Schwelle eines
+Wirtshauses betritt, mit dem Degen auf den Tisch schlaegt und
+ausruft: Gebe Gott, dass ich dich nicht noetig habe!--a kommen
+die Capulets.
+
+MERCUTIO
+Bei meiner Sohle!  Mich kuemmerts nicht.
+
+(Tybalt und andre kommen.)
+
+TYBALT (zu seinen Leuten.)
+Schliesst euch mir an, ich will mit ihnen reden.--
+Guten Tag, Ihr Herrn!  Ein Wort mit Euer einem!
+
+MERCUTIO
+Nur ein Wort mit einem von uns?  Gebt noch was zu, lasst es ein Wort
+und einen Schlag sein!
+
+TYBALT
+Dazu werdet Ihr mich bereit genug finden, wenn Ihr mir Anlass gebt.
+
+MERCUTIO
+Koenntet Ihr ihn nicht nehmen, ohne dass wir ihn gaeben?
+
+TYBALT
+Mercutio, du harmonierst mit Romeo.
+
+MERCUTIO
+Harmonierst?  Was?  Machst du uns zu Musikanten?  Wenn du uns zu
+Musikanten machen willst, so sollst du auch nichts als Dissonanzen
+zu hoeren kriegen.  Hier ist mein Fiedelbogen, wart, der soll Euch
+tanzen lehren!  Alle Wetter!  Ueber das Harmonieren!
+
+BENVOLIO
+Wir reden hier auf oeffentlichem Markt;
+Entweder sucht Euch einen stillern Ort,
+Wo nicht, besprecht Euch kuehl von Eurem Zwist.
+Sonst geht!  Hier gafft ein jedes Aug auf uns.
+
+MERCUTIO
+Zum Gaffen hat das Volk die Augen; lass sie!
+Ich weich und wank um keines willen, ich!
+
+(Romeo tritt auf.)
+
+TYBALT
+Herr, zieht in Frieden!  Hier kommt mein Gesell.
+
+(Romeo tritt auf.)
+
+MERCUTIO
+Ich will gehaengt sein, Herr, wenn Ihr sein Meister seid.
+Doch stellt Euch nur, er wird sich zu Euch halten;
+In dem Sinn moegen Eure Gnaden wohl
+Gesell ihn nennen.
+
+TYBALT
+Hoer, Romeo!  Der Hass, den ich dir schwur,
+Goennt diesen Gruss dir nur: Du bist ein Schurke!
+
+ROMEO
+Tybalt, die Ursach, die ich habe, dich
+Zu lieben, mildert sehr die Wut, die sonst
+Auf diesen Gruss sich ziemt.  Ich bin kein Schurke,
+Drum lebe wohl!  Ich seh, du kennst mich nicht.
+
+TYBALT
+Nein, Knabe, dies entschuldigt nicht den Hohn,
+Den du mir angetan; kehr um und zieh!
+
+ROMEO
+Ich schwoere dir, nie tat ich Hohn dir an.
+Ich liebe mehr dich, als du denken kannst,
+Bis du die Ursach meiner Liebe weisst.
+Drum, guter Capulet, ein Name, den
+Ich wert wie meinen halte, sei zufrieden!
+
+MERCUTIO
+O zahme, schimpfliche, verhasste Demut!
+Die Kunst des Raufers traegt den Sieg davon.--
+
+(Er zieht.)
+
+Tybalt, du Ratzenfaenger, willst du dran?
+
+TYBALT
+Was willst du denn von mir?
+
+MERCUTIO
+Mein guter Katzenkoenig, nichts als eins von Euern neun Leben;
+damit will ich mich nebenbei lustig machen, und wenn Ihr mir
+wieder ueber den Weg lauft, auch die andern acht ausklopfen.
+Wollt Ihr bald Euren Degen bei den Ohren aus der Scheide ziehn?
+Macht zu, sonst habt Ihr meinen um die Ohren, eh er heraus ist.
+
+TYBALT
+Ich steh zu Dienst.
+
+(Er zieht.)
+
+ROMEO
+Lieber Mercutio, steck den Degen ein!
+
+MERCUTIO
+Kommt, Herr!  Lasst Eure Finten sehn!
+
+(Sie fechten.)
+
+ROMEO
+Zieh, Benvolio!
+Schlag zwischen ihre Degen!  Schaemt euch doch
+Und haltet ein mit Wueten!  Tybalt!  Mercutio!
+Der Prinz verbot ausdruecklich solchen Aufruhr
+In Veronas Gassen.  Halt, Tybalt!  Freund Mercutio!
+
+(Tybalt entfernt sich mit seinen Anhaengern.)
+
+MERCUTIO
+Ich bin verwundet.--
+Zum Teufel beider Sippschaft!  Ich bin hin.
+Und ist er fort?  Und hat nichts abgekriegt?
+
+BENVOLIO
+Bist du verwundet, wie?
+
+MERCUTIO
+Ja, ja, geritzt, geritzt!--Wetter, 's ist genug.--
+Wo ist mein Page?--Bursch, hol einen Wundarzt!
+
+(Der Page geht ab.)
+
+ROMEO
+Sei guten Muts, Freund!  Die Wunde kann nicht betraechtlich sein.
+
+MERCUTIO
+Nein, nicht so tief wie ein Brunnen noch so weit wie eine
+Kirchtuere; aber es reicht eben hin.  Fragt morgen nach mir,
+und Ihr werdet einen stillen Mann an mir finden.  Fuer diese
+Welt, glaubts nur, ist mir der Spass versalzen.--Hol der Henker
+eure beiden Haeuser!--Was?  Von einem Hund, einer Maus, einer
+Ratze, einer Katze zu Tode gekratzt zu werden!  Von so einem
+Prahler, einem Schuft, der nach dem Rechenbuche ficht!--Warum
+zum Teufel kamt Ihr zwischen uns?  Unter Eurem Arm wurde ich
+verwundet.
+
+ROMEO
+Ich dacht es gut zu machen.
+
+MERCUTIO
+O hilf mir in ein Haus hinein, Benvolio.
+Sonst sink ich hin.--Zum Teufel eure Haeuser!
+Sie haben Wuermerspeis aus mir gemacht.
+Ich hab es tuechtig weg; verdammte Sippschaft!
+
+(Mercutio und Benvolio ab.)
+
+ROMEO
+Um meinetwillen wurde dieser Ritter,
+Dem Prinzen nah verwandt, mein eigner Freund,
+Verwundet auf den Tod; mein Ruf befleckt
+Durch Tybalts Laesterungen, Tybalts, der
+Seit einer Stunde mir verschwaegert war.
+O suesse Julia, deine Schoenheit hat
+So weibisch mich gemacht; sie hat den Stahl
+Der Tapferkeit in meiner Brust erweicht.
+
+(Benvolio kommt zurueck.)
+
+BENVOLIO
+O Romeo, der wackre Freund ist tot,
+Sein edler Geist schwang in die Wolken sich,
+Der allzu frueh der Erde Staub verschmaeht.
+
+ROMEO
+Nichts kann den Unstern dieses Tages wenden;
+Er hebt das Weh an, andre muessens enden.
+
+(Tybalt kommt zurueck.)
+
+BENVOLIO
+Da kommt der grimmige Tybalt wieder her.
+
+ROMEO
+Am Leben!  Siegreich!  Und mein Freund erschlagen!
+Nun flieh gen Himmel, schonungsreiche Milde!
+Entflammte Wut, sei meine Fuehrerin!
+
+(Tybalt kommt zurueck.)
+
+Nun, Tybalt, nimm den Schurken wieder, den du
+Mir eben gabst!  Der Geist Mercutios
+Schwebt nah noch ueber unsern Haeuptern hin
+Und harrt, dass deiner sich ihm zugeselle.
+Du oder ich!  sonst folgen wir ihm beide.
+
+TYBALT
+Elendes Kind, hier hieltest du's mit ihm
+Und sollst mit ihm von hinnen.
+
+ROMEO
+ Dies entscheide!
+
+(Sie fechten; Tybalt faellt.)
+
+BENVOLIO
+Flieh, Romeo, die Buerger sind in Wehr
+Und Tybalt tot.  Steh so versteinert nicht!
+Flieh, flieh, der Prinz verdammt zum Tode dich,
+Wenn sie dich greifen.  Fort, nur fort mit dir!
+
+ROMEO
+Weh mir, ich Narr des Gluecks!
+
+BENVOLIO
+ Was weilst du noch?
+
+(Romeo ab.  Buerger treten auf.)
+
+EIN BUeRGER
+Wo lief er hin, der den Mercutio totschlug?
+Der Moerder Tybalts?  Hat ihn wer gesehn?
+
+BENVOLIO
+Da liegt der Tybalt.
+
+EIN BUeRGER
+ Auf, Herr, geht mit mir!
+Gehorcht!  Ich mahn Euch von des Fuersten wegen.
+
+(Der Prinz mit Gefolge, Montague, Capulet, ihre
+Gemahlinnen und andre.)
+
+PRINZ
+Wer durfte freventlich hier Streit erregen?
+
+BENVOLIO
+O edler Fuerst, ich kann verkuenden recht
+Nach seinem Hergang dies unselige Gefecht.
+Der deinen wackren Freund Mercutio
+Erschlagen, liegt hier tot, entleibt vom Romeo.
+
+GRAeFIN CAPULET
+Mein Vetter!  Tybalt!  Meines Bruders Kind!
+O Fuerst!  O mein Gemahl!  O seht, noch rinnt
+Das teure Blut!  Mein Fuerst, bei Ehr und Huld,
+Im Blut der Montagues tilg ihre Schuld!--
+O Vetter, Vetter!
+
+PRINZ
+Benvolio, sprich, wer hat den Streit erregt?
+
+BENVOLIO
+Der tot hier liegt, von Romeo erlegt.
+Viel gute Worte gab ihm Romeo,
+Hiess ihn bedenken, wie gering der Anlass,
+Wie sehr zu fuerchten Euer hoechster Zorn.
+Dies alles, vorgebracht mit sanftem Ton,
+Gelassnem Blick, bescheidner Stellung, konnte
+Nicht Tybalts ungezaehmte Wut entwaffnen.
+Dem Frieden taub, berennt mit scharfem Stahl
+Er die entschlossne Brust Mercutios;
+Der kehrt gleich rasch ihm Spitze gegen Spitze
+Und wehrt mit Kaempfertrotz mit einer Hand
+Den kalten Tod ab, schickt ihn mit der andern
+Dem Gegner wieder, des Behendigkeit
+Zurueck ihn schleudert.  Romeo ruft laut:
+Halt, Freunde, auseinander!  Und geschwinder
+Als seine Zunge schlaegt sein ruestger Arm,
+Dazwischen stuerzend, beider Mordstahl nieder.
+Recht unter diesem Arm traf des Mercutio Leben
+Ein falscher Stoss vom Tybalt.  Der entfloh,
+Kam aber gleich zum Romeo zurueck,
+Der eben erst der Rache Raum gegeben.
+Nun fallen sie mit Blitzeseil sich an,
+Denn eh ich ziehen konnt, um sie zu trennen,
+War der beherzte Tybalt umgebracht.
+Er fiel, und Romeo, bestuerzt, entwich.
+Ich rede wahr, sonst fuehrt zum Tode mich.
+
+GRAeFIN CAPULET
+Er ist verwandt mit Montagues Geschlecht,
+Aus Freundschaft spricht er falsch, verletzt das Recht.
+Die Fehd erhoben sie zu ganzen Horden,
+Und alle konnten nur ein Leben morden.
+Ich fleh um Recht; Fuerst, weise mich nicht ab:
+Gib Romeo, was er dem Tybalt gab!
+
+PRINZ
+Er hat Mercutio, ihn Romeo erschlagen;
+Wer soll die Schuld des teuren Blutes tragen?
+
+GRAeFIN MONTAGUE
+Fuerst, nicht mein Sohn, der Freund Mercutios;
+Was dem Gesetz doch heimfiel, nahm er bloss:
+Das Leben Tybalts.
+
+PRINZ
+ Weil er das verbrochen,
+Sei ueber ihn sofort der Bann gesprochen.
+Mich selber trifft der Ausbruch eurer Wut,
+Um euren Zwiespalt fliesst mein eignes Blut;
+Allein ich will dafuer so streng euch buessen,
+Dass mein Verlust euch ewig soll verdriessen.
+Taub bin ich jeglicher Beschoenigung,
+Kein Flehn, kein Weinen kauft Begnadigung;
+Drum spart sie.  Romeo flieh schnell von hinnen!
+Greift man ihn, soll er nicht dem Tod entrinnen.
+Tragt diese Leiche weg!  Vernehmt mein Wort!
+Wenn Gnade Moerder schont, veruebt sie Mord!
+
+(Alle ab.)
+
+
+
+ZWEITE SZENE
+
+(Ein Zimmer in Capulets Hause)
+
+(Julia tritt auf.)
+
+
+JULIA
+Hinab, du flammenhufiges Gespann,
+Zu Phoebus' Wohnung!  Solch ein Wagenlenker
+Wie Phaethon jagt' euch gen Westen wohl
+Und braechte schnell die wolkige Nacht herauf.
+Verbreite deinen dichten Vorhang, Nacht,
+Du Liebespflegerin, damit das Auge
+Der Neubegier sich schliess und Romeo
+Mir unbelauscht in diese Arme schluepfe.
+Verliebten gnuegt zu der geheimen Weihe
+Das Licht der eignen Schoenheit, oder wenn
+Die Liebe blind ist, stimmt sie wohl zur Nacht.
+Komm, ernste Nacht, du zuechtig stille Frau,
+Ganz angetan mit Schwarz, und lehre mich
+Ein Spiel, wo jedes reiner Jugend Bluete
+Zum Pfaende setzt, gewinnend zu verlieren!
+Verhuelle mit dem schwarzen Mantel mir
+Das wilde Blut, das in den Wangen flattert,
+Bis scheue Liebe kuehner wird und nichts
+Als Unschuld sieht in innger Liebe Tun.
+Komm, Nacht!  Komm, Romeo, du Tag in Nacht,
+Denn du wirst ruhn auf Fittichen der Nacht
+Wie frischer Schnee auf eines Raben Ruecken.
+Komm, milde, liebevolle Nacht!  Komm, gib
+Mir meinen Romeo!  Und stirbt er einst,
+Nimm ihn, zerteil in kleine Sterne ihn:
+Er wird des Himmels Antlitz so verschoenen,
+Dass alle Welt sich in die Nacht verliebt
+Und niemand mehr der eitlen Sonne huldigt.--
+Ich habe Lieb erworben wie ein Haus,
+Und durfte noch nicht einziehn; bin verkauft,
+Doch noch nicht uebergeben.  Dieser Tag
+Waehrt so verdriesslich lang mir wie die Nacht
+Vor einem Fest dem ungeduldgen Kinde,
+Das noch sein neues Kleid nicht tragen durfte.
+
+(Die Waerterin mit einer Strickleiter.)
+
+Da kommt die Amme ja, die bringt Bericht,
+Und jede Zunge, die nur Romeo
+Beim Namen nennt, spricht so beredt wie Engel.
+
+(Die Amme tritt auf mit einer Strickleiter.)
+
+Nun, Amme?  Sag, was gibts, was hast du da?
+Die Stricke, die dich Romeo hiess holen?
+
+WAeRTERIN
+Ja, ja, die Stricke!
+
+(Sie wirft sie auf die Erde.)
+
+JULIA
+Weh mir!  Was gibts?  Was ringst du so die Haende?
+
+WAeRTERIN
+Dass Gott erbarm!  Er ist tot, er ist tot, er ist tot!
+Wir sind verloren, Fraeulein, sind verloren!
+O weh uns!  Er ist hin!  Ermordet!  Tot!
+
+JULIA
+So neidisch kann der Himmel sein?
+
+WAeRTERIN
+Ja, das kann Romeo; der Himmel nicht.
+O Romeo, wer haett es je gedacht?
+O Romeo, Romeo!
+
+JULIA
+Welch Teufel bist du, dass du so mich folterst?
+Die grause Hoelle nur bruellt solche Qual.
+Hat Romeo sich selbst ermordet?  Sprich!
+Und sagt du "Ja", vergiftet dieser Laut
+Mehr als des Basilisks todbringend "Aug".
+Ich bin nicht "ich", wenns gibt ein solches "Ja",
+Dies Auge zu, das dich zwingt zu dem "Ja".
+
+{Ein Wortspiel mit den Woertern "aye" (ja), "I" (ich) und
+"eye" (Auge), die alle gleich ausgesprochen werden.}
+
+Ist er entleibt, sag ja, wo nicht, sag nein!
+Ein kurzer Laut entscheidet Wonn und Pein.
+
+WAeRTERIN
+Ich sah die Wunde, meine Augen sahn sie
+--Behuete Gott!--auf seiner tapfern Brust;
+Die blutge Leiche, jaemmerlich und blutig,
+Bleich, bleich wie Asche, ganz mit Blut besudelt,
+Ganz starres Blut--de wieder!  Pulsschlag, hemme dich!
+Ein Sarg empfange Romeo und mich!
+
+WAeRTERIN
+O Tybalt, Tybalt!  O mein bester Freund!
+Leutselger Tybalt, wohlgesinnter Herr!
+So musst ich leben, um dich tot zu sehn?
+
+JULIA
+Was fuer ein Sturm tobt so von jeder Seite?
+Ist Romeo erschlagen?  Tybalt tot?
+Mein teurer Vetter?  Teuerster Gemahl?
+Dann toene nur des Weltgerichts Posaune!
+Wer lebt noch, wenn dahin die beiden sind?
+
+WAeRTERIN
+Dahin ist Tybalt, Romeo verbannt;
+Verbannt ist Romeo, der ihn erschlug.
+
+JULIA
+Gott!  Seine Hand, vergoss sie Tybalts Blut?
+
+WAeRTERIN
+Sie tats, sie tats!  O weh uns, weh, sie tats!
+
+JULIA
+O Schlangenherz, von Blumen ueberdeckt!
+Wohnt' in so schoener Hoehl ein Drache je?
+Holdselger Wuetrich!  Engelgleicher Unhold!
+Ergrimmte Taube!  Lamm mit Wolfesgier!
+Verworfne Art in goettlichster Gestalt!
+Das rechte Gegenteil des, was mit Recht
+Du scheinest: ein verdammter Heiliger,
+Ein ehrenwerter Schurke!--O Natur!
+Was hattest du zu schaffen in der Hoelle,
+Als du des holden Leibes Paradies
+Zum Lustsitz einem Teufel uebergabst?
+War je ein Buch, so arger Dinge voll,
+So schoen gebunden?  Oh, dass Falschheit doch
+Solch herrlichen Palast bewohnen kann!
+
+WAeRTERIN
+Kein Glaube, keine Treu noch Redlichkeit
+Ist unter Maennern mehr.  Sie sind meineidig,
+Falsch sind sie, lauter Schelme, lauter Heuchler!--
+Wo ist mein Diener?  Gebt mir Aquavit!
+Die Not, die Angst, der Jammer macht mich alt.
+Zu Schanden werde Romeo!
+
+JULIA
+ Die Zunge
+Erkranke dir fuer einen solchen Wunsch!
+Er war zur Schande nicht geboren; Schande
+Weilt mit Beschaemung nur auf seiner Stirn.
+Sie ist ein Thron, wo man die Ehre mag
+Als Allbeherrscherin der Erde kroenen.
+O wie unmenschlich war ich, ihn zu schelten!
+
+WAeRTERIN
+Von Eures Vetters Moerder sprecht Ihr Gutes?
+
+JULIA
+Soll ich von meinem Gatten Uebles reden?
+Ach, armer Gatte!  Welche Zunge wird
+Wohl deinem Namen Liebes tun, wenn ich,
+Dein Weib von wenig Stunden, ihn zerrissen?
+Doch, Arger, was erschlugst du meinen Vetter?
+Der Arge wollte den Gemahl erschlagen.
+Zurueck zu eurem Quell, verkehrte Traenen!
+Dem Schmerz gebuehret eurer Tropfen Zoll,
+Ihr bringt aus Irrtum ihn der Freude dar.
+Mein Gatte lebt, den Tybalt fast getoetet,
+Und tot ist Tybalt, der ihn toeten wollte.
+Dies alles ist ja Trost: was wein ich denn?
+Ich hoert ein schlimmres Wort als Tybalts Tod,
+Das mich erwuergte; ich vergaess es gern!
+Doch ach, es drueckt auf mein Gedaechtnis schwer
+Wie Freveltaten auf des Suenders Seele.
+Tybalt ist tot und Romeo verbannt!
+O dies "Verbannt", dies eine Wort "Verbannt"
+Erschlug zehntausend Tybalts.  Tybalts Tod
+War gnug des Wehes, haett es da geendet!
+Und liebt das Leid Gefaehrten, reiht durchaus
+An andre Leiden sich, warum denn folgte
+Auf ihre Botschaft: tot ist Tybalt, nicht:
+Dein Vater, deine Mutter, oder beide?
+Das haette sanftre Klage wohl erregt.
+Allein dies Wort: verbannt ist Romeo,
+Aus jenes Todes Hinterhalt gesprochen,
+Bringt Vater, Mutter, Tybalt, Romeo
+Und Julien um!  Verbannt ist Romeo!
+Nicht Mass noch Ziel kennt dieses Wortes Tod,
+Und keine Zung erschoepfet meine Not.--
+Wo mag mein Vater, meine Mutter sein?
+
+WAeRTERIN
+Bei Tybalts Leiche heulen sie und schrein.
+Wollt Ihr zu ihnen gehn?  Ich bring Euch hin.
+
+JULIA
+So waschen sie die Wunden ihm mit Traenen?
+Ich spare meine fuer ein baengres Sehnen.
+Nimm diese Seile auf.--Ach, armer Strick,
+Getaeuscht wie ich!  Wer bringt ihn uns zurueck?
+Zum Steg der Liebe knuepft' er deine Bande,
+Ich aber sterb als Braut im Witwenstande.
+Komm, Amme, komm!  Ich will ins Brautbett!  Fort!
+Nicht Romeo, den Tod umarm ich dort.
+
+WAeRTERIN
+Geht nur ins Schlafgemach!  Zum Troste find ich
+Euch Romeo: ich weiss wohl, wo er steckt.
+Hoert, Romeo soll Euch zur Nacht erfreuen;
+Ich geh zu ihm; beim Pater wartet er.
+
+JULIA
+O such ihn auf!  Gib diesen Ring dem Treuen;
+Bescheid aufs letzte Lebewohl ihn her!
+
+(Beide ab.)
+
+
+
+DRITTE SZENE
+
+(Bruder Lorenzos Zelle)
+
+(Lorenzo und Romeo kommen.] Bruder Lorenzo tritt auf.)
+
+
+LORENZO
+Komm, Romeo!  Hervor, du Mann der Furcht!
+Bekuemmernis haengt sich mit Lieb an dich,
+Und mit dem Missgeschick bist du vermaehlt.
+
+(Romeo tritt auf.)
+
+ROMEO
+Vater, was gibts?  Wie heisst des Prinzen Spruch?
+Wie heisst der Kummer, der sich zu mir draengt
+Und noch mir fremd ist?
+
+LORENZO
+ Zu vertraut, mein Sohn,
+Bist du mit solchen widrigen Gefaehrten.
+Ich bring dir Nachricht von des Prinzen Spruch.
+
+ROMEO
+Und hat sein Spruch mir nicht den Stab gebrochen?
+
+LORENZO
+Ein mildres Urteil floss von seinen Lippen:
+Nicht Leibes Tod, nur leibliche Verbannung.
+
+ROMEO
+Verbannung?  Sei barmherzig!  Sage: Tod!
+Verbannung traegt der Schrecken mehr im Blick,
+Weit mehr als Tod!--O sage nicht Verbannung!
+
+LORENZO
+Hier aus Verona bist du nur verbannt;
+Sei ruhig, denn die Welt ist gross und weit.
+
+ROMEO
+Die Welt ist nirgends ausser diesen Mauern;
+Nur Fegefeuer, Qual, die Hoelle selbst.
+Von hier verbannt ist aus der Welt verbannt,
+Und solcher Bann ist Tod.  Drum gibst du ihm
+Den falschen Namen.--Nennst du Tod Verbannung,
+Enthauptest du mit goldnem Beile mich
+Und laechelst zu dem Streich, der mich ermordet.
+
+LORENZO
+O schwere Suend, o undankbarer Trotz!
+Dein Fehltritt heisst nach unsrer Satzung Tod;
+Doch dir zulieb hat sie der guetge Fuerst
+Beiseit gestossen und Verbannung nur
+Statt jenes schwarzen Wortes ausgesprochen.
+Und diese teure Gnad erkennst du nicht?
+
+ROMEO
+Nein, Folter; Gnade nicht!  Hier ist der Himmel,
+Wo Julia lebt, und jeder Hund und Katze
+Und kleine Maus, das schlechteste Geschoepf,
+Lebt hier im Himmel, darf ihr Antlitz sehn;
+Doch Romeo darf nicht.  Mehr Wuerdigkeit,
+Mehr Ansehn, mehr gefaellge Sitte lebt
+In Fliegen als in Romeo.  Sie duerfen
+Das Wunderwerk der weissen Hand beruehren
+Und Himmelswonne rauben ihren Lippen,
+Die sittsam in Vestalenunschuld stets
+Erroeten, gleich als waere Suend ihr Kuss.
+Dies duerfen Fliegen tun, ich muss entfliehn;
+Sie sind ein freies Volk, ich bin verbannt.
+Und sagst du noch, Verbannung sei nicht Tod?
+So hattest du kein Gift gemischt, kein Messer
+Geschaerft, kein schmaehlich Mittel schnellen Todes,
+Als dies "Verbannt", zu toeten mich?  Verbannt!
+O Moench!  Verdammte sprechen in der Hoelle
+Dies Wort mit Heulen aus; hast du das Herz,
+Da du ein heilger Mann, ein Beichtiger bist,
+Ein Suendenloeser, mein erklaerter Freund,
+Mich zu zermalmen mit dem Wort Verbannung?
+
+LORENZO
+Du kindisch bloeder Mann, hoer doch ein Wort!
+
+ROMEO
+O du willst wieder von Verbannung sprechen!
+
+LORENZO
+Ich will dir eine Wehr dagegen leihn,
+Der Truebsal suesse Milch, Philosophie,
+Um dich zu troesten, bist du gleich verbannt.
+
+ROMEO
+Und noch verbannt?  Haengt die Philosophie!
+Kann sie nicht schaffen eine Julia,
+Aufheben eines Fuersten Urteilspruch,
+Verpflanzen eine Stadt, so hilft sie nicht,
+So taugt sie nicht, so rede laenger nicht!
+
+LORENZO
+Nun seh ich wohl.  Wahnsinnige sind taub.
+
+ROMEO
+Waers anders moeglich?  Sind doch Weise blind.
+
+LORENZO
+Lass ueber deinen Fall mit dir mich rechten!
+
+ROMEO
+Du kannst von dem, was du nicht fuehlst, nicht reden.
+Waerst du so jung wie ich und Julia dein,
+Vermaehlt seit einer Stund, erschlagen Tybalt,
+Wie ich von Lieb entglueht, wie ich verbannt,
+Dann moechtest du nur reden, moechtest nur
+Das Haar dir raufen, dich zu Boden werfen
+Wie ich und so dein kuenftges Grab dir messen.
+
+([Er wirft sich an den Boden.] Man klopft draussen.)
+
+LORENZO
+Steh auf, man klopft; verbirg dich, lieber Freund!
+
+ROMEO
+O nein, wo nicht des bangen Stoehnens Hauch
+Gleich Nebeln mich vor Spaeheraugen schirmt.
+
+(Man klopft.)
+
+LORENZO
+Horch, wie man klopft!--Wer da?--Fort, Romeo!
+Man wird dich fangen.--Wartet doch ein Weilchen!--
+Steh auf
+
+(Man klopft.)
+
+ und rett ins Lesezimmer dich!--
+
+(Man klopft.)
+
+Ja, ja!  im Augenblick!--Gerechter Gott,
+Was fuer ein starrer Sinn!--ehn und dich zurueckzurufen
+Mit zwanzighunderttausendmal mehr Freude,
+Als du mit Jammer jetzt von hinnen ziehst.
+Geh, Waerterin, voraus, gruess mir dein Fraeulein;
+Heiss sie das ganze Haus zu Bette treiben,
+Wohin der schwere Gram von selbst sie treibt;
+Denn Romeo soll kommen.
+
+WAeRTERIN
+O je, ich blieb hier gern die ganze Nacht
+Und hoerte gute Lehr.  Da sieht man doch,
+Was die Gelahrtheit ist!--Nun, gnaedger Herr,
+Ich will dem Fraeulein sagen, dass Ihr kommt.
+
+ROMEO
+Tu das und sag der Holden, dass sie sich
+Bereite, mich zu schelten.
+
+WAeRTERIN
+ Gnaedger Herr,
+Hier ist ein Ring, den sie fuer Euch mir gab.
+Eilt Euch, macht fort, sonst wird es gar zu spaet.
+
+(Ab.)
+
+ROMEO
+Wie ist mein Mut nun wieder neu belebt!
+
+LORENZO
+Geh!  Gute Nacht!  Und hieran haengt dein Los:
+Entweder geh, bevor man Wachen stellt,
+Wo nicht, verkleidet in der Fruehe fort.
+Verweil in Mantua; ich forsch indessen
+Nach deinem Diener, und er meldet dir
+Von Zeit zu Zeit ein jedes gute Glueck,
+Das hier begegnet.  Gib mir deine Hand!
+Es ist schon spaet.  Fahr wohl denn!  Gute Nacht!
+
+ROMEO
+Mich rufen Freuden ueber alle Freuden,
+Sonst waers ein Leid, von dir so schnell zu scheiden.
+Leb wohl!
+
+(Beide ab.)
+
+
+
+VIERTE SZENE
+
+(Ein Zimmer in Capulets Hause)
+
+(Capulet, Graefin Capulet, Paris.)
+
+
+CAPULET
+Es ist so schlimm ergangen, Graf, dass wir
+Nicht Zeit gehabt, die Tochter anzumahnen.
+Denn seht, sie liebte herzlich ihren Vetter.
+Das tat ich auch; nun, einmal stirbt man doch.--
+Es ist schon spaet, sie kommt nicht mehr herunter,
+Ich sag Euch, waers nicht der Gesellschaft wegen,
+Seit einer Stunde laeg ich schon im Bett.
+
+PARIS
+So truebe Zeit gewaehrt nicht Zeit zum Frein;
+Graefin, schlaft wohl, empfehlt mich Eurer Tochter!
+
+GRAeFIN CAPULET
+Ich tu's und forsche morgen frueh sie aus.
+Heut nacht verschloss sie sich mit ihrem Gram.
+
+CAPULET
+Graf Paris, ich vermesse mich zu stehn
+Fuer meines Kindes Lieb; ich denke wohl,
+Sie wird von mir in allen Stuecken sich
+Bedeuten lassen, ja ich zweifle nicht.--
+Frau, geh noch zu ihr, eh du schlafen gehst,
+Tu meines Sohnes Paris Lieb ihr kund
+Und sag ihr, merk es wohl: auf naechsten Mittwoch!
+Still, was ist heute?
+
+PARIS
+ Montag, edler Herr.
+
+CAPULET
+Montag?  So, so!  Gut, Mittwoch ist zu frueh.
+Sei's Donnerstag!--Sag ihr: am Donnerstag
+Wird sie vermaehlt mit diesem edlen Grafen.
+Wollt Ihr bereit sein?  Liebt Ihr diese Eil?
+Wir tuns im stillen ab: nur ein paar Freunde;
+Denn seht, weil Tybalt erst erschlagen ist,
+So daechte man, er laeg uns nicht am Herzen,
+Als unser Blutsfreund, schwaermten wir zu viel.
+Drum lasst uns ein halb Dutzend Freunde laden
+Und damit gut.  Wie duenkt Euch Donnerstag?
+
+PARIS
+Mein Graf, ich wollte, Donnerstag waer morgen.
+
+CAPULET
+Gut, geht nur heim!  Sei's denn am Donnerstag.--
+Geh, Frau, zu Julien, eh du schlafen gehst,
+Bereite sie auf diesen Hochzeittag.--
+Lebt wohl, mein Graf!
+
+(Paris ab.)
+
+ He!  Licht auf meine Kammer!
+Nach meiner Weise ists so spaet, dass wir
+Bald frueh es nennen koennen.  Gute Nacht!
+
+([Capulet und die Graefin ab.] Alle ab.)
+
+
+
+FUeNFTE SZENE
+
+(Eine offene Galerie vor Juliens Zimmer mit Blick auf den Garten)
+
+(Romeo und Julia.)
+
+
+JULIA
+Willst du schon gehn?  Der Tag ist ja noch fern.
+Es war die Nachtigall und nicht die Lerche,
+Die eben jetzt dein banges Ohr durchdrang;
+Sie singt des Nachts auf dem Granatbaum dort.
+Glaub, Lieber, mir: es war die Nachtigall.
+
+ROMEO
+Die Lerche wars, die Tagverkuenderin,
+Nicht Philomele; sieh den neidschen Streif,
+Der dort im Ost der Fruehe Wolken saeumt.
+Die Nacht hat ihre Kerzen ausgebrannt,
+Der muntre Tag erklimmt die dunstgen Hoehn;
+Nur Eile rettet mich, Verzug ist Tod.
+
+JULIA
+Trau mir, das Licht ist nicht des Tages Licht,
+Die Sonne hauchte dieses Luftbild aus,
+Dein Fackeltraeger diese Nacht zu sein,
+Dir auf dem Weg nach Mantua zu leuchten.
+Drum bleibe noch; zu gehn ist noch nicht not.
+
+ROMEO
+Lass sie mich greifen, ja, lass sie mich toeten!
+Ich gebe gern mich drein, wenn du es willst.
+Nein, jenes Grau ist nicht des Morgens Auge,
+Der bleiche Abglanz nur von Cynthias Stirn.
+Das ist auch nicht die Lerche, deren Schlag
+Hoch ueber uns des Himmels Woelbung trifft.
+Ich bleibe gern; zum Gehn bin ich verdrossen.
+Willkommen, Tod, hat Julia dich beschlossen!--
+Nun, Herz?  Noch tagt es nicht, noch plaudern wir.
+
+JULIA
+Es tagt, es tagt!  Auf, eile, fort von hier!
+Es ist die Lerche, die so heiser singt
+Und falsche Weisen, rauhen Misston gurgelt.
+Man sagt, der Lerche Harmonie sei suess;
+Nicht diese: sie zerreisst die unsre ja.
+Die Lerche, sagt man, wechselt mit der Kroete
+Die Augen; moechte sie doch auch die Stimme!
+Die Stimm ists ja, die Arm aus Arm uns schreckt,
+Dich von mir jagt, da sie den Tag erweckt.
+Stets hell und heller wirds: wir muessen scheiden.
+
+ROMEO
+Hell?  Dunkler stets und dunkler unsre Leiden!
+
+(Die Waerterin kommt herein.)
+
+WAeRTERIN
+Fraeulein!
+
+JULIA
+Amme?
+
+WAeRTERIN
+Die gnaedge Graefin kommt in Eure Kammer;
+Seid auf der Hut; schon regt man sich im Haus.
+
+(Waerterin ab.)
+
+JULIA (das Fenster oeffnend.)
+Tag, schein herein, und Leben, flieh hinaus!
+
+ROMEO
+Ich steig hinab; lass dich noch einmal kuessen!
+
+(Er steigt [aus dem Fenster] herab.)
+
+JULIA (aus dem Fenster ihm nachsehend.)
+Freund!  Gatte!  Trauter!  Bist du mir entrissen?
+Gib Nachricht jeden Tag, zu jeder Stunde;
+Schon die Minut enthaelt der Tage viel.
+Ach, so zu rechnen bin ich hoch in Jahren,
+Eh meinen Romeo ich wiederseh.
+
+ROMEO (ausserhalb.)
+Leb wohl!  Kein Mittel lass ich aus den Haenden,
+Um dir, du Liebe, meinen Gruss zu senden.
+
+JULIA
+O denkst du, dass wir je uns wiedersehn?
+
+ROMEO
+Ich zweifle nicht, und all dies Leiden dient
+In Zukunft uns zu suesserem Geschwaetz.
+
+JULIA
+O Gott, ich hab ein Unglueck ahnend Herz,
+Mir deucht, ich saeh dich, da du unten bist,
+Als laegst du tot in eines Grabes Tiefe.
+Mein Auge truegt mich, oder du bist bleich.
+
+ROMEO
+So, Liebe, scheinst du meinen Augen auch.
+Der Schmerz trinkt unser Blut.  Leb wohl, leb wohl!
+
+(Ab.)
+
+JULIA
+O Glueck, ein jeder nennt dich unbestaendig;
+Wenn du es bist: was tust du mit dem Treuen?
+Sei unbestaendig.  Glueck!  Dann haeltst du ihn
+Nicht lange, hoff ich, sendest ihn zurueck.
+
+GRAeFIN CAPULET (hinter der Szene.)
+He, Tochter, bist du auf?
+
+JULIA
+Wer ruft mich?  Ist es meine gnaedge Mutter?
+Wacht sie so spaet noch, oder schon so frueh?
+Welch ungewohnter Anlass bringt sie her?
+
+(Graefin Capulet kommt herein.)
+
+GRAeFIN CAPULET
+Nun, Julia, wie gehts?
+
+JULIA
+ Mir ist nicht gut.
+
+GRAeFIN CAPULET
+Noch immer weinend um des Vetters Tod?
+Willst du mit Traenen aus der Gruft ihn waschen?
+Und koenntest du's, das rief' ihn nicht ins Leben;
+Drum lass das!  Trauern zeugt von vieler Liebe,
+Doch zu viel trauern zeugt von wenig Witz.
+
+JULIA
+Um einen Schlag, der so empfindlich traf,
+Erlaubt zu weinen mir!
+
+GRAeFIN CAPULET
+ So trifft er dich;
+Der Freund empfindet nichts, den du beweinst.
+
+JULIA
+Doch ich empfind und muss den Freund beweinen.
+
+GRAeFIN CAPULET
+Mein Kind, nicht seinen Tod so sehr beweinst du,
+Als dass der Schurke lebt, der ihn erschlug.
+
+JULIA
+Was fuer ein Schurke?
+
+GRAeFIN CAPULET
+ Nun, der Romeo.
+
+JULIA (beiseit.)
+Er und ein Schurk sind himmelweit entfernt.--
+
+(Laut.)
+
+Vergeb ihm Gott!  Ich tu's von ganzem Herzen;
+Und dennoch kraenkt kein Mann, wie er, mein Herz.
+
+GRAeFIN CAPULET
+Ja freilich, weil der Meuchelmoerder lebt.
+
+JULIA
+Ja, wo ihn diese Haende nicht erreichen!--
+O raechte niemand doch als ich den Vetter!
+
+GRAeFIN CAPULET
+Wir wollen Rache nehmen, sorge nicht;
+Drum weine du nicht mehr.  Ich send an jemand
+Zu Mantua, wo der Verlaufne lebt,
+Der soll ein kraeftig Traenkchen ihm bereiten,
+Das bald ihn zum Gefaehrten Tybalts macht.
+Dann wirst du hoffentlich zufrieden sein.
+
+JULIA
+Fuerwahr, ich werde nie mit Romeo
+Zufrieden sein, erblick ich ihn nicht--tot--,
+Wenn so mein Herz um einen Blutsfreund leidet.
+Ach, faendet Ihr nur jemand, der ein Gift
+Ihm reichte, gnaedge Frau; ich wollt es mischen,
+Dass Romeo, wenn ers genommen, bald
+In Ruhe schliefe.--Wie mein Herz es hasst,
+Ihn nennen hoeren--und nicht zu ihm koennen,
+Die Liebe, die ich zu dem Vetter trug,
+An dem, der ihn erschlagen hat, zu buessen!
+
+GRAeFIN CAPULET
+Findst du das Mittel, find ich wohl den Mann.
+Doch bring ich jetzt dir frohe Zeitung, Maedchen.
+
+JULIA
+In so bedraengter Zeit kommt Freude recht.
+Wie lautet sie, ich bitt Euch, gnaedge Mutter?
+
+GRAeFIN CAPULET
+Nun Kind, du hast 'nen aufmerksamen Vater:
+Um dich von deinem Truebsinn abzubringen,
+Ersann er dir ein ploetzlich Freudenfest,
+Des ich so wenig mich versah wie du.
+
+JULIA
+Ei, wie erwuenscht!  Was waer das, gnaedge Mutter?
+
+GRAeFIN CAPULET
+Ja, denk dir, Kind, am Donnerstag fruehmorgens
+Soll der hochedle, wackre junge Herr,
+Graf Paris, in Sankt Peters Kirche dich
+Als frohe Braut an den Altar geleiten.
+
+JULIA
+Nun, bei Sankt Peters Kirch und Petrus selbst,
+Er soll mich nicht als frohe Braut geleiten!
+Mich wundert diese Eil, dass ich vermaehlt
+Muss werden, eh mein Freier kommt zu werben.
+Ich bitt Euch, gnaedge Frau, sagt meinem Vater
+Und Herrn, ich wollte noch mich nicht vermaehlen,
+Und wenn ichs tue, schwoer ich: Romeo,
+Von dem Ihr wisst, ich hass ihn, soll es lieber
+Als Paris sein.--Fuerwahr, das ist wohl Zeitung!
+
+GRAeFIN CAPULET
+Da kommt dein Vater, sag du selbst ihm das,
+Sieh, wie er sichs von dir gefallen laesst.
+
+(Capulet und die Waerterin kommen.)
+
+CAPULET
+Die Luft sprueht Tau beim Sonnenuntergang,
+Doch bei dem Untergange meines Neffen,
+Da giesst der Regen recht.
+Was?  Eine Traufe, Maedchen?  Stets in Traenen?
+Stets Regenschauer?  In so kleinem Koerper
+Spielst du auf einmal See und Wind und Kahn,
+Denn deine Augen ebben stets und fluten
+Von Traenen wie die See; dein Koerper ist der Kahn,
+Der diese salzge Flut befaehrt; die Seufzer
+Sind Winde, die, mit deinen Traenen tobend,
+Wie die mit ihnen, wenn nicht Stille ploetzlich
+Erfolgt, den hin und her geworfnen Koerper
+Zertruemmern werden.--Nun, wie steht es, Frau?
+Hast du ihr unsern Ratschluss hinterbracht?
+
+GRAeFIN CAPULET
+Ja, doch sie will es nicht, sie dankt Euch sehr.
+Waer doch die Toerin ihrem Grab vermaehlt!
+
+CAPULET
+Sacht, rede deutlich, rede deutlich, Frau!
+Was?  Will sie nicht?  Weiss sie uns keinen Dank?
+Ist sie nicht stolz?  Schaetzt sie sich nicht beglueckt,
+Dass wir solch einen wuerdgen Herrn vermocht,
+Trotz ihrem Unwert, ihr Gemahl zu sein?
+
+JULIA
+Nicht stolz darauf, doch dankbar, dass Ihrs tatet.
+Stolz kann ich nie auf das sein, was ich hasse,
+Doch dankbar selbst fuer Hass, gemeint wie Liebe.
+
+CAPULET
+Ei seht mir, seht mir!  Kramst du Weisheit aus?
+Stolz--und ich dank Euch--ner Schleife hin.
+Pfui, du bleichsuechtges Ding, du lose Dirne!
+Du Talggesicht!
+
+GRAeFIN CAPULET
+ O pfui!  Seid Ihr von Sinnen?
+
+JULIA
+Ich fleh Euch auf den Knien, mein guter Vater,
+Hoert mit Geduld ein einzig Wort nur an!
+
+CAPULET
+Geh mir zum Henker, widerspenstge Dirne!
+Ich sage dirs: zur Kirch auf Donnerstag,
+Sonst komm mir niemals wieder vors Gesicht.
+Sprich nicht!  Erwidre nicht!  Gib keine Antwort!
+Die Finger jucken mir.  O Weib, wir glaubten
+Uns kaum genug gesegnet, weil uns Gott
+Dies eine Kind nur sandte; doch nun seh ich,
+Dies eine war um eines schon zuviel,
+Und nur ein Fluch ward uns in ihr beschert.
+Du Hexe!
+
+WAeRTERIN
+ Gott im Himmel segne sie!
+Eur Gnaden tun nicht wohl, sie so zu schelten.
+
+CAPULET
+Warum, Frau Weisheit?  Haltet Euern Mund,
+Prophetin!  Schnattert mit Gevatterinnen!
+
+WAeRTERIN
+Ich sage keine Schelmstueck!
+
+CAPULET
+ Geht mit Gott!
+
+WAeRTERIN
+Darf man nicht sprechen?
+
+CAPULET
+ Still doch, altes Waschmaul!
+Spart Eure Predigt zum Gevatterschmaus;
+Hier brauchen wir sie nicht.
+
+GRAeFIN CAPULET
+ Ihr seid zu hitzig!
+
+CAPULET
+Gotts Sakrament, es macht mich toll!  Bei Tag,
+Bei Nacht, spaet, frueh, allein und in Gesellschaft,
+Zu Hause, draussen, wachend und im Schlaf,
+War meine Sorge stets, sie zu vermaehlen.
+Nun, da ich einen Herrn ihr ausgemittelt,
+Von fuerstlicher Verwandtschaft, schoenen Guetern,
+Jung, edel auferzogen, ausstaffiert,
+Wie man wohl sagt, mit ritterlichen Gaben,
+Kurz, wie man einen Mann sich wuenschen moechte,
+Und dann ein albern, winselndes Geschoepf,
+Ein weinerliches Pueppchen da zu haben,
+Die, wenn ihr Glueck erscheint, zur Antwort gibt:
+Heiraten will ich nicht, ich kann nicht lieben,
+Ich bin zu jung, ich bitt, entschuldigt mich.--
+Gut, willst du nicht, du sollst entschuldigt sein;
+Gras', wo du willst, du sollst bei mir nicht hausen.
+Sieh zu!  Bedenk!  Ich pflege nicht zu spassen.
+Der Donnerstag ist nah: die Hand aufs Herz!
+Und bist du mein, so soll mein Freund dich haben;
+Wo nicht, geh, bettle, hungre, stirb am Wege!
+Denn nie, bei meiner Seel, erkenn ich dich,
+Und nichts, was mein, soll dir zugute kommen.
+Bedenk dich!  Glaub, ich halte, was ich schwur!
+
+(Ab.)
+
+JULIA
+Und wohnt kein Mitleid droben in den Wolken,
+Das in die Tiefe meines Jammers schaut?
+O suesse Mutter, stoss mich doch nicht weg!
+Nur einen Monat, eine Woche Frist!
+Wo nicht, bereite mir das Hochzeitsbette
+In jener duestern Gruft, wo Tybalt liegt!
+
+GRAeFIN CAPULET
+Sprich nicht zu mir, ich sage nicht ein Wort.
+Tu, was du willst, denn ich bin mit dir fertig.
+
+(Ab.)
+
+JULIA
+O Gott!  Wie ist dem vorzubeugen, Amme?
+Mein Gatt auf Erden, meine Treu im Himmel--
+Wie soll die Treu zur Erde wiederkehren,
+Wenn sie der Gatte nicht, der Erd entweichend,
+Vom Himmel sendet?  Troeste, rate, hilf!
+Weh, weh mir, dass der Himmel solche Tuecken
+An einem sanften Wesen uebt wie mir!
+Was sagst du?  Hast du kein erfreuend Wort,
+Kein Wort des Trostes?
+
+WAeRTERIN
+ Meiner Seel, hier ists:
+Er ist verbannt, und tausend gegen eins,
+Dass er sich nimmer wieder her getraut,
+Euch anzusprechen; oder taet ers doch,
+So muesst es schlechterdings verstohlen sein.
+Nun, weil denn so die Sachen stehn, so denk ich,
+Das beste waer, dass Ihr den Grafen naehmt.
+Ach, er ist solch ein allerliebster Herr!
+Ein Lump ist Romeo nur gegen ihn.
+Ein Adlersauge, Fraeulein, ist so grell,
+So schoen, so feurig nicht, wie Paris seins.
+Ich will verwuenscht sein, ist die zweite Heirat
+Nicht wahres Glueck fuer Euch; weit vorzuziehn
+Ist sie der ersten.  Oder waer sie's nicht?
+Der erste Mann ist tot, so gut als tot;
+Denn lebt er schon, habt Ihr doch nichts von ihm.
+
+JULIA
+Sprichst du von Herzen?
+
+WAeRTERIN
+ Und von ganzer Seele,
+Sonst moege Gott mich strafen!
+
+JULIA
+ Amen!
+
+WAeRTERIN
+ Was?
+
+JULIA
+Nun ja, du hast mich wunderbar getroestet.
+Geh, sag der Mutter, weil ich meinen Vater
+Erzuernt, so woll ich nach Lorenzos Zelle,
+Zu beichten und Vergebung zu empfangen.
+
+WAeRTERIN
+Gewiss, das will ich; Ihr tut weislich dran.
+
+(Ab.)
+
+JULIA
+O alter Erzfeind, hoellischer Versucher!
+Ists aergre Suende, so zum Meineid mich
+Verleiten, oder meinen Gatten schmaehn
+Mit eben dieser Zunge, die zuvor
+Viel tausendmal ihn ohne Mass und Ziel
+Gepriesen hat?--
+Seht, wie sie froehlich aus der Beichte kommt!
+
+(Julia tritt auf.)
+
+CAPULET
+Nun, Starrkopf?  Sag, wo bist herumgeschwaermt?
+
+JULIA
+Wo ich gelernt, die Suende zu bereun
+Hartnaeckgen Ungehorsams gegen Euch
+Und Eur Gebot, und wo der heilge Mann
+Mir auferlegt, vor Euch mich hinzuwerfen,
+Vergebung zu erflehn.--Vergebt, ich bitt Euch!
+Von nun an will ich stets Euch folgsam sein.
+
+CAPULET
+Schickt nach dem Grafen, geht und sagt ihm dies.
+Gleich morgen frueh will ich dies Band geknuepft sehn.
+
+JULIA
+Ich traf den jungen Grafen bei Lorenzo,
+Und alle Huld und Lieb erwies ich ihm,
+So das Gesetz der Zucht nicht uebertritt.
+
+CAPULET
+Nun wohl, das freut mich, das ist gut.--Steh auf!
+So ist es recht.--Lasst mich den Grafen sehn.
+Potztausend, geht, sag ich, und holt ihn her!--
+So wahr Gott lebt, der wuerdge fromme Pater,
+Von unsrer ganzen Stadt verdient er Dank.
+
+JULIA
+Kommt, Amme, wollt Ihr mit mir auf mein Zimmer?
+Mir helfen Putz erlesen, wie Ihr glaubt,
+Dass mir geziemt, ihn morgen anzulegen?
+
+GRAeFIN CAPULET
+Nein, nicht vor Donnerstag; es hat noch Zeit.
+
+CAPULET
+Geh mit ihr, Amme, morgen gehts zur Kirche.
+
+(Julia und die Waerterin ab.)
+
+GRAeFIN CAPULET
+Die Zeit wird kurz zu unsrer Anstalt fallen;
+Es ist fast Nacht.
+
+CAPULET
+ Blitz!  Ich will frisch mich ruehren,
+Und alles soll schon gehn, Frau, dafuer steh ich.
+Geh du zu Julien, hilf an ihrem Putz.
+Ich gehe nicht zu Bett; lass mich gewaehren,
+Ich will die Hausfrau diesmal machen.--Heda!--
+Kein Mensch zur Hand?--Gut, ich will selber gehn
+Zum Grafen Paris, um ihn anzutreiben
+Auf morgen frueh; mein Herz ist maechtig leicht,
+Seit dies verkehrte Maedchen sich besonnen.
+
+(Capulet und die Graefin ab.)
+
+
+
+DRITTE SZENE
+
+(Juliens Kammer)
+
+(Julia und die Waerterin.)
+
+
+JULIA
+Ja, dieser Anzug ist der beste.--Doch
+Ich bitt dich, liebe Amme, lass mich nun
+Fuer diese Nacht allein; denn viel Gebete
+Tun not mir, um den Himmel zu bewegen,
+Dass er auf meinen Zustand gnaedig laechle,
+Der, wie du weisst, verderbt und suendlich ist.
+
+(Graefin Capulet kommt.)
+
+GRAeFIN CAPULET
+Seid ihr geschaeftig?  Braucht ihr meine Huelfe?
+
+JULIA
+Nein, gnaedge Mutter, wir erwaehlten schon
+Zur Tracht fuer morgen alles Zubehoer.
+Gefaellt es Euch, so lasst mich jetzt allein
+Und lasst zu Nacht die Amme mit Euch wachen,
+Denn sicher habt Ihr alle Haende voll
+Bei dieser eilgen Anstalt.
+
+GRAeFIN CAPULET
+ Gute Nacht!
+Geh nun zu Bett und ruh; du hast es noetig.
+
+(Graefin Capulet und die Waerterin ab.)
+
+JULIA
+Lebt wohl!--Gott weiss, wann wir uns wiedersehn.
+Kalt rieselt matter Schau'r durch meine Adern,
+Der fast die Lebenswaerm erstarren macht.
+Ich will zurueck sie rufen mir zum Trost.
+Amme!--Doch was soll sie hier?
+Mein duestres Spiel muss ich allein vollenden.
+Komm du, mein Kelch!--
+Doch wie, wenn dieser Trank nun gar nichts wirkte,
+Wird man dem Grafen mit Gewalt mich geben?
+Nein, nein!  Dies solls verwehren.  Lieg du hier!--
+
+(Sie legt einen Dolch neben sich.)
+
+Wie?  Waer es Gift, das mir mit schlauer Kunst
+Der Moench bereitet, mir den Tod zu bringen,
+Auf dass ihn diese Heirat nicht entehre,
+Weil er zuvor mich Romeo vermaehlt?
+So, fuercht ich, ists!--Doch duenkt mich, kanns nicht sein,
+Denn er ward stets ein frommer Mann erfunden.
+Ich will nicht Raum so boesem Argwohn geben.
+Wie aber, wenn ich, in die Gruft gelegt,
+Erwache vor der Zeit, da Romeo
+Mich zu erloesen kommt?  Furchtbarer Fall!
+Werd ich dann nicht in dem Gewoelb ersticken,
+Des giftger Mund nie reine Luefte einhaucht,
+Und so erwuergt da liegen, wann er kommt?
+Und leb ich auch, koennt es nicht leicht geschehn,
+Dass mich das grause Bild von Tod und Nacht
+Zusammen mit den Schrecken jenes Ortes
+Dort im Gewoelb in alter Katakombe,
+Wo die Gebeine aller meiner Ahnen
+Seit vielen hundert Jahren aufgehaeuft,
+Wo frisch beerdigt erst der blutge Tybalt
+Im Leichentuch verwest; wo, wie man sagt,
+In mitternaechtger Stunde Geister hausen--
+Weh, weh!--koennt es nicht leicht geschehn, dass ich,
+Zu frueh erwachend--und nun ekler Dunst,
+Gekreisch wie von Alraunen, die man aufwuehlt,
+Das Sterbliche, die's hoeren, sinnlos macht--
+Oh, wach ich auf, werd ich nicht rasend werden,
+Umringt von all den greuelvollen Schrecken,
+Und toll mit meiner Vaeter Gliedern spielen?
+Und Tybalt aus dem Leichentuche zerren?
+Und in der Wut mit irgendeines Ahnherrn
+Gebein zerschlagen mein zerruettet Hirn?
+O da!  Mich duenkt, ich sehe Tybalts Geist!
+Er spaeht nach Romeo, der seinen Leib
+Auf einen Degen spiesste.--Tybalt, halt!--
+Ich komme, Romeo!  Dies trink ich dir!
+
+([Sie trinkt und] wirft sich auf das Bett.)
+
+
+
+VIERTE SZENE
+
+(Ein Saal in Capulets Hause)
+
+(Graefin Capulet und die Waerterin.)
+
+
+GRAeFIN CAPULET
+Da, nehmt die Schluessel, holt noch mehr Gewuerz!
+
+WAeRTERIN
+Sie wollen Quitten und Orangen haben
+Fuer ihre Baeckerei.
+
+(Capulet kommt.)
+
+CAPULET
+Auf, ruehrt euch, frisch!  Schon kraeht der zweite Hahn,
+Die Morgenglocke laeutet; 's ist drei Uhr.
+Sieh nach dem Backwerk, Frau Angelika,
+Spar nichts daran!
+
+WAeRTERIN
+ Topfgucker!  Geht nur, geht!
+Macht Euch zu Bett!  Ja, Ihr seid morgen krank,
+Wenn Ihr die ganze Nacht nicht schlaf!
+
+CAPULET
+Kein bisschen!  Was!  Ich hab um Kleiners wohl
+Die Naechte durchgewacht und war nie krank.
+
+GRAeFIN CAPULET
+Ja, ja!  Ihr wart ein feiner Vogelsteller
+Zu Eurer Zeit!  Nun aber will ich Euch
+Vor solchem Wachen schon bewachen.
+
+(Graefin und Waerterin ab.)
+
+CAPULET
+O Ehestand, o Wehestand!  Nun, Kerle!
+
+(Diener mit Bratspiessen, Scheiten und Koerben treten auf.)
+
+Was bringt ihr da!
+
+(Diener mit Bratspiessen, Scheiten und Koerben gehn ueber die Buehne.)
+
+ERSTER DIENER
+'s ist fuer den Koch, Herr; was, das weiss ich nicht.
+
+CAPULET
+Macht zu, macht zu!
+
+(Erster Diener ab.)
+
+ Hol trockne Kloetze, Bursch!
+Ruf Petern, denn der weiss es, wo sie sind.
+
+ZWEITER DIENER
+Braucht Ihr 'nen Klotz, Herr, bin ich selber da
+Und hab nicht noetig, Petern anzugehn.
+
+(Ab.)
+
+CAPULET
+Blitz!  Gut gesagt!  Ein lustger Teufel!  ha,
+Du sollst das Haupt der Kloetze sein.--Wahrhaftig,
+'s ist Tag; der Graf wird mit Musik gleich kommen.
+Das woll er, sagt' er ja; ich hoer ihn schon.
+
+(Musik hinter der Szene.)
+
+Frau!  Waerterin!  He, sag ich, Waerterin!
+
+(Die Waerterin kommt.)
+
+Weckt Julien auf!  Geht, putzt sie mir heraus!
+Ich geh indes und plaudre mit dem Grafen.
+Eilt Euch, macht fort!  Der Braeutgam ist schon da.
+Fort, sag ich Euch.
+
+(Beide ab.)
+
+
+
+FUeNFTE SZENE
+
+(Juliens Kammer)
+
+(Julia auf dem Bett.  Die Waerterin kommt.)
+
+
+WAeRTERIN
+Fraeulein!--Nun, Fraeulein!  Julia!--Nun, das schlaeft!
+He, Lamm!  He, Fraeulein!  Pfui, Langschlaeferin!
+Mein Schaetzchen, sag ich!  Suesses Herz!  Mein Braeutchen!
+Was, nicht ein Laut?  Ihr nehmt Eur Teil voraus,
+Schlaft fuer 'ne Woche; denn ich steh dafuer,
+Auf naechste Nacht hat seine Ruh Graf Paris
+Daran gesetzt, dass wenig Ruh Ihr habt!
+Behuet der Herr sie!  Wie gesund sie schlaeft!
+Ich muss sie aber wecken.--Fraeulein!  Fraeulein!
+Lasst Euch den Grafen nur im Bett ertappen,
+Der wird Euch schon ermuntern; meint Ihr nicht?--
+Was, schon in vollen Kleidern?  Und so wieder
+Sich hingelegt?  Ich muss durchaus Euch wecken.
+He, Fraeulein!  Fraeulein!  Fraeulein!--
+Dass Gott, dass Gott!  Zu Huelfe!  Sie ist tot!
+Ach, liebe Zeit!  Dass ich je ward geboren!
+Bringt Weingeist, he!  He, gnaedger Herr!  Frau Graefin!
+
+(Grafin Capulet kommt.)
+
+GRAeFIN CAPULET
+Was ist das fuer ein Laerm?
+
+WAeRTERIN
+ O Unglueckstag!
+
+GRAeFIN CAPULET
+Was gibts?
+
+WAeRTERIN
+ Seht, seht nur!  O betruebter Tag!
+
+GRAeFIN CAPULET
+O weh, o weh!  Mein Kind, mein einzig Leben!
+Erwach, leb auf, ich sterbe sonst mit dir!
+O Huelfe, Huelfe!  Ruft doch Huelfe!
+
+(Capulet kommt.)
+
+CAPULET
+Schaemt euch!  Bringt Julien her!  Der Graf ist da.
+
+WAeRTERIN
+Ach sie ist tot, verblichen, tot!  O wehe!
+
+GRAeFIN CAPULET
+O wehe, wehe, sie ist tot, tot, tot!
+
+CAPULET
+Lasst mich sie sehn!--Gott helf uns!  Sie ist kalt,
+Ihr Blut steht still, die Glieder sind ganz starr,
+Von diesen Lippen schied das Leben laengst,
+Der Tod liegt auf ihr, wie ein Maienfrost
+Auf des Gefildes schoenster Blume liegt.
+Fluch dieser Stund!  Ich armer alter Mann!
+
+WAeRTERIN
+O Unglueckstag!
+
+GRAeFIN CAPULET
+ O jammervolle Stunde!
+
+CAPULET
+Der Tod, der mir sie nahm, mir Klagen auszupressen,
+Er bindet meine Zung und macht sie stumm.
+
+(Bruder Lorenzo, Graf Paris und Musikanten treten auf.)
+
+LORENZO
+Kommt!  Ist die Braut bereit zur Kirch zu gehn?
+
+CAPULET
+Bereit zu gehn, um nie zurueckzukehren.--
+O Sohn, die Nacht vor deiner Hochzeit buhlte
+Der Tod mit deiner Braut.  Sieh, wie sie liegt,
+Die Blume, die in seinem Arm verbluehte.
+Mein Eidam ist der Tod, der Tod mein Erbe;
+Er freite meine Tochter.  Ich will sterben,
+Ihm alles lassen; wer das Leben laesst,
+Der laesst dem Tode alles.
+
+PARIS
+Hab ich nach dieses Morgens Licht geschmachtet,
+Und bietet es mir solchen Anblick dar?
+
+GRAeFIN CAPULET
+Unseliger, verhasster, schwarzer Tag!
+Der Stunden jammervollste, so die Zeit
+Seit ihrer langen Pilgerschaft gesehn.
+Nur eins, ein einzig armes, liebes Kind,
+Ein Wesen nur, mich dran zu freun, zu laben--
+Und grausam riss es nun der Tod mir weg!
+
+WAeRTERIN
+O Weh!  O Jammer--Jammer--Sachen hier sehn gar erbaermlich aus.
+
+(Ab.)
+
+[ZWEITER] ERSTER MUSIKANT (zeigt auf sein Instrument.)
+Ja, meiner Treu, die Sachen hier koennten wohl besser aussehen,
+aber sie klingen doch gut.
+
+{Im Original bezieht der Musiker den Ausspruch der Amme aufgrund
+der Doppeldeutigkeit des Wortes "case" (Sache, Kasten) auf den
+Kasten fuer sein Instrument: "Ja, bei meiner Treu, den Kasten kann
+man doch ausbessern."}
+
+PETER
+O Musikanten, Musikanten, spielt:
+"Frisch auf, mein Herz!  Frisch auf, mein Herz, und singe!"
+O spielt, wenn euch mein Leben lieb ist, spielt:
+"Frisch auf, mein Herz!"
+
+ERSTER MUSIKANT
+Warum: "Frisch auf, mein Herz?"
+
+PETER
+O Musikanten, weil mein Herz selber spielt: "Mein Herz voll Angst
+und Noeten." O spielt mir eine lustige Litanei, um mich aufzurichten.
+
+[ZWEITER] ERSTER MUSIKANT
+Nichts da von Litanei!  Es ist jetzt nicht Spielens Zeit.
+
+PETER
+Ihr wollt es also nicht?
+
+[MUSIKANTEN] ERSTER MUSIKANT
+Nein.
+
+PETER
+Nun, so will ich es euch schon [eintraenken] gruendlich geben.
+
+ERSTER MUSIKANT
+Was wollt Ihr uns [eintraenken] geben?
+
+PETER
+[Keinen Wein] Kein Geld, wahrhaftig; sondern Spott,--ich werde
+es euch geben, indem ich euch als Spielmaenner beschimpfe.
+
+ERSTER MUSIKANT
+Dann werde ich Euch eine Dienstboten-Kreatur nennen.
+
+PETER
+Dann wird Euer Schaedel den Dolch dieser Dienstboten-Kreatur zu
+spueren bekommen.  Ich dulde solche Toene nicht: [ich will euch eure
+Instrumente um den Kopf schlagen.] Ich will euch befa-sol-laen.
+Das notiert euch!
+
+ERSTER MUSIKANT
+Wenn Ihr uns befa-sol-laet, so notiert Ihr uns.
+
+ZWEITER MUSIKANT
+Bitte steckt Euren Dolch ein und zieht Euren Witz hervor.
+
+PETER
+Dann legt euch mit meinem Witz an!  Ich werde euch mit eisernem
+Witz verbleuen und meinen eisernen Dolch einstecken.--
+[Hoert, spannt mir einmal eure Schafskoepfe wie die Schafsdaerme an
+euren Geigen.] Antwortet verstaendlich: Wenn in der Leiden hartem Drang
+Das bange Herze will erliegen,
+Musik mit ihrem Silberklang--Warum "Silberklang"?  warum "Musik
+mit ihrem Silberklang"?  Was sagt Ihr, Hans Kolophonium?
+
+ERSTER MUSIKANT
+Ei nun, Musje, weil Silber einen feinen Klang hat.
+
+PETER
+Recht artig!  Was sagt Ihr, Michel Hackebrett?
+
+ZWEITER MUSIKANT
+Ich sage "Silberklang", weil Musik nur fuer Silber klingt.
+
+PETER
+Auch recht artig!  Was sagt Ihr, Jakob Gellohr?
+
+DRITTER MUSIKANT
+Mein Seel, ich weiss nicht, was ich sagen soll.
+
+PETER
+Oh, ich bitt Euch um Vergebung!  Ihr seid der Saenger, Ihr singt
+nur; so will ich es denn fuer Euch sagen.  Es heisst "Musik mit
+ihrem Silberklang", weil solche Kerle wie Ihr kein Gold fuers
+Spielen kriegen!  Musik mit ihrem Silberklang
+Weiss huelfreich ihnen obzusiegen.
+
+(Geht [singend] ab.)
+
+ERSTER MUSIKANT
+Was fuer ein Pestkerl ist das?
+
+ZWEITER MUSIKANT
+Hol ihn der Henker!  Kommt, wir wollen hier hineingehn, auf
+die Trauerleute warten und sehen, ob es nichts zu essen gibt.
+
+(Alle ab.)
+
+
+
+
+FUeNFTER AKT
+
+
+
+ERSTE SZENE
+
+(Mantua.  Eine Strasse)
+
+(Romeo tritt auf.)
+
+
+ROMEO
+Darf ich dem Schmeichelblick des Schlafes traun,
+So deuten meine Traeum ein nahes Glueck.
+Leicht auf dem Thron sitzt meiner Brust Gebieter;
+Mich hebt ein ungewohnter Geist mit frohen
+Gedanken diesen ganzen Tag empor.
+Mein Maedchen, traeumt ich, kam und fand mich tot
+--Seltsamer Traum, der Tote denken laesst!--
+Und hauchte mir solch Leben ein mit Kuessen,
+Dass ich vom Tod erstand und Kaiser war.
+Ach Herz!  Wie suess ist Liebe selbst begabt,
+Da schon so reich an Freud ihr Schatten ist!
+
+(Balthasar tritt auf.)
+
+Ha, Neues von Verona!  Sag, wie stehts?
+Bringst du vom Pater keine Briefe mit?
+Was macht mein teures Weib?  Wie lebt mein Vater?
+Ist meine Julie wohl?  Das frag ich wieder,
+Denn nichts kann uebel stehn, gehts ihr nur wohl.
+
+BALTHASAR
+Nun, ihr gehts wohl, und nichts kann uebel stehn.
+Ihr Koerper schlaeft in Capulets Begraebnis,
+Und ihr unsterblich Teil lebt bei den Engeln.
+Ich sah sie senken in der Vaeter Gruft
+Und ritt in Eil hieher, es Euch zu melden.
+O Herr, verzeiht die schlimme Botschaft mir,
+Weil Ihr dazu den Auftrag selbst mir gabt!
+
+ROMEO
+Ist es denn so?  Ich biet euch Trotz, ihr Sterne!--
+Du kennst mein Haus, hol mir Papier und Tinte
+Und miete Pferde; ich will fort zu Nacht.
+
+BALTHASAR
+Verzeiht, ich darf Euch so nicht lassen, Herr!
+Ihr seht so blass und wild, und Eure Blicke
+Weissagen Unglueck.
+
+ROMEO
+ Nicht doch, du betruegst dich.
+Lass mich und tu, was ich dich heisse tun.
+Hast du fuer mich vom Pater keine Briefe?
+
+BALTHASAR
+Nein, bester Herr.
+
+ROMEO
+ Es tut nichts; mach dich auf
+Und miete Pferd', ich komme gleich nach Haus.
+
+(Balthasar ab.)
+
+Wohl, Julia, heute nacht ruh ich bei dir.
+Ich muss auf Mittel sinnen.--O wie schnell
+Draengt Unheil sich in der Verzweiflung Rat!
+Mir faellt ein Apotheker ein; er wohnt
+Hier irgendwo herum.--Ich sah ihn neulich,
+Zerlumpt, die Augenbrauen ueberhangend;
+Er suchte Kraeuter aus; hohl war sein Blick,
+Ihn hatte herbes Elend ausgemergelt.
+Ein Schildpatt hing in seinem duerftgen Laden,
+Ein ausgestopftes Krokodil und Haeute
+Von missgestalten Fischen; auf dem Sims
+Ein bettelhafter Prunk von leeren Buechsen
+Und gruene Toepfe, Blasen, muffger Samen,
+Bindfaden-Endchen, alte Rosenkuchen,
+Das alles duenn verteilt, zur Schau zu dienen.
+Betrachtend diesen Mangel, sagt ich mir:
+Beduerfte jemand Gift hier, des Verkauf
+In Mantua sogleich zum Tode fuehrt,
+Da lebt ein armer Schelm, ders ihm verkaufte.
+Oh, der Gedanke zielt' auf mein Beduerfnis,
+Und dieser duerftge Mann muss mirs verkaufen.
+Soviel ich mich entsinn, ist dies das Haus.
+Weils Festtag ist, schloss seinen Kram der Bettler.
+Hei Holla!  Apotheker!
+
+(Der Apotheker kommt heraus.)
+
+APOTHEKER
+ Wer ruft so laut?
+
+ROMEO
+Mann, komm hieher!--erregt mir Schrecken.
+
+(Entfernt sich.)
+
+ROMEO
+O du verhasster Schlund, du Bauch des Todes,
+Der du der Erde Koestlichstes verschlangst,
+So brech ich deine morschen Kiefer auf
+
+(Er bricht die Tuer des Grabmals auf.)
+
+Und will, zum Trotz, noch mehr dich ueberfuellen.
+
+(Er bricht die Tuer des Gewoelbes auf.)
+
+PARIS
+Ha, der verbannte, stolze Montague,
+Der Juliens Vetter mordete; man glaubt,
+An diesem Grame starb das holde Wesen.
+Hier kommt er jetzt, um niedertraechtgen Schimpf
+Den Leichen anzutun; ich will ihn greifen!
+
+(Tritt hervor.)
+
+Lass dein verruchtes Werk, du Montague!
+Wird Rache uebern Tod hinaus verfolgt?
+Verdammter Bube, ich verhafte dich;
+Gehorch und folge mir, denn du musst sterben.
+
+ROMEO
+Fuerwahr, das muss ich; darum kam ich her.
+Versuch nicht, guter Juengling, den Verzweifelnden!
+Entflieh und lass mich; denke dieser Toten!
+Lass sie dich schrecken!--Ich beschwoer dich, Juengling,
+Lad auf mein Haupt nicht eine neue Suende,
+Wenn du zur Wut mich reizest; geh, o geh,
+Bei Gott, ich liebe mehr dich wie mich selbst,
+Denn gegen mich gewaffnet komm ich her.
+Fort, eile, leb und nenn barmherzig ihn,
+Den Rasenden, der dir gebot zu fliehn!
+
+PARIS
+Ich kuemmre mich um dein Beschwoeren nicht
+Und greife dich als Missetaeter hier.
+
+ROMEO
+Willst du mich zwingen?  Knabe, sieh dich vor!
+
+(Sie fechten.)
+
+PAGE
+Sie fechten!  Gott, ich will die Wache rufen.
+
+PARIS
+O ich bin hin!--
+
+(Faellt.)
+
+ Hast du Erbarmen, oeffne
+Die Gruft und lege mich zu Julien.
+
+(Er stirbt.)
+
+ROMEO
+Auf Ehr, ich wills.--Lasst sein Gesicht mich schaun.
+Mercutios edler Vetter ists, Graf Paris.
+Was sagte doch mein Diener, weil wir ritten,
+Als die bestuermte Seel es nicht vernahm?
+Ich glaube, Julia habe sich mit Paris
+Vermaehlen sollen: sagt' er mir nicht so?
+Wie, oder traeumt ichs?  Oder bild ichs mir
+Im Wahnsinn ein, weil er von Julien sprach?
+O gib mir deine Hand, du, so wie ich,
+Ins Buch des herben Ungluecks eingezeichnet!
+Ich bette dich in eine stolze Gruft.
+Doch Gruft?  Nein, helle Woelbung, Jungerschlagner!
+Denn hier liegt Julia: ihre Schoenheit macht
+Dies Grab zur Feierhalle voll von Licht.
+Toter, lieg da, von totem Mann begraben!
+
+(Er legt Paris in das Begraebnis.)
+
+Wie oft sind Menschen, schon des Todes Raub,
+Noch froehlich worden!  Ihre Waerter nennens
+Den letzten Lebensblitz.  Wohl mag nun dies
+Ein Blitz mir heissen.--O mein Herz!  Mein Weib!
+Der Tod, der deines Odems Balsam sog,
+Hat ueber deine Schoenheit nichts vermocht.
+Noch bist du nicht besiegt; der Schoenheit Fahne
+Weht purpurn noch auf Lipp und Wange dir;
+Hier pflanzte nicht der Tod sein bleiches Banner.--
+Liegst du da, Tybalt, in dem blutgen Tuch?
+O welchen groessern Dienst kann ich dir tun,
+Als mit der Hand, die deine Jugend faellte,
+Des Jugend, der dein Feind war, zu zerreissen?
+Vergib mir, Vetter!--Liebe Julia,
+Warum bist du so schoen noch?  Soll ich glauben,
+Der koerperlose Tod entbrenn in Lieb
+Und der verhasste, hagre Unhold halte
+Als seine Buhle hier im Dunkeln dich?
+Aus Furcht davor will ich dich nie verlassen
+Und will aus diesem Palast dichter Nacht
+Nie wieder weichen.  Hier, hier will ich bleiben
+Mit Wuermern, so dir Dienerinnen sind.
+O hier bau ich die ewge Ruhstatt mir
+Und schuettle von dem lebensmueden Leibe
+Das Joch feindseliger Gestirne.--Augen,
+Blickt euer Letztes!  Arme, nehmt die letzte
+Umarmung!  Und, o Lippen, ihr, die Tore
+Des Odems, siegelt mit rechtmaessgem Kusse
+Den ewigen Vertrag dem Wuchrer Tod.
+Komm, bittrer Fuehrer, widriger Gefaehrt,
+Verzweifelter Pilot!  Nun treib auf einmal
+Dein sturmerkranktes Schiff in Felsenbrandung!
+Dies auf dein Wohl, wo du auch stranden magst!
+Dies meiner Lieben!--
+
+(Er trinkt.)
+
+ O wackrer Apotheker,
+Dein Trank wirkt schnell.--Und so im Kusse sterb ich.
+
+(Er stirbt, Bruder Lorenzo kommt vom andern Ende des Kirchhofes
+mit Laterne Brecheisen und Spaten.)
+
+LORENZO
+Helf mir Sankt Franz!  Wie oft sind ueber Graeber
+Nicht meine alten Fuesse heut gestolpert.
+Wer ist da?
+Wer ists, der noch so spaet zu Toten geht?
+
+{"Who is it that consorts, so late, the dead?" Dieser Vers findet
+sich in der Fassung des "Project Gutenberg Shakespeare Team's",
+fehlt aber in allen anderen mir bekannten Ausgaben.}
+
+BALTHASAR
+Ein Freund, und einer, dem Ihr wohl bekannt.
+
+LORENZO
+Gott segne dich!  Sag mir, mein guter Freund,
+Welch eine Fackel ists, die dort ihr Licht
+Umsonst den Wuermern leiht und blinden Schaedeln?
+Mir scheint, sie brennt in Capulets Begraebnis.
+
+BALTHASAR
+Ja, wuerdger Pater, und mein Herr ist dort,
+Ein Freund von Euch.
+
+LORENZO
+ Wer ist es?
+
+BALTHASAR
+ Romeo.
+
+LORENZO
+Wie lange schon?
+
+BALTHASAR
+ Voll eine halbe Stunde.
+
+LORENZO
+Geh mit mir zu der Gruft!
+
+BALTHASAR
+ Ich darf nicht, Herr.
+Mein Herr weiss anders nicht, als ich sei fort,
+Und drohte furchtbarlich den Tod mir an,
+Blieb ich, um seinen Vorsatz auszuspaehn.
+
+LORENZO
+So bleib, ich geh allein.--Ein Graun befaellt mich;
+Oh, ich befuerchte sehr ein schlimmes Unglueck!
+
+BALTHASAR
+Derweil ich unter dieser Eibe schlief,
+Traeumt ich, mein Herr und noch ein andrer foechten,
+Und er erschluege jenen.
+
+LORENZO
+ Romeo?
+
+(Er geht weiter nach vorn.)
+
+O wehe, weh mir!  Was fuer Blut befleckt
+Die Steine hier an dieses Grabmals Schwelle?
+Was wollen diese herrenlosen Schwerter,
+Dass sie verfaerbt hier liegen an der Staette
+Des Friedens?
+
+(Er geht in das Begraebnis.)
+
+ Romeo?--Ach, bleich!--Wer sonst?
+Wie?  Paris auch?  Und in sein Blut getaucht?
+O welche unmitleidge Stund ist schuld
+An dieser klaeglichen Begebenheit?--
+Das Fraeulein regt sich.
+
+JULIA (erwachend.)
+O Trostesbringer!  Wo ist mein Gemahl?
+Ich weiss recht gut noch, wo ich sollte sein;
+Da bin ich auch.  Wo ist mein Romeo?
+
+(Geraeusch von Kommenden.)
+
+LORENZO
+Ich hoere Laerm.--Kommt, Fraeulein, flieht die Grube
+Des Tods, der Seuchen, des erzwungnen Schlafs;
+Denn eine Macht, zu hoch dem Widerspruch,
+Hat unsern Rat vereitelt.  Komm, o komm!
+Dein Gatte liegt an deinem Busen tot,
+Und Paris auch; komm, ich versorge dich
+Bei einer Schwesternschaft von heilgen Nonnen.
+Verweil mit Fragen nicht; die Wache kommt.
+Geh, gutes Kind!
+
+(Geraeusch hinter der Szene.)
+
+ Ich darf nicht laenger bleiben.
+
+(Ab.)
+
+JULIA
+Geh nur, entweich, denn ich will nicht von hinnen.--
+
+(Bruder Lorenzo geht ab.)
+
+Was ist das hier?  Ein Becher, festgeklemmt
+In meines Trauten Hand?--Gift, seh ich, war
+Sein Ende vor der Zeit.--O Boeser!  Alles
+Zu trinken, keinen guetgen Tropfen mir
+Zu goennen, der mich zu dir braecht?--Ich will
+Dir deine Lippen kuessen.  Ach, vielleicht
+Haengt noch ein wenig Gift daran und laesst mich
+An einer Labung sterben.
+
+(Sie kuesst ihn.)
+
+ Deine Lippen
+Sind warm.
+
+ERSTER WAeCHTER (hinter der Szene.)
+ Wo ist es, Knabe?  Fuehr uns!
+
+JULIA
+Wie?  Laerm?--Dann schnell nur!
+
+(Sie ergreift Romeos Dolch.)
+
+ O willkommner Dolch!
+
+(Sie ergreift Romeos Dolch.)
+
+Dies werde deine Scheide.
+
+(Ersticht sich.)
+
+ Roste da
+Und lass mich sterben!
+
+(Sie faellt auf Romeos Leiche und stirbt.
+Waechter mit dem Pagen des Paris.)
+
+PAGE
+Dies ist der Ort, da, wo die Fackel brennt.
+
+ERSTER WAeCHTER
+Der Boden ist voll Blut; durchsucht den Kirchhof,
+Ein paar von euch; geht, greifet, wen ihr trefft.
+
+(Einige von der Wache ab.)
+
+Betruebt zu sehn!  Hier liegt der Graf erschlagen,
+Und Julia blutend, warm und kaum verschieden,
+Die schon zwei Tage hier begraben lag.--
+Geht, sagts dem Fuersten!  Weckt die Capulets!
+Lauft zu den Montagues!  Ihr andern sucht!
+
+(Andre Waechter ab.)
+
+Wir sehn den Grund, der diesen Jammer traegt;
+Allein den wahren Grund des bittern Jammers
+Erfahren wir durch naeh're Kundschaft nur.
+
+(Einige von der Wache kommen mit Balthasar zurueck.)
+
+ZWEITER WAeCHTER
+Hier ist der Diener Romeos; wir fanden
+Ihn auf dem Kirchhof.
+
+ERSTER WAeCHTER
+Bewahrt ihn sicher, bis der Fuerst erscheint!
+
+([Ein andrer] Andere Waechter kommen zurueck mit Lorenzo.)
+
+DRITTER WAeCHTER
+Hier ist ein Moench, der zittert, weint und aechzt;
+Wir nahmen ihm den Spaten und die Haue,
+Als er von jener Seit des Kirchhofs kam.
+
+ERSTER WAeCHTER
+Verdaechtges Zeichen!  Haltet auch den Moench!
+
+(Der Prinz und sein Gefolge.)
+
+PRINZ
+Was fuer ein Unglueck ist so frueh schon wach,
+Das Uns aus Unsrer Morgenruhe stoert?
+
+(Capulet, Graefin Capulet und andre kommen.)
+
+CAPULET
+Was ists, dass draussen so die Leute schrein?
+
+GRAeFIN CAPULET
+Das Volk ruft auf den Strassen: "Romeo"
+Und "Julia" und "Paris"; alles rennt
+Mit lautem Ausruf unserm Grabmal zu.
+
+PRINZ
+Welch Schrecken ists, das Unser Ohr betaeubt?
+
+ERSTER WAeCHTER
+Durchlauchtger Herr, entleibt liegt hier Graf Paris;
+Tot Romeo; und Julia, tot zuvor,
+Noch warm und erst getoetet.
+
+PRINZ
+Sucht, spaeht, erforscht die Taeter dieser Greuel!
+
+ERSTER WAeCHTER
+Hier ist ein Moench und Romeos Bedienter;
+Man fand Geraet bei ihnen, das die Graeber
+Der Toten aufzubrechen dient.
+
+CAPULET
+ O Himmel!
+O Weib!  Sieh hier, wie unsre Tochter blutet.
+Der Dolch hat sich verirrt; sieh seine Scheide
+Liegt ledig auf dem Ruecken Montagues,
+Er selbst steckt fehl in unsrer Tochter Busen.
+
+GRAeFIN CAPULET
+O weh mir!  Dieser Todesanblick mahnt
+Wie Grabgelaeut mein Alter an die Grube.
+
+(Montague und andre kommen.)
+
+PRINZ
+Komm, Montague!  Frueh hast du dich erhoben,
+Um frueh gefallen deinen Sohn zu sehn.
+
+MONTAGUE
+Ach, gnaedger Fuerst, mein Weib starb diese Nacht;
+Gram um des Sohnes Bann entseelte sie.
+Welch neues Leid bricht auf mein Alter ein?
+
+PRINZ
+Schau hin, und du wirst sehn.
+
+MONTAGUE
+O Ungeratner!  Was ist das fuer Sitte,
+Vor deinem Vater dich ins Grab zu draengen?
+
+PRINZ
+Versiegelt noch den Mund des Ungestuems,
+Bis wir die Dunkelheiten aufgehellt
+Und ihren Quell und wahren Ursprung wissen.
+Dann will ich Eurer Leiden Hauptmann sein
+Und selbst zum Tod Euch fuehren.--Still indes!
+Das Missgeschick sei Sklave der Geduld. -
+Fuehrt die verdaechtigen Personen vor!
+
+LORENZO
+Mich trifft, obschon den Unvermoegendsten,
+Am meisten der Verdacht des grausen Mordes,
+Weil Zeit und Ort sich gegen mich erklaert.
+Hier steh ich, mich verdammend und verteidgend,
+Der Klaeger und der Anwalt meiner selbst.
+
+PRINZ
+So sag ohn Umschweif, was du hievon weisst!
+
+LORENZO
+Kurz will ich sein, denn kurze Frist des Atems
+Versagt gedehnte Reden. Romeo,
+Der tot hier liegt, war dieser Julia Gatte,
+Und sie, die tot hier liegt, sein treues Weib.
+Ich traute heimlich sie, ihr Hochzeittag
+War Tybalts letzter, des unzeitger Tod
+Den jungen Gatten aus der Stadt verbannte;
+Und Julia weint' um ihn, nicht um den Vetter.
+Ihr, um den Gram aus ihrer Brust zu treiben,
+Verspracht und wolltet sie dem Grafen Paris
+Vermaehlen mit Gewalt.  Da kommt sie zu mir
+Mit wildem Blick, heisst mich auf Mittel sinnen,
+Um dieser zweiten Heirat zu entgehn,
+Sonst wollt in meiner Zelle sie sich toeten.
+Da gab ich, so belehrt durch meine Kunst,
+Ihr einen Schlaftrunk; er bewies sich wirksam
+Nach meiner Absicht, denn er goss den Schein
+Des Todes ueber sie.  Indessen schrieb ich
+An Romeo, dass er sich herbegaebe
+Und huelf aus dem erborgten Grab sie holen
+In dieser Schreckensnacht, als um die Zeit,
+Wo jenes Trankes Kraft erloesche.  Doch
+Den Traeger meines Briefs, den Bruder Markus,
+Hielt Zufall auf, und gestern abend bracht er
+Ihn mir zurueck.  Nun ging ich ganz allein
+Um die bestimmte Stunde des Erwachens,
+Sie zu befrein aus ihrer Ahnen Gruft,
+Und dacht in meiner Zelle sie zu bergen,
+Bis ich es Romeo berichten koennte.
+Doch wie ich kam, Minuten frueher nur,
+Eh sie erwacht', fand ich hier tot zu frueh
+Den treuen Romeo, den edlen Paris.
+Jetzt wacht' sie auf; ich bat sie, fortzugehn
+Und mit Geduld des Himmels Hand zu tragen;
+Doch da verscheucht' ein Laerm mich aus der Gruft.
+Sie, in Verzweiflung, wollte mir nicht folgen
+Und tat, so scheints, sich selbst ein Leides an.
+Dies weiss ich nur; und ihre Heirat war
+Der Waerterin vertraut.  Ist etwas hier
+Durch mich verschuldet, lasst mein altes Leben,
+Nur wenig Stunden vor der Zeit, der Haerte
+Des strengsten Richterspruchs geopfert werden.
+
+PRINZ
+Wir kennen dich als einen heilgen Mann.--
+Wo ist der Diener Romeos?  Was sagt er?
+
+BALTHASAR
+Ich brachte meinem Herrn von Juliens Tod
+Die Zeitung, und er ritt von Mantua
+In Eil zu diesem Platz, zu diesem Grabmal.
+Den Brief hier gab er mir fuer seinen Vater,
+Und drohte Tod mir, als er in die Gruft ging,
+Wo ich mich nicht entfernt und dort ihn liesse.
+
+PRINZ
+Gib mir den Brief; ich will ihn ueberlesen.--
+Wo ist der Bub des Grafen, der die Wache
+Geholt?--Sag, Bursch, was machte hier dein Herr?
+
+PAGE
+Er kam, um Blumen seiner Braut aufs Grab
+Zu streun, und hiess mich fern stehn, und das tat ich.
+Drauf naht' sich wer mit Licht, das Grab zu oeffnen,
+Und gleich zog gegen ihn mein Herr den Degen;
+Alsbald lief ich davon und holte Wache.
+
+PRINZ
+Hier dieser Brief bewaehrt das Wort des Moenchs,
+Den Liebesbund, die Zeitung ihres Todes;
+Auch schreibt er, dass ein armer Apotheker
+Ihm Gift verkauft, womit er gehen wolle
+Zu Juliens Gruft, um neben ihr zu sterben.--
+Wo sind sie, diese Feinde?--Capulet, Montague!
+Seht, welch ein Fluch auf eurem Hasse ruht,
+Dass Liebe eure Freuden toeten muss!
+Und ich, weil ich dem Zwiespalt nachgesehn,
+Verlor auch zwei Verwandte.  Alle buessen.
+
+CAPULET
+O Bruder Montague, gib mir die Hand!
+Das ist das Leibgedinge meiner Tochter,
+Denn mehr kann ich nicht fordern.
+
+MONTAGUE
+ Aber ich
+Vermag dir mehr zu geben; denn ich will
+Aus klarem Gold ihr Bildnis fertgen lassen.
+Solang Verona seinen Namen traegt,
+Komm nie ein Bild an Wert dem Bilde nah
+Der treuen, liebevollen Julia.
+
+CAPULET
+So reich will ich es Romeo bereiten.
+O arme Opfer unsrer Zwistigkeiten!
+
+PRINZ
+Nur duestern Frieden bringt uns dieser Morgen;
+Die Sonne scheint, verhuellt vor Weh, zu weilen.
+Kommt, offenbart mir ferner, was verborgen,
+Ich will dann strafen oder Gnad erteilen,
+Denn nie verdarben Liebende noch so
+Wie diese: Julia und ihr Romeo.
+
+(Alle ab.)
+
+
+
+Ende dieses Projekt Gutenberg Etextes Romeo und Julia, von
+William Shakespeare (Uebersetzt von August Wilhelm von Schlegel)
+
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK, ROMEO UND JULIA ***
+
+This file should be named 7gs1610.txt or 7gs1610.zip
+Corrected EDITIONS of our eBooks get a new NUMBER, 7gs1611.txt
+VERSIONS based on separate sources get new LETTER, 7gs1610a.txt
+
+Project Gutenberg eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the US
+unless a copyright notice is included.  Thus, we usually do not
+keep eBooks in compliance with any particular paper edition.
+
+We are now trying to release all our eBooks one year in advance
+of the official release dates, leaving time for better editing.
+Please be encouraged to tell us about any error or corrections,
+even years after the official publication date.
+
+Please note neither this listing nor its contents are final til
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg eBooks is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.
+
+Most people start at our Web sites at:
+http://gutenberg.net or
+http://promo.net/pg
+
+These Web sites include award-winning information about Project
+Gutenberg, including how to donate, how to help produce our new
+eBooks, and how to subscribe to our email newsletter (free!).
+
+
+Those of you who want to download any eBook before announcement
+can get to them as follows, and just download by date.  This is
+also a good way to get them instantly upon announcement, as the
+indexes our cataloguers produce obviously take a while after an
+announcement goes out in the Project Gutenberg Newsletter.
+
+http://www.ibiblio.org/gutenberg/etext04 or
+ftp://ftp.ibiblio.org/pub/docs/books/gutenberg/etext04
+
+Or /etext03, 02, 01, 00, 99, 98, 97, 96, 95, 94, 93, 92, 92, 91 or 90
+
+Just search by the first five letters of the filename you want,
+as it appears in our Newsletters.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any eBook selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.   Our
+projected audience is one hundred million readers.  If the value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour in 2002 as we release over 100 new text
+files per month:  1240 more eBooks in 2001 for a total of 4000+
+We are already on our way to trying for 2000 more eBooks in 2002
+If they reach just 1-2% of the world's population then the total
+will reach over half a trillion eBooks given away by year's end.
+
+The Goal of Project Gutenberg is to Give Away 1 Trillion eBooks!
+This is ten thousand titles each to one hundred million readers,
+which is only about 4% of the present number of computer users.
+
+Here is the briefest record of our progress (* means estimated):
+
+eBooks Year Month
+
+    1  1971 July
+   10  1991 January
+  100  1994 January
+ 1000  1997 August
+ 1500  1998 October
+ 2000  1999 December
+ 2500  2000 December
+ 3000  2001 November
+ 4000  2001 October/November
+ 6000  2002 December*
+ 9000  2003 November*
+10000  2004 January*
+
+
+The Project Gutenberg Literary Archive Foundation has been created
+to secure a future for Project Gutenberg into the next millennium.
+
+We need your donations more than ever!
+
+As of February, 2002, contributions are being solicited from people
+and organizations in: Alabama, Alaska, Arkansas, Connecticut,
+Delaware, District of Columbia, Florida, Georgia, Hawaii, Illinois,
+Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Massachusetts,
+Michigan, Mississippi, Missouri, Montana, Nebraska, Nevada, New
+Hampshire, New Jersey, New Mexico, New York, North Carolina, Ohio,
+Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South
+Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West
+Virginia, Wisconsin, and Wyoming.
+
+We have filed in all 50 states now, but these are the only ones
+that have responded.
+
+As the requirements for other states are met, additions to this list
+will be made and fund raising will begin in the additional states.
+Please feel free to ask to check the status of your state.
+
+In answer to various questions we have received on this:
+
+We are constantly working on finishing the paperwork to legally
+request donations in all 50 states.  If your state is not listed and
+you would like to know if we have added it since the list you have,
+just ask.
+
+While we cannot solicit donations from people in states where we are
+not yet registered, we know of no prohibition against accepting
+donations from donors in these states who approach us with an offer to
+donate.
+
+International donations are accepted, but we don't know ANYTHING about
+how to make them tax-deductible, or even if they CAN be made
+deductible, and don't have the staff to handle it even if there are
+ways.
+
+Donations by check or money order may be sent to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+Contact us if you want to arrange for a wire transfer or payment
+method other than by check or money order.
+
+The Project Gutenberg Literary Archive Foundation has been approved by
+the US Internal Revenue Service as a 501(c)(3) organization with EIN
+[Employee Identification Number] 64-622154.  Donations are
+tax-deductible to the maximum extent permitted by law.  As fund-raising
+requirements for other states are met, additions to this list will be
+made and fund-raising will begin in the additional states.
+
+We need your donations more than ever!
+
+You can get up to date donation information online at:
+
+http://www.gutenberg.net/donation.html
+
+
+***
+
+If you can't reach Project Gutenberg,
+you can always email directly to:
+
+Michael S. Hart <hart@pobox.com>
+
+Prof. Hart will answer or forward your message.
+
+We would prefer to send you information by email.
+
+
+**The Legal Small Print**
+
+
+(Three Pages)
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN EBOOKS**START***
+Why is this "Small Print!" statement here? You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this eBook, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault. So, among other things, this "Small Print!" statement
+disclaims most of our liability to you. It also tells you how
+you may distribute copies of this eBook if you want to.
+
+*BEFORE!* YOU USE OR READ THIS EBOOK
+By using or reading any part of this PROJECT GUTENBERG-tm
+eBook, you indicate that you understand, agree to and accept
+this "Small Print!" statement. If you do not, you can receive
+a refund of the money (if any) you paid for this eBook by
+sending a request within 30 days of receiving it to the person
+you got it from. If you received this eBook on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM EBOOKS
+This PROJECT GUTENBERG-tm eBook, like most PROJECT GUTENBERG-tm eBooks,
+is a "public domain" work distributed by Professor Michael S. Hart
+through the Project Gutenberg Association (the "Project").
+Among other things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties. Special rules, set forth
+below, apply if you wish to copy and distribute this eBook
+under the "PROJECT GUTENBERG" trademark.
+
+Please do not use the "PROJECT GUTENBERG" trademark to market
+any commercial products without permission.
+
+To create these eBooks, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works. Despite these efforts, the Project's eBooks and any
+medium they may be on may contain "Defects". Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other eBook medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] Michael Hart and the Foundation (and any other party you may
+receive this eBook from as a PROJECT GUTENBERG-tm eBook) disclaims
+all liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this eBook within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from. If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy. If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS EBOOK IS OTHERWISE PROVIDED TO YOU "AS-IS". NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE EBOOK OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold Michael Hart, the Foundation,
+and its trustees and agents, and any volunteers associated
+with the production and distribution of Project Gutenberg-tm
+texts harmless, from all liability, cost and expense, including
+legal fees, that arise directly or indirectly from any of the
+following that you do or cause:  [1] distribution of this eBook,
+[2] alteration, modification, or addition to the eBook,
+or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this eBook electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     eBook or this "small print!" statement.  You may however,
+     if you wish, distribute this eBook in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word
+     processing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The eBook, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The eBook may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the eBook (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          eBook in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the eBook refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Foundation of 20% of the
+     gross profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Literary Archive Foundation"
+     the 60 days following each date you prepare (or were
+     legally required to prepare) your annual (or equivalent
+     periodic) tax return.  Please contact us beforehand to
+     let us know your plans and to work out the details.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+Project Gutenberg is dedicated to increasing the number of
+public domain and licensed works that can be freely distributed
+in machine readable form.
+
+The Project gratefully accepts contributions of money, time,
+public domain materials, or royalty free copyright licenses.
+Money should be paid to the:
+"Project Gutenberg Literary Archive Foundation."
+
+If you are interested in contributing scanning equipment or
+software or other items, please contact Michael Hart at:
+hart@pobox.com
+
+[Portions of this eBook's header and trailer may be reprinted only
+when distributed free of all fees.  Copyright (C) 2001, 2002 by
+Michael S. Hart.  Project Gutenberg is a TradeMark and may not be
+used in any sales of Project Gutenberg eBooks or other materials be
+they hardware or software or any other related product without
+express permission.]
+
+*END THE SMALL PRINT! FOR PUBLIC DOMAIN EBOOKS*Ver.02/11/02*END*
+

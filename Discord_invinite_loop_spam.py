@@ -4,7 +4,7 @@ from random import randint
 
 var = 1
 Zufallszahl = randint(60, 140)
-ran = randint(1, 8)
+ran = randint(1, 10)
 randomtime = randint(1, 4)
 
 

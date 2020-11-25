@@ -11,8 +11,6 @@ while var == 1:
     pyautogui.press("f4")
     time.sleep(1)
     pyautogui.click()
-    pyautogui.click()
-    pyautogui.click()
-    pyautogui.click()
+    pyautogui.doubleClick()
  
     time.sleep(4)

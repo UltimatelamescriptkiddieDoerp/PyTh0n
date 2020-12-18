@@ -3,9 +3,9 @@ from random import randint
 
 
 var = 1
-Zufallszahl = randint(60, 140)
-ran = randint(1, 11)
-randomtime = randint(1, 4)
+Zufallszahl = randint(65, 180)
+ran = randint(1, 12)
+randomtime = randint(2, 6)
 
 
 time.sleep(10)
@@ -23,7 +23,7 @@ while var == 1:
         pyautogui.press("enter")
         time.sleep(randomtime)
     if ran == 3:
-        pyautogui.write("Leute lasst mal battlen")
+        pyautogui.write("ich geh ab wie kackige Kacke")
         pyautogui.press("enter")
         time.sleep(randomtime)
     if ran == 4:
